@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:18,094] Register - step 01: open register page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:19,730] Register - step 02: enter to firstname textbox with value is 'Automation'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:19,790] Register - step 03: enter to lastName textbox with value is 'FC'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:19,834] Register - step 04: enter to email textbox with value is 'automationfc9981@hotmail.com'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:19,919] Register - step 05: enter to password textbox with value is '123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:20,758] Register - step 06: enter to password textbox with value is '123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:20,802] Register - step 07: click register button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:21,738] Register - step 08: verify register success message is displayed 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:21,776] Register - step 09: click logout button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:22,594] Login - step 01: open login page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:23,193] Login - step 02: enter email to textbox with value is 'automationfc9981@hotmail.com'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:23,379] Login - step 03: enter password to textbox with value is '123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:23,418] Login - step 04: click login button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:24,245] Login - step 05: Verify 'My Account' link is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:24,285] My Account - step 01: Navigate 'My Account' page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:24,785] My Account - step 02: Verify 'Customer Page' link is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:34,834] My Account - step 03: Verify 'First Name' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:34,872] My Account - step 04: Verify 'Last Name' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:34,909] My Account - step 05: Verify 'Email' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:34,942] OS name = mac os x
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-09-08 11:45:34,943] Driver instance name = firefoxdriver: firefox on mac (03d2a3f2-abb8-4fc7-9e27-f2c586f469f2)
+<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-08T04:45:12Z" name="NopCommerce" finished-at="2022-09-08T04:45:35Z" duration-ms="22659">
+    <groups>
+    </groups>
+    <test started-at="2022-09-08T04:45:12Z" name="Run on firefox" finished-at="2022-09-08T04:45:35Z" duration-ms="22659">
+      <class name="com.nopcommerce.user.Level_18_Data_Driven">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_18_Data_Driven@a1f72f5]" started-at="2022-09-08T04:45:12Z" name="initBeforeSuite" finished-at="2022-09-08T04:45:12Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBeforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_18_Data_Driven@a1f72f5]" started-at="2022-09-08T04:45:12Z" name="beforeClass" finished-at="2022-09-08T04:45:18Z" duration-ms="5107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="User_01_Register()[pri:0, instance:com.nopcommerce.user.Level_18_Data_Driven@a1f72f5]" started-at="2022-09-08T04:45:18Z" name="User_01_Register" finished-at="2022-09-08T04:45:21Z" duration-ms="3684" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:18,094] Register - step 01: open register page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:19,730] Register - step 02: enter to firstname textbox with value is 'Automation'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:19,790] Register - step 03: enter to lastName textbox with value is 'FC'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:19,834] Register - step 04: enter to email textbox with value is 'automationfc9981@hotmail.com'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:19,919] Register - step 05: enter to password textbox with value is '123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:20,758] Register - step 06: enter to password textbox with value is '123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:20,802] Register - step 07: click register button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:21,738] Register - step 08: verify register success message is displayed 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_01_Register -->
+        <test-method signature="User_02_Login()[pri:0, instance:com.nopcommerce.user.Level_18_Data_Driven@a1f72f5]" started-at="2022-09-08T04:45:21Z" name="User_02_Login" finished-at="2022-09-08T04:45:24Z" duration-ms="2508" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:21,776] Register - step 09: click logout button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:22,594] Login - step 01: open login page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:23,193] Login - step 02: enter email to textbox with value is 'automationfc9981@hotmail.com'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:23,379] Login - step 03: enter password to textbox with value is '123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:23,418] Login - step 04: click login button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:24,245] Login - step 05: Verify 'My Account' link is displayed
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_02_Login -->
+        <test-method signature="User_03_My_Account()[pri:0, instance:com.nopcommerce.user.Level_18_Data_Driven@a1f72f5]" started-at="2022-09-08T04:45:24Z" name="User_03_My_Account" finished-at="2022-09-08T04:45:34Z" duration-ms="10657" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:24,285] My Account - step 01: Navigate 'My Account' page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:24,785] My Account - step 02: Verify 'Customer Page' link is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:34,834] My Account - step 03: Verify 'First Name' value is correctly
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:34,872] My Account - step 04: Verify 'Last Name' value is correctly
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:34,909] My Account - step 05: Verify 'Email' value is correctly
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_03_My_Account -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_18_Data_Driven@a1f72f5]" started-at="2022-09-08T04:45:34Z" name="afterClass" finished-at="2022-09-08T04:45:35Z" duration-ms="688" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:34,942] OS name = mac os x
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-09-08 11:45:34,943] Driver instance name = firefoxdriver: firefox on mac (03d2a3f2-abb8-4fc7-9e27-f2c586f469f2)
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level_18_Data_Driven -->
+    </test> <!-- Run on firefox -->
+  </suite> <!-- NopCommerce -->
+</testng-results>
