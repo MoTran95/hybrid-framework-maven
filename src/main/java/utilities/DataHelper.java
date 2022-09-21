@@ -32,5 +32,9 @@ public class DataHelper {
 	public String getPassword() {
 		return faker.internet().password(8,12,true,true);
 	}
+	public String getCompanyName() {
+		return faker.company().name();
+	}
+	
 	
 }

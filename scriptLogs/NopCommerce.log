@@ -111,3 +111,1065 @@
 [INFO ] [2022-09-08 12:02:13,696] My Account - step 05: Verify 'Email' value is correctly
 [INFO ] [2022-09-08 12:02:13,726] OS name = mac os x
 [INFO ] [2022-09-08 12:02:13,726] Driver instance name = firefoxdriver: firefox on mac (785bcdfe-cedc-4f92-92b9-c8689784181f)
+[INFO ] [2022-09-08 15:02:03,676] Register - step 01: open register page
+[INFO ] [2022-09-08 15:02:05,321] Register - step 02: enter to firstname textbox with value is 'Automation'
+[INFO ] [2022-09-08 15:02:05,423] Register - step 03: enter to lastName textbox with value is 'FC'
+[INFO ] [2022-09-08 15:02:05,484] Register - step 04: enter to email textbox with value is 'automationfc7476@hotmail.com'
+[INFO ] [2022-09-08 15:02:05,584] Register - step 05: enter to password textbox with value is '123456'
+[INFO ] [2022-09-08 15:02:06,439] Register - step 06: enter to password textbox with value is '123456'
+[INFO ] [2022-09-08 15:02:06,491] Register - step 07: click register button
+[INFO ] [2022-09-08 15:02:07,383] Register - step 08: verify register success message is displayed 
+[INFO ] [2022-09-08 15:02:07,700] Register - step 09: click logout button
+[INFO ] [2022-09-08 15:02:08,624] Login - step 01: open login page
+[INFO ] [2022-09-08 15:02:09,196] Login - step 02: enter email to textbox with value is 'automationfc7476@hotmail.com'
+[INFO ] [2022-09-08 15:02:09,245] Login - step 03: enter password to textbox with value is '123456'
+[INFO ] [2022-09-08 15:02:09,292] Login - step 04: click login button
+[INFO ] [2022-09-08 15:02:10,198] Login - step 05: Verify 'My Account' link is displayed
+[INFO ] [2022-09-08 15:02:10,244] My Account - step 01: Navigate 'My Account' page
+[INFO ] [2022-09-08 15:02:10,823] My Account - step 02: Verify 'Customer Page' link is displayed
+[INFO ] [2022-09-08 15:02:20,869] My Account - step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-09-08 15:02:20,905] My Account - step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-09-08 15:02:20,938] My Account - step 05: Verify 'Email' value is correctly
+[INFO ] [2022-09-08 15:02:20,974] OS name = mac os x
+[INFO ] [2022-09-08 15:02:20,974] Driver instance name = firefoxdriver: firefox on mac (cbb0f02d-dd54-4c1d-9282-fc53475e2e75)
+[INFO ] [2022-09-08 15:10:26,927] Register - step 01: open register page
+[INFO ] [2022-09-08 15:10:27,796] Register - step 02: enter to firstname textbox with value is 'Automation'
+[INFO ] [2022-09-08 15:10:27,880] Register - step 03: enter to lastName textbox with value is 'FC'
+[INFO ] [2022-09-08 15:10:27,941] Register - step 04: enter to email textbox with value is 'automationfc2402@hotmail.com'
+[INFO ] [2022-09-08 15:10:28,054] Register - step 05: enter to password textbox with value is '123456'
+[INFO ] [2022-09-08 15:10:28,906] Register - step 06: enter to password textbox with value is '123456'
+[INFO ] [2022-09-08 15:10:28,957] Register - step 07: click register button
+[INFO ] [2022-09-08 15:10:29,786] Register - step 08: verify register success message is displayed 
+[INFO ] [2022-09-08 15:10:30,006] Register - step 09: click logout button
+[INFO ] [2022-09-08 15:10:30,765] Login - step 01: open login page
+[INFO ] [2022-09-08 15:10:31,223] Login - step 02: enter email to textbox with value is 'automationfc2402@hotmail.com'
+[INFO ] [2022-09-08 15:10:31,279] Login - step 03: enter password to textbox with value is '123456'
+[INFO ] [2022-09-08 15:10:31,321] Login - step 04: click login button
+[INFO ] [2022-09-08 15:10:32,088] Login - step 05: Verify 'My Account' link is displayed
+[INFO ] [2022-09-08 15:10:32,145] My Account - step 01: Navigate 'My Account' page
+[INFO ] [2022-09-08 15:10:32,624] My Account - step 02: Verify 'Customer Page' link is displayed
+[INFO ] [2022-09-08 15:10:42,669] My Account - step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-09-08 15:10:42,708] My Account - step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-09-08 15:10:42,741] My Account - step 05: Verify 'Email' value is correctly
+[INFO ] [2022-09-08 15:10:42,779] OS name = mac os x
+[INFO ] [2022-09-08 15:10:42,779] Driver instance name = firefoxdriver: firefox on mac (02467485-6396-4954-b7f3-a838c360ea5e)
+[INFO ] [2022-09-10 08:57:42,715] Register - step 01: open register page
+[INFO ] [2022-09-10 08:57:44,113] Register - step 02: enter to firstname textbox with value is 'Automation'
+[INFO ] [2022-09-10 08:57:44,222] Register - step 03: enter to lastName textbox with value is 'FC'
+[INFO ] [2022-09-10 08:57:44,266] Register - step 04: enter to email textbox with value is 'automationfc4673@hotmail.com'
+[INFO ] [2022-09-10 08:57:44,357] Register - step 05: enter to password textbox with value is '123456'
+[INFO ] [2022-09-10 08:57:45,209] Register - step 06: enter to password textbox with value is '123456'
+[INFO ] [2022-09-10 08:57:45,246] Register - step 07: click register button
+[INFO ] [2022-09-10 08:57:46,270] Register - step 08: verify register success message is displayed 
+[INFO ] [2022-09-10 08:57:46,460] Register - step 09: click logout button
+[INFO ] [2022-09-10 08:57:47,108] Login - step 01: open login page
+[INFO ] [2022-09-10 08:57:47,754] Login - step 02: enter email to textbox with value is 'automationfc4673@hotmail.com'
+[INFO ] [2022-09-10 08:57:47,805] Login - step 03: enter password to textbox with value is '123456'
+[INFO ] [2022-09-10 08:57:47,845] Login - step 04: click login button
+[INFO ] [2022-09-10 08:57:48,544] Login - step 05: Verify 'My Account' link is displayed
+[INFO ] [2022-09-10 08:57:48,632] My Account - step 01: Navigate 'My Account' page
+[INFO ] [2022-09-10 08:57:49,218] My Account - step 02: Verify 'Customer Page' link is displayed
+[INFO ] [2022-09-10 08:57:59,260] My Account - step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-09-10 08:57:59,295] My Account - step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-09-10 08:57:59,323] My Account - step 05: Verify 'Email' value is correctly
+[INFO ] [2022-09-10 08:57:59,354] OS name = mac os x
+[INFO ] [2022-09-10 08:57:59,354] Driver instance name = firefoxdriver: firefox on mac (1165a17b-641d-4c9a-bd1b-a37b8e8edd6c)
+[INFO ] [2022-09-10 09:16:12,131] Register - step 01: open register page
+[INFO ] [2022-09-10 09:16:13,726] Register - step 02: enter to firstname textbox with value is 'Automation'
+[INFO ] [2022-09-10 09:16:13,812] Register - step 03: enter to lastName textbox with value is 'FC'
+[INFO ] [2022-09-10 09:16:13,874] Register - step 04: enter to email textbox with value is 'automationfc7418@hotmail.com'
+[INFO ] [2022-09-10 09:16:13,990] Register - step 05: enter to password textbox with value is '123456'
+[INFO ] [2022-09-10 09:16:14,911] Register - step 06: enter to password textbox with value is '123456'
+[INFO ] [2022-09-10 09:16:14,963] Register - step 07: click register button
+[INFO ] [2022-09-10 09:16:15,900] Register - step 08: verify register success message is displayed 
+[INFO ] [2022-09-10 09:16:16,157] Register - step 09: click logout button
+[INFO ] [2022-09-10 09:16:16,987] Login - step 01: open login page
+[INFO ] [2022-09-10 09:16:18,196] Login - step 02: enter email to textbox with value is 'automationfc7418@hotmail.com'
+[INFO ] [2022-09-10 09:16:18,258] Login - step 03: enter password to textbox with value is '123456'
+[INFO ] [2022-09-10 09:16:18,318] Login - step 04: click login button
+[INFO ] [2022-09-10 09:16:19,258] Login - step 05: Verify 'My Account' link is displayed
+[INFO ] [2022-09-10 09:16:19,307] My Account - step 01: Navigate 'My Account' page
+[INFO ] [2022-09-10 09:16:20,161] My Account - step 02: Verify 'Customer Page' link is displayed
+[INFO ] [2022-09-10 09:16:30,209] My Account - step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-09-10 09:16:30,243] My Account - step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-09-10 09:16:30,271] My Account - step 05: Verify 'Email' value is correctly
+[INFO ] [2022-09-10 09:16:30,305] OS name = mac os x
+[INFO ] [2022-09-10 09:16:30,305] Driver instance name = firefoxdriver: firefox on mac (7e4137fd-5bb6-4931-b99c-66372e4e3497)
+[INFO ] [2022-09-19 11:55:53,137] CustomerPage - step 01: input UserID with value is mngr439615
+[INFO ] [2022-09-19 11:55:53,270] CustomerPage - step 03: input password with value is upeqAgY
+[INFO ] [2022-09-19 11:55:53,318] CustomerPage - step 04: Click to login Button
+[INFO ] [2022-09-19 11:56:37,234] CustomerPage - step 05: input CustomerName with value is Peter
+[INFO ] [2022-09-19 11:56:37,277] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[INFO ] [2022-09-19 11:56:37,327] CustomerPage - step 05: input Address with value is 123 Peru
+[INFO ] [2022-09-19 11:56:37,366] CustomerPage - step 05: input City with value is Tampa
+[INFO ] [2022-09-19 11:56:37,415] CustomerPage - step 05: input State with value is FL
+[INFO ] [2022-09-19 11:56:37,461] CustomerPage - step 05: input Pin with value is 466250
+[INFO ] [2022-09-19 11:56:37,495] CustomerPage - step 05: input Mobile with value is 4555442476
+[INFO ] [2022-09-19 11:56:37,532] CustomerPage - step 05: input Email with value is tommy.sporer@gmail.com
+[INFO ] [2022-09-19 11:56:37,580] CustomerPage - step 05: input pass with value is m9!KAyOfH
+[INFO ] [2022-09-19 11:56:37,616] CustomerPage - step 04: Click to Submit Button
+[INFO ] [2022-09-19 11:57:12,383] CustomerPage - step 05: Verify message is shown correct
+[INFO ] [2022-09-19 11:57:12,429] CustomerPage - step 05: Verify CustomerName with value is Peter
+[INFO ] [2022-09-19 11:57:12,464] CustomerPage - step 05: Verify Date of birth with value is 1989-01-01
+[INFO ] [2022-09-19 11:57:12,504] CustomerPage - step 05: Verify Address with value is 123 Peru
+[INFO ] [2022-09-19 11:57:12,537] CustomerPage - step 05: Verify City with value is Tampa
+[INFO ] [2022-09-19 11:57:12,569] CustomerPage - step 05: Verify State with value is FL
+[INFO ] [2022-09-19 11:57:12,601] CustomerPage - step 05: Verify Pin with value is 466250
+[INFO ] [2022-09-19 11:57:12,634] CustomerPage - step 05: Verify Mobile with value is 4555442476
+[INFO ] [2022-09-19 11:57:12,666] CustomerPage - step 05: Verify Email with value is tommy.sporer@gmail.com
+[INFO ] [2022-09-19 11:57:12,700] OS name = mac os x
+[INFO ] [2022-09-19 11:57:12,701] Driver instance name = firefoxdriver: firefox on mac (a5bed30d-6604-479c-8395-4e87d331db41)
+[INFO ] [2022-09-19 11:59:46,300] CustomerPage - step 01: input UserID with value is mngr439615
+[INFO ] [2022-09-19 11:59:46,432] CustomerPage - step 03: input password with value is upeqAgY
+[INFO ] [2022-09-19 11:59:46,490] CustomerPage - step 04: Click to login Button
+[INFO ] [2022-09-19 12:00:30,032] CustomerPage - step 05: input CustomerName with value is Peter
+[INFO ] [2022-09-19 12:00:30,088] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[INFO ] [2022-09-19 12:00:30,175] CustomerPage - step 05: input Address with value is 123 Peru
+[INFO ] [2022-09-19 12:00:30,221] CustomerPage - step 05: input City with value is Tampa
+[INFO ] [2022-09-19 12:00:30,269] CustomerPage - step 05: input State with value is FL
+[INFO ] [2022-09-19 12:00:30,313] CustomerPage - step 05: input Pin with value is 466250
+[INFO ] [2022-09-19 12:00:30,360] CustomerPage - step 05: input Mobile with value is 4555442476
+[INFO ] [2022-09-19 12:00:30,405] CustomerPage - step 05: input Email with value is wilhemina.kassulke@gmail.com
+[INFO ] [2022-09-19 12:00:30,464] CustomerPage - step 05: input pass with value is Li&!LoeG!wT
+[INFO ] [2022-09-19 12:00:30,505] CustomerPage - step 04: Click to Submit Button
+[INFO ] [2022-09-19 12:00:59,378] CustomerPage - step 05: Verify message is shown correct
+[INFO ] [2022-09-19 12:00:59,426] CustomerPage - step 05: Verify CustomerName with value is Peter
+[INFO ] [2022-09-19 12:00:59,459] CustomerPage - step 05: Verify Date of birth with value is 1989-01-01
+[INFO ] [2022-09-19 12:00:59,493] CustomerPage - step 05: Verify Address with value is 123 Peru
+[INFO ] [2022-09-19 12:00:59,528] CustomerPage - step 05: Verify City with value is Tampa
+[INFO ] [2022-09-19 12:00:59,565] CustomerPage - step 05: Verify State with value is FL
+[INFO ] [2022-09-19 12:00:59,608] CustomerPage - step 05: Verify Pin with value is 466250
+[INFO ] [2022-09-19 12:00:59,641] CustomerPage - step 05: Verify Mobile with value is 4555442476
+[INFO ] [2022-09-19 12:00:59,672] CustomerPage - step 05: Verify Email with value is wilhemina.kassulke@gmail.com
+[INFO ] [2022-09-19 12:00:59,708] OS name = mac os x
+[INFO ] [2022-09-19 12:00:59,708] Driver instance name = firefoxdriver: firefox on mac (3971ace7-0285-4015-ac6c-e8085f4859fb)
+[2022-09-19 16:06:09,672] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-19 16:06:09,842] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-19 16:06:09,899] CustomerPage - step 04: Click to login Button
+[2022-09-19 16:06:59,460] CustomerPage - step 05: input CustomerName with value is Peter
+[2022-09-19 16:06:59,510] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[2022-09-19 16:06:59,586] CustomerPage - step 05: input Address with value is 123 Peru
+[2022-09-19 16:06:59,644] CustomerPage - step 05: input City with value is Tampa
+[2022-09-19 16:06:59,694] CustomerPage - step 05: input State with value is FL
+[2022-09-19 16:06:59,738] CustomerPage - step 05: input Pin with value is 466250
+[2022-09-19 16:06:59,781] CustomerPage - step 05: input Mobile with value is 4555442476
+[2022-09-19 16:06:59,822] CustomerPage - step 05: input Email with value is luke.borer@hotmail.com
+[2022-09-19 16:06:59,867] CustomerPage - step 05: input pass with value is I153cdcoEeG
+[2022-09-19 16:06:59,909] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:07:00,919] CustomerPage - step 05: Verify message is shown correct
+[2022-09-19 16:07:00,988] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-19 16:07:12,379] EditCustomer - steps 02: Enter CustomerID
+[2022-09-19 16:11:09,337] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-19 16:11:09,461] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-19 16:11:09,517] CustomerPage - step 04: Click to login Button
+[2022-09-19 16:11:24,028] CustomerPage - step 05: input CustomerName with value is Peter
+[2022-09-19 16:11:24,080] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[2022-09-19 16:11:24,155] CustomerPage - step 05: input Address with value is 123 Peru
+[2022-09-19 16:11:24,200] CustomerPage - step 05: input City with value is Tampa
+[2022-09-19 16:11:24,246] CustomerPage - step 05: input State with value is FL
+[2022-09-19 16:11:24,289] CustomerPage - step 05: input Pin with value is 466250
+[2022-09-19 16:11:24,332] CustomerPage - step 05: input Mobile with value is 4555442476
+[2022-09-19 16:11:24,373] CustomerPage - step 05: input Email with value is jarvis.howell@gmail.com
+[2022-09-19 16:11:24,427] CustomerPage - step 05: input pass with value is KN@yim^4NWK
+[2022-09-19 16:11:24,473] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:11:31,158] CustomerPage - step 05: Verify message is shown correct
+[2022-09-19 16:11:31,203] CustomerPage - step 05: Get customerID
+[2022-09-19 16:11:31,235] CustomerPage - step 05: Verify CustomerName with value is Peter68006
+[2022-09-19 16:11:31,269] CustomerPage - step 05: Verify Date of birth with value is 1989-01-01
+[2022-09-19 16:11:31,304] CustomerPage - step 05: Verify Address with value is 123 Peru
+[2022-09-19 16:11:31,341] CustomerPage - step 05: Verify City with value is Tampa
+[2022-09-19 16:11:31,380] CustomerPage - step 05: Verify State with value is FL
+[2022-09-19 16:11:31,414] CustomerPage - step 05: Verify Pin with value is 466250
+[2022-09-19 16:11:31,448] CustomerPage - step 05: Verify Mobile with value is 4555442476
+[2022-09-19 16:11:31,481] CustomerPage - step 05: Verify Email with value is jarvis.howell@gmail.com
+[2022-09-19 16:11:31,519] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-19 16:11:40,189] EditCustomer - steps 02: Enter CustomerID
+[2022-09-19 16:11:40,233] EditCustomer - steps 03: Click to submit button
+[2022-09-19 16:11:45,987] CustomerPage - step 05: input Address with value is 123 Paris
+[2022-09-19 16:11:46,041] CustomerPage - step 05: input City with value is Newyork
+[2022-09-19 16:11:46,096] CustomerPage - step 05: input State with value is CA
+[2022-09-19 16:11:46,145] CustomerPage - step 05: input Pin with value is 123456
+[2022-09-19 16:11:46,199] CustomerPage - step 05: input Mobile with value is 4555442999
+[2022-09-19 16:11:46,254] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:50:21,790] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-19 16:50:21,909] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-19 16:50:21,968] CustomerPage - step 04: Click to login Button
+[2022-09-19 16:51:09,348] CustomerPage - step 05: input CustomerName with value is Peter
+[2022-09-19 16:51:09,399] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[2022-09-19 16:51:09,454] CustomerPage - step 05: input Address with value is 123 Peru
+[2022-09-19 16:51:09,509] CustomerPage - step 05: input City with value is Tampa
+[2022-09-19 16:51:09,558] CustomerPage - step 05: input State with value is FL
+[2022-09-19 16:51:09,599] CustomerPage - step 05: input Pin with value is 466250
+[2022-09-19 16:51:09,639] CustomerPage - step 05: input Mobile with value is 4555442476
+[2022-09-19 16:51:09,683] CustomerPage - step 05: input Email with value is patricia.borer@gmail.com
+[2022-09-19 16:51:09,734] CustomerPage - step 05: input pass with value is !wXP9wPC
+[2022-09-19 16:51:09,778] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:51:15,873] CustomerPage - step 05: Verify message is shown correct
+[2022-09-19 16:51:15,917] CustomerPage - step 05: Get customerID
+[2022-09-19 16:51:15,947] CustomerPage - step 05: Verify CustomerName with value is Peter 38065
+[2022-09-19 16:51:15,981] CustomerPage - step 05: Verify Date of birth with value is 1989-01-01
+[2022-09-19 16:51:16,015] CustomerPage - step 05: Verify Address with value is 123 Peru
+[2022-09-19 16:51:16,049] CustomerPage - step 05: Verify City with value is Tampa
+[2022-09-19 16:51:16,090] CustomerPage - step 05: Verify State with value is FL
+[2022-09-19 16:51:16,124] CustomerPage - step 05: Verify Pin with value is 466250
+[2022-09-19 16:51:16,157] CustomerPage - step 05: Verify Mobile with value is 4555442476
+[2022-09-19 16:51:16,190] CustomerPage - step 05: Verify Email with value is patricia.borer@gmail.com
+[2022-09-19 16:51:16,230] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-19 16:51:29,232] EditCustomer - steps 02: Enter CustomerID
+[2022-09-19 16:51:29,278] EditCustomer - steps 03: Click to submit button
+[2022-09-19 16:51:40,319] CustomerPage - step 05: input Address with value is 123 Paris
+[2022-09-19 16:51:40,372] CustomerPage - step 05: input City with value is Newyork
+[2022-09-19 16:51:40,423] CustomerPage - step 05: input State with value is CA
+[2022-09-19 16:51:40,473] CustomerPage - step 05: input Pin with value is 123456
+[2022-09-19 16:51:40,529] CustomerPage - step 05: input Mobile with value is 4555442999
+[2022-09-19 16:51:40,579] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:51:41,651] Create New Account - steps 01 : Open url
+[2022-09-19 16:54:40,247] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-19 16:54:40,345] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-19 16:54:40,395] CustomerPage - step 04: Click to login Button
+[2022-09-19 16:54:52,595] CustomerPage - step 05: input CustomerName with value is Peter
+[2022-09-19 16:54:52,645] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[2022-09-19 16:54:52,719] CustomerPage - step 05: input Address with value is 123 Peru
+[2022-09-19 16:54:52,767] CustomerPage - step 05: input City with value is Tampa
+[2022-09-19 16:54:52,815] CustomerPage - step 05: input State with value is FL
+[2022-09-19 16:54:52,857] CustomerPage - step 05: input Pin with value is 466250
+[2022-09-19 16:54:52,907] CustomerPage - step 05: input Mobile with value is 4555442476
+[2022-09-19 16:54:52,949] CustomerPage - step 05: input Email with value is nereida.baumbach@yahoo.com
+[2022-09-19 16:54:53,008] CustomerPage - step 05: input pass with value is 1!G&$*$L
+[2022-09-19 16:54:53,053] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:54:54,110] CustomerPage - step 05: Verify message is shown correct
+[2022-09-19 16:54:54,156] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-19 16:55:01,105] EditCustomer - steps 02: Enter CustomerID
+[2022-09-19 16:55:01,137] Create New Account - steps 01 : Open url
+[2022-09-19 16:55:13,257] Create New Account - steps 02 : click to New account link
+[2022-09-19 16:55:22,321] Create New Account - steps 03 : Input customer id
+[2022-09-19 16:59:00,305] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-19 16:59:00,427] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-19 16:59:00,482] CustomerPage - step 04: Click to login Button
+[2022-09-19 16:59:12,097] CustomerPage - step 05: input CustomerName with value is Peter
+[2022-09-19 16:59:12,149] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[2022-09-19 16:59:12,278] CustomerPage - step 05: input Address with value is 123 Peru
+[2022-09-19 16:59:12,332] CustomerPage - step 05: input City with value is Tampa
+[2022-09-19 16:59:12,386] CustomerPage - step 05: input State with value is FL
+[2022-09-19 16:59:12,434] CustomerPage - step 05: input Pin with value is 466250
+[2022-09-19 16:59:12,479] CustomerPage - step 05: input Mobile with value is 4555442476
+[2022-09-19 16:59:12,528] CustomerPage - step 05: input Email with value is russel.grady@hotmail.com
+[2022-09-19 16:59:12,590] CustomerPage - step 05: input pass with value is HHpmm3D*X6
+[2022-09-19 16:59:12,644] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:59:19,751] CustomerPage - step 05: Verify message is shown correct
+[2022-09-19 16:59:19,796] CustomerPage - step 05: Get customerID
+[2022-09-19 16:59:19,825] CustomerPage - step 05: Verify CustomerName with value is Peter 16721
+[2022-09-19 16:59:19,859] CustomerPage - step 05: Verify Date of birth with value is 1989-01-01
+[2022-09-19 16:59:19,893] CustomerPage - step 05: Verify Address with value is 123 Peru
+[2022-09-19 16:59:19,931] CustomerPage - step 05: Verify City with value is Tampa
+[2022-09-19 16:59:19,964] CustomerPage - step 05: Verify State with value is FL
+[2022-09-19 16:59:19,997] CustomerPage - step 05: Verify Pin with value is 466250
+[2022-09-19 16:59:20,030] CustomerPage - step 05: Verify Mobile with value is 4555442476
+[2022-09-19 16:59:20,062] CustomerPage - step 05: Verify Email with value is russel.grady@hotmail.com
+[2022-09-19 16:59:20,097] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-19 16:59:30,876] EditCustomer - steps 02: Enter CustomerID
+[2022-09-19 16:59:30,918] EditCustomer - steps 03: Click to submit button
+[2022-09-19 16:59:37,149] CustomerPage - step 05: input Address with value is 123 Paris
+[2022-09-19 16:59:37,204] CustomerPage - step 05: input City with value is Newyork
+[2022-09-19 16:59:37,252] CustomerPage - step 05: input State with value is CA
+[2022-09-19 16:59:37,300] CustomerPage - step 05: input Pin with value is 123456
+[2022-09-19 16:59:37,354] CustomerPage - step 05: input Mobile with value is 4555442999
+[2022-09-19 16:59:37,408] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 16:59:38,389] Create New Account - steps 01 : Open url
+[2022-09-19 17:05:31,641] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-19 17:05:31,737] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-19 17:05:31,791] CustomerPage - step 04: Click to login Button
+[2022-09-19 17:06:53,745] CustomerPage - step 05: input CustomerName with value is Peter
+[2022-09-19 17:06:53,794] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[2022-09-19 17:06:53,865] CustomerPage - step 05: input Address with value is 123 Peru
+[2022-09-19 17:06:53,909] CustomerPage - step 05: input City with value is Tampa
+[2022-09-19 17:06:53,955] CustomerPage - step 05: input State with value is FL
+[2022-09-19 17:06:53,998] CustomerPage - step 05: input Pin with value is 466250
+[2022-09-19 17:06:54,043] CustomerPage - step 05: input Mobile with value is 4555442476
+[2022-09-19 17:06:54,085] CustomerPage - step 05: input Email with value is antoinette.goldner@gmail.com
+[2022-09-19 17:06:54,138] CustomerPage - step 05: input pass with value is wzRo2Yx5d
+[2022-09-19 17:06:54,180] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 17:06:55,137] CustomerPage - step 05: Verify message is shown correct
+[2022-09-19 17:06:55,172] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-19 17:07:17,760] EditCustomer - steps 02: Enter CustomerID
+[2022-09-19 17:07:17,790] Create New Account - steps 01 : Open url
+[2022-09-19 17:09:13,412] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-19 17:09:13,529] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-19 17:09:13,579] CustomerPage - step 04: Click to login Button
+[2022-09-19 17:09:54,724] CustomerPage - step 05: input CustomerName with value is Peter
+[2022-09-19 17:09:54,773] CustomerPage - step 05: input Date of birth with value is 01/01/1989
+[2022-09-19 17:09:54,832] CustomerPage - step 05: input Address with value is 123 Peru
+[2022-09-19 17:09:54,874] CustomerPage - step 05: input City with value is Tampa
+[2022-09-19 17:09:54,922] CustomerPage - step 05: input State with value is FL
+[2022-09-19 17:09:54,966] CustomerPage - step 05: input Pin with value is 466250
+[2022-09-19 17:09:55,007] CustomerPage - step 05: input Mobile with value is 4555442476
+[2022-09-19 17:09:55,049] CustomerPage - step 05: input Email with value is merri.hayes@hotmail.com
+[2022-09-19 17:09:55,100] CustomerPage - step 05: input pass with value is n%eVy9YL
+[2022-09-19 17:09:55,142] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 17:10:04,831] CustomerPage - step 05: Verify message is shown correct
+[2022-09-19 17:10:04,877] CustomerPage - step 05: Get customerID
+[2022-09-19 17:10:04,907] CustomerPage - step 05: Verify CustomerName with value is Peter 4754
+[2022-09-19 17:10:04,941] CustomerPage - step 05: Verify Date of birth with value is 1989-01-01
+[2022-09-19 17:10:04,976] CustomerPage - step 05: Verify Address with value is 123 Peru
+[2022-09-19 17:10:05,014] CustomerPage - step 05: Verify City with value is Tampa
+[2022-09-19 17:10:05,052] CustomerPage - step 05: Verify State with value is FL
+[2022-09-19 17:10:05,089] CustomerPage - step 05: Verify Pin with value is 466250
+[2022-09-19 17:10:05,122] CustomerPage - step 05: Verify Mobile with value is 4555442476
+[2022-09-19 17:10:05,155] CustomerPage - step 05: Verify Email with value is merri.hayes@hotmail.com
+[2022-09-19 17:10:05,192] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-19 17:10:17,994] EditCustomer - steps 02: Enter CustomerID
+[2022-09-19 17:10:18,037] EditCustomer - steps 03: Click to submit button
+[2022-09-19 17:10:24,717] CustomerPage - step 05: input Address with value is 123 Paris
+[2022-09-19 17:10:24,770] CustomerPage - step 05: input City with value is Newyork
+[2022-09-19 17:10:24,817] CustomerPage - step 05: input State with value is CA
+[2022-09-19 17:10:24,865] CustomerPage - step 05: input Pin with value is 123456
+[2022-09-19 17:10:24,917] CustomerPage - step 05: input Mobile with value is 4555442999
+[2022-09-19 17:10:24,967] CustomerPage - step 04: Click to Submit Button
+[2022-09-19 17:10:25,913] Create New Account - steps 01 : Open url
+[2022-09-19 17:10:30,943] Create New Account - steps 02 : click to New account link
+[2022-09-19 17:10:37,748] Create New Account - steps 03 : Input customer id
+[2022-09-19 17:10:37,792] Create New Account - steps 04 : Input initial deposit
+[2022-09-19 17:10:37,830] Create New Account - steps 04 : Click to submit
+[2022-09-20 10:09:43,039] OS name = mac os x
+[2022-09-20 10:09:43,040] 
+[2022-09-20 10:10:17,233] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-20 10:10:17,375] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-20 10:10:17,434] CustomerPage - step 04: Click to login Button
+[2022-09-20 10:11:27,624] CustomerPage - step 01: input CustomerName with value is Peter
+[2022-09-20 10:11:27,682] CustomerPage - step 02: input Date of birth with value is 01/01/1989
+[2022-09-20 10:11:27,742] CustomerPage - step 03: input Address with value is 123 Peru
+[2022-09-20 10:11:27,792] CustomerPage - step 04: input City with value is Tampa
+[2022-09-20 10:11:27,844] CustomerPage - step 05: input State with value is FL
+[2022-09-20 10:11:27,890] CustomerPage - step 06: input Pin with value is 466250
+[2022-09-20 10:11:27,934] CustomerPage - step 07: input Mobile with value is 4555442476
+[2022-09-20 10:11:27,977] CustomerPage - step 08: input Email with value is jesus.toy@yahoo.com
+[2022-09-20 10:11:28,025] CustomerPage - step 09: input pass with value is q4hCF$v*
+[2022-09-20 10:11:28,066] CustomerPage - step 10: Click to Submit Button
+[2022-09-20 10:11:29,088] CustomerPage - step 11: Verify message is shown correct
+[2022-09-20 10:11:29,123] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-20 10:11:38,708] EditCustomer - steps 02: Enter CustomerID
+[2022-09-20 10:11:38,744] Create New Account - steps 01 : Open url
+[2022-09-20 10:12:09,118] OS name = mac os x
+[2022-09-20 10:12:09,120] Driver instance name = firefoxdriver: firefox on mac (ce48a3ed-70ab-4433-a63d-3f4e9a51b268)
+[2022-09-20 10:13:13,894] CustomerPage - step 01: input UserID with value is mngr439615
+[2022-09-20 10:13:14,009] CustomerPage - step 03: input password with value is upeqAgY
+[2022-09-20 10:13:14,059] CustomerPage - step 04: Click to login Button
+[2022-09-20 10:13:38,981] CustomerPage - step 01: input CustomerName with value is Peter
+[2022-09-20 10:13:39,034] CustomerPage - step 02: input Date of birth with value is 01/01/1989
+[2022-09-20 10:13:39,095] CustomerPage - step 03: input Address with value is 123 Peru
+[2022-09-20 10:13:39,137] CustomerPage - step 04: input City with value is Tampa
+[2022-09-20 10:13:39,186] CustomerPage - step 05: input State with value is FL
+[2022-09-20 10:13:39,230] CustomerPage - step 06: input Pin with value is 466250
+[2022-09-20 10:13:39,273] CustomerPage - step 07: input Mobile with value is 4555442476
+[2022-09-20 10:13:39,315] CustomerPage - step 08: input Email with value is lon.cruickshank@yahoo.com
+[2022-09-20 10:13:39,368] CustomerPage - step 09: input pass with value is walZ!HBc5*o
+[2022-09-20 10:13:39,410] CustomerPage - step 10: Click to Submit Button
+[2022-09-20 10:13:52,341] CustomerPage - step 11: Verify message is shown correct
+[2022-09-20 10:13:52,386] CustomerPage - step 12: Get customerID
+[2022-09-20 10:13:52,414] CustomerPage - step 13: Verify CustomerName with value is Peter 81040
+[2022-09-20 10:13:52,446] CustomerPage - step 14: Verify Date of birth with value is 1989-01-01
+[2022-09-20 10:13:52,480] CustomerPage - step 15: Verify Address with value is 123 Peru
+[2022-09-20 10:13:52,520] CustomerPage - step 16: Verify City with value is Tampa
+[2022-09-20 10:13:52,564] CustomerPage - step 17: Verify State with value is FL
+[2022-09-20 10:13:52,598] CustomerPage - step 18: Verify Pin with value is 466250
+[2022-09-20 10:13:52,631] CustomerPage - step 19: Verify Mobile with value is 4555442476
+[2022-09-20 10:13:52,663] CustomerPage - step 20: Verify Email with value is lon.cruickshank@yahoo.com
+[2022-09-20 10:13:52,701] EditCustomer - steps 01 : Click to edit customer link
+[2022-09-20 10:14:01,240] EditCustomer - steps 02: Enter CustomerID
+[2022-09-20 10:14:01,282] EditCustomer - steps 03: Click to submit button
+[2022-09-20 10:14:22,121] CustomerPage - step 04: input Address with value is 123 Paris
+[2022-09-20 10:14:22,179] CustomerPage - step 05: input City with value is Newyork
+[2022-09-20 10:14:22,231] CustomerPage - step 06: input State with value is CA
+[2022-09-20 10:14:22,280] CustomerPage - step 07: input Pin with value is 123456
+[2022-09-20 10:14:22,333] CustomerPage - step 08: input Mobile with value is 4555442999
+[2022-09-20 10:14:22,388] CustomerPage - step 09: Click to Submit Button
+[2022-09-20 10:14:23,379] Create New Account - steps 01 : Open url
+[2022-09-20 10:14:28,399] Create New Account - steps 02 : click to New account link
+[2022-09-20 10:15:05,258] Create New Account - steps 03 : Input customer id
+[2022-09-20 10:15:05,304] Create New Account - steps 04 : Input initial deposit
+[2022-09-20 10:15:05,348] Create New Account - steps 05 : Click to submit
+[2022-09-20 10:15:18,501] Create New Account - steps 06 : Verify message is displayed that account is created success
+[2022-09-20 10:15:18,536] Create New Account - steps 07 : Currrent Amount is 5000
+[2022-09-20 10:15:18,569] OS name = mac os x
+[2022-09-20 10:15:18,569] Driver instance name = firefoxdriver: firefox on mac (65443eff-bc26-480f-9a6f-439fd9deee89)
+[2022-09-20 14:04:19,084] Empty-data-01: click to register link
+[2022-09-20 14:04:20,288] Empty-data-02: click to register button
+[2022-09-20 14:04:20,621] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 14:04:20,699] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 14:04:20,745] Empty-data-03: Verify email error message is displayed
+[2022-09-20 14:04:20,784] Empty-data-03: Verify password error message is displayed
+[2022-09-20 14:04:20,828] Empty-data-03: Verify confirm password error message is displayed
+[2022-09-20 14:04:20,866] OS name = mac os x
+[2022-09-20 14:04:20,866] Driver instance name = firefoxdriver: firefox on mac (b622f232-6247-4bd5-adde-3b18cc31e8c6)
+[2022-09-20 14:36:06,423] Empty-data-01: click to register link
+[2022-09-20 14:36:07,647] Empty-data-02: click to register button
+[2022-09-20 14:36:07,974] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 14:36:08,026] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 14:36:08,079] Empty-data-03: Verify email error message is displayed
+[2022-09-20 14:36:08,151] Empty-data-03: Verify password error message is displayed
+[2022-09-20 14:36:08,193] Empty-data-03: Verify confirm password error message is displayed
+[2022-09-20 14:36:08,240] Invalid-Email-01: Refresh page
+[2022-09-20 14:36:08,838] Invalid-Email-02: enter first name
+[2022-09-20 14:36:08,896] Invalid-Email-03: enter last name
+[2022-09-20 14:36:08,948] Invalid-Email-04: select date
+[2022-09-20 14:36:09,215] Invalid-Email-05: select month
+[2022-09-20 14:36:39,265] OS name = mac os x
+[2022-09-20 14:36:39,266] Driver instance name = firefoxdriver: firefox on mac (dab797b7-a747-46e2-be63-276691dd9c35)
+[2022-09-20 14:38:19,689] Empty-data-01: click to register link
+[2022-09-20 14:38:20,811] Empty-data-02: click to register button
+[2022-09-20 14:38:21,092] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 14:38:21,140] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 14:38:21,207] Empty-data-03: Verify email error message is displayed
+[2022-09-20 14:38:21,250] Empty-data-03: Verify password error message is displayed
+[2022-09-20 14:38:21,299] Empty-data-03: Verify confirm password error message is displayed
+[2022-09-20 14:38:21,344] Invalid-Email-01: Refresh page
+[2022-09-20 14:38:22,558] Invalid-Email-02: enter first name
+[2022-09-20 14:38:22,608] Invalid-Email-03: enter last name
+[2022-09-20 14:38:22,653] Invalid-Email-04: select date
+[2022-09-20 14:38:22,915] Invalid-Email-05: select month
+[2022-09-20 14:38:23,168] Invalid-Email-06: select year
+[2022-09-20 14:38:23,424] Invalid-Email-07: enter invalid email
+[2022-09-20 14:38:23,468] Invalid-Email-08: Verify invalid Email error message is displayed
+[2022-09-20 14:38:53,501] OS name = mac os x
+[2022-09-20 14:38:53,501] Driver instance name = firefoxdriver: firefox on mac (739f02af-c08f-4d55-88fb-309a674cecc1)
+[2022-09-20 14:40:30,436] Empty-data-01: click to register link
+[2022-09-20 14:40:31,548] Empty-data-02: click to register button
+[2022-09-20 14:40:31,846] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 14:40:31,896] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 14:40:31,972] Empty-data-03: Verify email error message is displayed
+[2022-09-20 14:40:32,016] Empty-data-03: Verify password error message is displayed
+[2022-09-20 14:40:32,060] Empty-data-03: Verify confirm password error message is displayed
+[2022-09-20 14:40:32,107] Invalid-Email-01: Refresh page
+[2022-09-20 14:40:33,320] Invalid-Email-02: enter first name Aurore
+[2022-09-20 14:40:33,376] Invalid-Email-03: enter last name Hoppe
+[2022-09-20 14:40:33,423] Invalid-Email-04: select date
+[2022-09-20 14:40:33,691] Invalid-Email-05: select month
+[2022-09-20 14:40:33,959] Invalid-Email-06: select year
+[2022-09-20 14:40:34,374] Invalid-Email-07: enter invalid email
+[2022-09-20 14:40:34,417] Invalid-Email-08: click to register button
+[2022-09-20 14:40:35,152] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 14:40:35,192] OS name = mac os x
+[2022-09-20 14:40:35,192] Driver instance name = firefoxdriver: firefox on mac (692aca6d-40e2-494f-a548-babdb554ca6f)
+[2022-09-20 15:27:54,479] Empty-data-01: click to register link
+[2022-09-20 15:27:55,610] Empty-data-02: click to register button
+[2022-09-20 15:27:55,911] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:27:55,954] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:27:56,008] Empty-data-03: Verify email error message is displayed
+[2022-09-20 15:27:56,043] Empty-data-03: Verify password error message is displayed
+[2022-09-20 15:27:56,081] Empty-data-03: Verify confirm password error message is displayed
+[2022-09-20 15:27:56,119] Invalid-Email-01: Refresh page
+[2022-09-20 15:27:57,349] Invalid-Email-02: enter first name Ayanna
+[2022-09-20 15:27:57,411] Invalid-Email-03: enter last name Reinger
+[2022-09-20 15:27:57,459] Invalid-Email-04: select date
+[2022-09-20 15:27:57,727] Invalid-Email-05: select month
+[2022-09-20 15:27:57,974] Invalid-Email-06: select year
+[2022-09-20 15:27:58,226] Invalid-Email-07: enter invalid email
+[2022-09-20 15:27:58,268] Invalid-Email-08: click to register button
+[2022-09-20 15:27:59,005] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 15:27:59,047] Register-01: Refresh page
+[2022-09-20 15:27:59,660] Register-02: select gender is male
+[2022-09-20 15:27:59,911] Register-02: enter first name Ayanna
+[2022-09-20 15:27:59,951] Register-03: enter last name Reinger
+[2022-09-20 15:27:59,990] Register-04: select date
+[2022-09-20 15:28:00,247] Register-05: select month
+[2022-09-20 15:28:00,500] Register-06: select year
+[2022-09-20 15:28:00,751] Register-07: enter valid email launa.hyatt@gmail.com
+[2022-09-20 15:28:00,792] Register-08: enter companyName Jakubowski, Gusikowski and Schmitt
+[2022-09-20 15:28:00,840] Register-09: enter password 242l515j6*q
+[2022-09-20 15:28:00,882] Register-10: enter confirm password 242l515j6*q
+[2022-09-20 15:28:00,926] Register-11: click to register button
+[2022-09-20 15:28:01,187] Register-12: click to logout button
+[2022-09-20 15:28:31,223] Exists-Email-01: Click to register link
+[2022-09-20 15:28:32,359] Exists-Email-02: enter first name Ayanna
+[2022-09-20 15:28:32,401] Exists-Email-03: enter last name Reinger
+[2022-09-20 15:28:32,436] Exists-Email-04: select date
+[2022-09-20 15:28:32,689] Exists-Email-05: select month
+[2022-09-20 15:28:32,945] Exists-Email-06: select year
+[2022-09-20 15:28:33,192] Exists-Email-07: enter exists email launa.hyatt@gmail.com
+[2022-09-20 15:28:33,234] Exists-07: enter companyName Jakubowski, Gusikowski and Schmitt
+[2022-09-20 15:28:33,279] Exists-07: enter password 242l515j6*q
+[2022-09-20 15:28:33,314] Exists-07: enter confirm password 242l515j6*q
+[2022-09-20 15:28:33,348] Exists-Email-08: click to register button
+[2022-09-20 15:28:33,592] Exists-Email-09: Verify exists Email error message is displayed
+[2022-09-20 15:29:03,605] Register-01: Refresh page
+[2022-09-20 15:29:04,223] Register-02: select gender is male
+[2022-09-20 15:29:04,461] Register-02: enter first name Ayanna
+[2022-09-20 15:29:04,498] Register-03: enter last name Reinger
+[2022-09-20 15:29:04,533] Register-04: select date
+[2022-09-20 15:29:04,784] Register-05: select month
+[2022-09-20 15:29:05,033] Register-06: select year
+[2022-09-20 15:29:05,281] Register-07: enter valid email jeff.spencer@hotmail.com
+[2022-09-20 15:29:05,320] Register-08: enter companyName Jakubowski, Gusikowski and Schmitt
+[2022-09-20 15:29:05,367] Register-09: enter password 123
+[2022-09-20 15:29:05,398] Register-10: enter confirm password 123
+[2022-09-20 15:29:05,433] Register-11: click to register button
+[2022-09-20 15:29:05,680] Register-12: Verify error message
+[2022-09-20 15:29:35,699] Register-01: Refresh page
+[2022-09-20 15:29:36,328] Register-02: select gender is male
+[2022-09-20 15:29:36,573] Register-02: enter first name Ayanna
+[2022-09-20 15:29:36,610] Register-03: enter last name Reinger
+[2022-09-20 15:29:36,646] Register-04: select date
+[2022-09-20 15:29:36,897] Register-05: select month
+[2022-09-20 15:29:37,150] Register-06: select year
+[2022-09-20 15:29:37,397] Register-07: enter valid email jeff.spencer@hotmail.com
+[2022-09-20 15:29:37,436] Register-08: enter companyName Jakubowski, Gusikowski and Schmitt
+[2022-09-20 15:29:37,481] Register-09: enter password 242l515j6*q
+[2022-09-20 15:29:37,517] Register-10: enter confirm password 123
+[2022-09-20 15:29:37,549] Register-11: click to register button
+[2022-09-20 15:29:38,287] Register-12: Verify error message
+[2022-09-20 15:30:08,300] OS name = mac os x
+[2022-09-20 15:30:08,301] Driver instance name = firefoxdriver: firefox on mac (b2f82d26-6f89-48a2-a392-132af3989b24)
+[2022-09-20 15:31:22,490] Empty-data-01: click to register link
+[2022-09-20 15:31:23,662] Empty-data-02: click to register button
+[2022-09-20 15:31:23,951] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:31:23,990] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:31:24,037] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:31:24,072] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:31:24,108] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:31:24,146] Invalid-Email-01: Refresh page
+[2022-09-20 15:31:24,749] Invalid-Email-02: enter first name Daron
+[2022-09-20 15:31:24,800] Invalid-Email-03: enter last name Hamill
+[2022-09-20 15:31:24,848] Invalid-Email-04: select date
+[2022-09-20 15:31:25,114] Invalid-Email-05: select month
+[2022-09-20 15:31:25,364] Invalid-Email-06: select year
+[2022-09-20 15:31:25,619] Invalid-Email-07: enter invalid email
+[2022-09-20 15:31:25,657] Invalid-Email-08: click to register button
+[2022-09-20 15:31:26,403] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 15:31:26,444] Register-01: Refresh page
+[2022-09-20 15:31:27,732] Register-02: select gender is male
+[2022-09-20 15:31:27,980] Register-02: enter first name Daron
+[2022-09-20 15:31:28,019] Register-03: enter last name Hamill
+[2022-09-20 15:31:28,055] Register-04: select date
+[2022-09-20 15:31:28,308] Register-05: select month
+[2022-09-20 15:31:28,562] Register-06: select year
+[2022-09-20 15:31:28,809] Register-07: enter valid email noe.toy@hotmail.com
+[2022-09-20 15:31:28,849] Register-08: enter companyName Boyer, Hane and Schneider
+[2022-09-20 15:31:28,892] Register-09: enter password jG&^$hP7BM
+[2022-09-20 15:31:28,932] Register-10: enter confirm password jG&^$hP7BM
+[2022-09-20 15:31:28,967] Register-11: click to register button
+[2022-09-20 15:31:29,215] Register-12: click to logout button
+[2022-09-20 15:31:59,249] Exists-Email-01: Click to register link
+[2022-09-20 15:31:59,701] Exists-Email-02: enter first name Daron
+[2022-09-20 15:31:59,741] Exists-Email-03: enter last name Hamill
+[2022-09-20 15:31:59,778] Exists-Email-04: select date
+[2022-09-20 15:32:00,026] Exists-Email-05: select month
+[2022-09-20 15:32:00,273] Exists-Email-06: select year
+[2022-09-20 15:32:00,523] Exists-Email-07: enter exists email noe.toy@hotmail.com
+[2022-09-20 15:32:00,562] Exists-07: enter companyName Boyer, Hane and Schneider
+[2022-09-20 15:32:00,605] Exists-07: enter password jG&^$hP7BM
+[2022-09-20 15:32:00,644] Exists-07: enter confirm password jG&^$hP7BM
+[2022-09-20 15:32:00,681] Exists-Email-08: click to register button
+[2022-09-20 15:32:00,933] Exists-Email-09: Verify exists Email error message is displayed
+[2022-09-20 15:32:44,005] Empty-data-01: click to register link
+[2022-09-20 15:32:45,164] Empty-data-02: click to register button
+[2022-09-20 15:32:45,435] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:32:45,475] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:32:45,519] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:32:45,555] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:32:45,592] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:32:45,631] Invalid-Email-01: Refresh page
+[2022-09-20 15:32:46,773] Invalid-Email-02: enter first name Joanie
+[2022-09-20 15:32:46,818] Invalid-Email-03: enter last name Hettinger
+[2022-09-20 15:32:46,863] Invalid-Email-04: select date
+[2022-09-20 15:32:47,123] Invalid-Email-05: select month
+[2022-09-20 15:32:47,371] Invalid-Email-06: select year
+[2022-09-20 15:32:47,623] Invalid-Email-07: enter invalid email
+[2022-09-20 15:32:47,663] Invalid-Email-08: click to register button
+[2022-09-20 15:32:48,394] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 15:32:48,440] Register-01: Refresh page
+[2022-09-20 15:32:48,990] Register-02: select gender is male
+[2022-09-20 15:32:49,233] Register-02: enter first name Joanie
+[2022-09-20 15:32:49,272] Register-03: enter last name Hettinger
+[2022-09-20 15:32:49,314] Register-04: select date
+[2022-09-20 15:32:49,571] Register-05: select month
+[2022-09-20 15:32:49,902] Register-06: select year
+[2022-09-20 15:32:50,156] Register-07: enter valid email bryant.upton@gmail.com
+[2022-09-20 15:32:50,197] Register-08: enter companyName Friesen-Feest
+[2022-09-20 15:32:50,239] Register-09: enter password z0r#Ebdj
+[2022-09-20 15:32:50,285] Register-10: enter confirm password z0r#Ebdj
+[2022-09-20 15:32:50,325] Register-11: click to register button
+[2022-09-20 15:32:51,188] Register-12: click to logout button
+[2022-09-20 15:32:56,835] Exists-Email-01: Click to register link
+[2022-09-20 15:32:57,265] Exists-Email-02: enter first name Joanie
+[2022-09-20 15:32:57,308] Exists-Email-03: enter last name Hettinger
+[2022-09-20 15:32:57,351] Exists-Email-04: select date
+[2022-09-20 15:32:57,602] Exists-Email-05: select month
+[2022-09-20 15:32:57,855] Exists-Email-06: select year
+[2022-09-20 15:32:58,107] Exists-Email-07: enter exists email bryant.upton@gmail.com
+[2022-09-20 15:32:58,157] Exists-07: enter companyName Friesen-Feest
+[2022-09-20 15:32:58,200] Exists-07: enter password z0r#Ebdj
+[2022-09-20 15:32:58,239] Exists-07: enter confirm password z0r#Ebdj
+[2022-09-20 15:32:58,283] Exists-Email-08: click to register button
+[2022-09-20 15:32:58,707] Exists-Email-09: Verify exists Email error message is displayed
+[2022-09-20 15:32:58,743] Register-01: Refresh page
+[2022-09-20 15:32:58,824] Register-02: select gender is male
+[2022-09-20 15:32:58,891] Register-01: Refresh page
+[2022-09-20 15:32:58,928] Register-02: select gender is male
+[2022-09-20 15:32:58,953] OS name = mac os x
+[2022-09-20 15:32:58,953] Driver instance name = firefoxdriver: firefox on mac (82dec2a6-576d-48ed-a1e9-7a52896ef183)
+[2022-09-20 15:36:16,032] OS name = mac os x
+[2022-09-20 15:36:16,033] 
+[2022-09-20 15:36:31,869] Empty-data-01: click to register link
+[2022-09-20 15:36:32,501] Empty-data-02: click to register button
+[2022-09-20 15:36:32,809] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:36:32,860] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:36:32,936] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:36:32,975] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:36:33,015] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:36:33,057] Invalid-Email-01: Refresh page
+[2022-09-20 15:36:33,654] Invalid-Email-02: enter first name Demarcus
+[2022-09-20 15:36:33,706] Invalid-Email-03: enter last name Lowe
+[2022-09-20 15:36:33,750] Invalid-Email-04: select date
+[2022-09-20 15:36:34,011] Invalid-Email-05: select month
+[2022-09-20 15:36:34,263] Invalid-Email-06: select year
+[2022-09-20 15:36:34,520] Invalid-Email-07: enter invalid email
+[2022-09-20 15:36:34,577] Invalid-Email-08: click to register button
+[2022-09-20 15:36:35,312] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 15:36:35,354] Register-01: Refresh page
+[2022-09-20 15:36:35,929] Register-02: select gender is male
+[2022-09-20 15:36:36,167] Register-02: enter first name Demarcus
+[2022-09-20 15:36:36,207] Register-03: enter last name Lowe
+[2022-09-20 15:36:36,243] Register-04: select date
+[2022-09-20 15:36:36,493] Register-05: select month
+[2022-09-20 15:36:36,739] Register-06: select year
+[2022-09-20 15:36:36,988] Register-07: enter valid email annalisa.bartoletti@yahoo.com
+[2022-09-20 15:36:37,033] Register-08: enter companyName Schuppe, Russel and Ward
+[2022-09-20 15:36:37,075] Register-09: enter password m!5pdPKH
+[2022-09-20 15:36:37,111] Register-10: enter confirm password m!5pdPKH
+[2022-09-20 15:36:37,149] Register-11: click to register button
+[2022-09-20 15:36:38,038] Register-12: click to logout button
+[2022-09-20 15:36:43,780] Exists-Email-01: Click to register link
+[2022-09-20 15:36:44,276] Exists-Email-02: enter first name Demarcus
+[2022-09-20 15:36:44,322] Exists-Email-03: enter last name Lowe
+[2022-09-20 15:36:44,358] Exists-Email-04: select date
+[2022-09-20 15:36:44,609] Exists-Email-05: select month
+[2022-09-20 15:36:44,863] Exists-Email-06: select year
+[2022-09-20 15:36:45,113] Exists-Email-07: enter exists email annalisa.bartoletti@yahoo.com
+[2022-09-20 15:36:45,159] Exists-07: enter companyName Schuppe, Russel and Ward
+[2022-09-20 15:36:45,201] Exists-07: enter password m!5pdPKH
+[2022-09-20 15:36:45,237] Exists-07: enter confirm password m!5pdPKH
+[2022-09-20 15:36:45,271] Exists-Email-08: click to register button
+[2022-09-20 15:36:45,660] Exists-Email-09: Verify exists Email error message is displayed
+[2022-09-20 15:36:45,698] Register-01: Refresh page
+[2022-09-20 15:36:45,760] Register-02: enter first name Demarcus
+[2022-09-20 15:36:45,799] Register-01: Refresh page
+[2022-09-20 15:36:45,833] Register-02: enter first name Demarcus
+[2022-09-20 15:36:45,851] OS name = mac os x
+[2022-09-20 15:36:45,851] Driver instance name = firefoxdriver: firefox on mac (25e42fd9-6be9-4abf-a7c2-06da2c5a3369)
+[2022-09-20 15:40:55,282] Register-01: Refresh page
+[2022-09-20 15:40:55,290] Register-01: Refresh page
+[2022-09-20 15:40:55,293] OS name = mac os x
+[2022-09-20 15:40:55,293] Driver instance name = firefoxdriver: firefox on mac (0afa86ea-dfd5-42cf-a269-a09c6afbfad6)
+[2022-09-20 15:41:39,276] Empty-data-01: click to register link
+[2022-09-20 15:41:40,613] Empty-data-02: click to register button
+[2022-09-20 15:41:40,887] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:41:40,927] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:41:40,972] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:41:41,007] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:41:41,043] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:41:41,085] Register-01: Refresh page
+[2022-09-20 15:41:47,386] Register-02: enter first name Deandre
+[2022-09-20 15:41:47,437] Register-03: enter last name Kovacek
+[2022-09-20 15:41:47,482] Register-04: select date
+[2022-09-20 15:41:47,748] Register-05: select month
+[2022-09-20 15:41:48,002] Register-06: select year
+[2022-09-20 15:41:48,255] Register-07: enter valid email katia.stiedemann@yahoo.com
+[2022-09-20 15:41:48,301] Register-08: enter companyName Waelchi, Hoeger and Corwin
+[2022-09-20 15:41:48,349] Register-09: enter password s%9G#OE^
+[2022-09-20 15:41:48,392] Register-10: enter confirm password 123
+[2022-09-20 15:41:48,438] Register-11: click to register button
+[2022-09-20 15:41:49,175] Register-12: Verify error message
+[2022-09-20 15:42:19,206] Register-01: Refresh page
+[2022-09-20 15:42:24,785] Register-02: enter first name Deandre
+[2022-09-20 15:42:24,829] Register-03: enter last name Kovacek
+[2022-09-20 15:42:24,868] Register-04: select date
+[2022-09-20 15:42:25,122] Register-05: select month
+[2022-09-20 15:42:25,369] Register-06: select year
+[2022-09-20 15:42:25,620] Register-07: enter valid email katia.stiedemann@yahoo.com
+[2022-09-20 15:42:25,662] Register-08: enter companyName Waelchi, Hoeger and Corwin
+[2022-09-20 15:42:25,703] Register-09: enter password 123
+[2022-09-20 15:42:25,734] Register-10: enter confirm password 123
+[2022-09-20 15:42:25,770] Register-11: click to register button
+[2022-09-20 15:42:26,022] Register-12: Verify error message
+[2022-09-20 15:42:56,038] OS name = mac os x
+[2022-09-20 15:42:56,039] Driver instance name = firefoxdriver: firefox on mac (c686b1b6-1daf-4d87-a31e-706b8d6c3cc1)
+[2022-09-20 15:47:00,307] Empty-data-01: click to register link
+[2022-09-20 15:47:01,428] Empty-data-02: click to register button
+[2022-09-20 15:47:01,724] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:47:01,767] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:47:01,810] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:47:01,853] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:47:01,889] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:47:01,927] Register-01: Refresh page
+[2022-09-20 15:47:08,216] Register-02: enter first name Fletcher
+[2022-09-20 15:47:08,273] Register-03: enter last name Kiehn
+[2022-09-20 15:47:08,319] Register-04: select date
+[2022-09-20 15:47:08,587] Register-05: select month
+[2022-09-20 15:47:08,838] Register-06: select year
+[2022-09-20 15:47:09,093] Register-07: enter valid email claire.wuckert@gmail.com
+[2022-09-20 15:47:09,136] Register-08: enter companyName Anderson-Littel
+[2022-09-20 15:47:09,179] Register-09: enter password Jpd!XejcU%
+[2022-09-20 15:47:09,224] Register-10: enter confirm password 123
+[2022-09-20 15:47:09,266] Register-11: click to register button
+[2022-09-20 15:47:40,035] OS name = mac os x
+[2022-09-20 15:47:40,036] Driver instance name = firefoxdriver: firefox on mac (c83ab8ee-681e-41dd-817d-4af8662cd8f8)
+[2022-09-20 15:50:40,805] Empty-data-01: click to register link
+[2022-09-20 15:50:41,920] Empty-data-02: click to register button
+[2022-09-20 15:50:42,210] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:50:42,248] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:50:42,285] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:50:42,329] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:50:42,365] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:50:42,405] Register-01: Refresh page
+[2022-09-20 15:50:48,629] Register-02: enter first name Edward
+[2022-09-20 15:50:48,686] Register-03: enter last name Gerhold
+[2022-09-20 15:50:48,726] Register-04: select date
+[2022-09-20 15:50:48,988] Register-05: select month
+[2022-09-20 15:50:49,242] Register-06: select year
+[2022-09-20 15:50:49,495] Register-07: enter valid email alex.mcdermott@yahoo.com
+[2022-09-20 15:50:49,536] Register-08: enter companyName Keebler Inc
+[2022-09-20 15:50:49,574] Register-09: enter password 123
+[2022-09-20 15:50:49,610] Register-11: click to register button
+[2022-09-20 15:50:50,385] Register-12: Verify error messagePassword must meet the following rules:
+must have at least 6 characters
+[2022-09-20 15:50:50,417] OS name = mac os x
+[2022-09-20 15:50:50,418] Driver instance name = firefoxdriver: firefox on mac (256b4d41-97bf-4775-9807-1edace3f8341)
+[2022-09-20 15:51:24,754] Empty-data-01: click to register link
+[2022-09-20 15:51:25,906] Empty-data-02: click to register button
+[2022-09-20 15:51:26,183] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:51:26,224] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:51:26,267] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:51:26,305] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:51:26,339] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:51:26,378] Invalid-Email-01: Refresh page
+[2022-09-20 15:51:27,538] Invalid-Email-02: enter first name Domingo
+[2022-09-20 15:51:27,583] Invalid-Email-03: enter last name Stroman
+[2022-09-20 15:51:27,628] Invalid-Email-04: select date
+[2022-09-20 15:51:27,883] Invalid-Email-05: select month
+[2022-09-20 15:51:28,134] Invalid-Email-06: select year
+[2022-09-20 15:51:28,391] Invalid-Email-07: enter invalid email
+[2022-09-20 15:51:28,432] Invalid-Email-08: click to register button
+[2022-09-20 15:51:29,169] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 15:51:29,208] Register-01: Refresh page
+[2022-09-20 15:51:30,401] Register-02: select gender is male
+[2022-09-20 15:51:30,754] Register-02: enter first name Domingo
+[2022-09-20 15:51:30,796] Register-03: enter last name Stroman
+[2022-09-20 15:51:30,839] Register-04: select date
+[2022-09-20 15:51:31,091] Register-05: select month
+[2022-09-20 15:51:31,338] Register-06: select year
+[2022-09-20 15:51:31,586] Register-07: enter valid email adela.hills@hotmail.com
+[2022-09-20 15:51:31,629] Register-08: enter companyName Kulas LLC
+[2022-09-20 15:51:31,670] Register-09: enter password uUvWd596rOy
+[2022-09-20 15:51:31,714] Register-10: enter confirm password uUvWd596rOy
+[2022-09-20 15:51:31,759] Register-11: click to register button
+[2022-09-20 15:51:33,362] Register-12: click to logout button
+[2022-09-20 15:51:39,103] Exists-Email-01: Click to register link
+[2022-09-20 15:51:39,497] Exists-Email-02: enter first name Domingo
+[2022-09-20 15:51:39,540] Exists-Email-03: enter last name Stroman
+[2022-09-20 15:51:39,583] Exists-Email-04: select date
+[2022-09-20 15:51:39,837] Exists-Email-05: select month
+[2022-09-20 15:51:40,088] Exists-Email-06: select year
+[2022-09-20 15:51:40,340] Exists-Email-07: enter exists email adela.hills@hotmail.com
+[2022-09-20 15:51:40,385] Exists-07: enter companyName Kulas LLC
+[2022-09-20 15:51:40,429] Exists-07: enter password uUvWd596rOy
+[2022-09-20 15:51:40,472] Exists-07: enter confirm password uUvWd596rOy
+[2022-09-20 15:51:40,512] Exists-Email-08: click to register button
+[2022-09-20 15:51:40,958] Exists-Email-09: Verify exists Email error message is displayed
+[2022-09-20 15:51:40,994] Register-01: Refresh page
+[2022-09-20 15:51:46,081] Register-02: enter first name Domingo
+[2022-09-20 15:51:46,127] Register-01: Refresh page
+[2022-09-20 15:51:51,166] Register-02: enter first name Domingo
+[2022-09-20 15:51:51,184] OS name = mac os x
+[2022-09-20 15:51:51,184] Driver instance name = firefoxdriver: firefox on mac (72359e80-0952-4d7c-91ab-7f633f80e41c)
+[2022-09-20 15:53:52,706] Empty-data-01: click to register link
+[2022-09-20 15:53:53,838] Empty-data-02: click to register button
+[2022-09-20 15:53:54,131] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:53:54,170] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:53:54,207] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:53:54,250] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:53:54,287] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:53:54,325] Invalid-Email-01: Refresh page
+[2022-09-20 15:53:55,500] Invalid-Email-02: enter first name Starr
+[2022-09-20 15:53:55,546] Invalid-Email-03: enter last name Von
+[2022-09-20 15:53:55,592] Invalid-Email-04: select date
+[2022-09-20 15:53:55,854] Invalid-Email-05: select month
+[2022-09-20 15:53:56,106] Invalid-Email-06: select year
+[2022-09-20 15:53:56,356] Invalid-Email-07: enter invalid email
+[2022-09-20 15:53:56,396] Invalid-Email-08: click to register button
+[2022-09-20 15:53:57,130] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 15:53:57,167] Register-01: Refresh page
+[2022-09-20 15:53:58,408] Register-02: select gender is male
+[2022-09-20 15:53:58,648] Register-02: enter first name Starr
+[2022-09-20 15:53:58,693] Register-03: enter last name Von
+[2022-09-20 15:53:58,738] Register-04: select date
+[2022-09-20 15:53:59,002] Register-05: select month
+[2022-09-20 15:53:59,250] Register-06: select year
+[2022-09-20 15:53:59,502] Register-07: enter valid email stacy.lesch@hotmail.com
+[2022-09-20 15:53:59,543] Register-08: enter companyName Jerde, Zboncak and Armstrong
+[2022-09-20 15:53:59,591] Register-09: enter password m&782*$G
+[2022-09-20 15:53:59,633] Register-10: enter confirm password m&782*$G
+[2022-09-20 15:53:59,677] Register-11: click to register button
+[2022-09-20 15:54:00,499] Register-12: click to logout button
+[2022-09-20 15:54:06,149] Exists-Email-01: Click to register link
+[2022-09-20 15:54:06,665] Exists-Email-02: enter first name Starr
+[2022-09-20 15:54:06,709] Exists-Email-03: enter last name Von
+[2022-09-20 15:54:06,749] Exists-Email-04: select date
+[2022-09-20 15:54:07,001] Exists-Email-05: select month
+[2022-09-20 15:54:07,249] Exists-Email-06: select year
+[2022-09-20 15:54:07,500] Exists-Email-07: enter exists email stacy.lesch@hotmail.com
+[2022-09-20 15:54:07,545] Exists-07: enter companyName Jerde, Zboncak and Armstrong
+[2022-09-20 15:54:07,589] Exists-07: enter password m&782*$G
+[2022-09-20 15:54:07,629] Exists-07: enter confirm password m&782*$G
+[2022-09-20 15:54:07,673] Exists-Email-08: click to register button
+[2022-09-20 15:54:08,090] Exists-Email-09: Verify exists Email error message is displayed
+[2022-09-20 15:54:08,130] Register-01: Refresh page
+[2022-09-20 15:54:13,192] Register-02: enter first name Starr
+[2022-09-20 15:54:13,247] Register-03: enter last name Von
+[2022-09-20 15:54:13,296] Register-04: select date
+[2022-09-20 15:54:13,333] Register-05: select month
+[2022-09-20 15:54:13,368] Register-06: select year
+[2022-09-20 15:54:13,402] Register-07: enter valid email mose.lakin@yahoo.com
+[2022-09-20 15:54:13,456] Register-08: enter companyName Jerde, Zboncak and Armstrong
+[2022-09-20 15:54:13,509] Register-09: enter password 123
+[2022-09-20 15:54:13,553] Register-11: click to register button
+[2022-09-20 15:54:14,317] Register-12: Verify error messagePassword must meet the following rules:
+must have at least 6 characters
+[2022-09-20 15:54:14,353] Register-01: Refresh page
+[2022-09-20 15:54:19,393] Register-02: enter first name Starr
+[2022-09-20 15:54:19,427] OS name = mac os x
+[2022-09-20 15:54:19,427] Driver instance name = firefoxdriver: firefox on mac (96c19938-6aa1-45cd-bb07-947ebae46639)
+[2022-09-20 15:56:49,095] Empty-data-01: click to register link
+[2022-09-20 15:56:50,233] Empty-data-02: click to register button
+[2022-09-20 15:56:50,524] Empty-data-03: Verify firstname error message is displayed
+[2022-09-20 15:56:50,563] Empty-data-04: Verify lastname error message is displayed
+[2022-09-20 15:56:50,599] Empty-data-05: Verify email error message is displayed
+[2022-09-20 15:56:50,644] Empty-data-06: Verify password error message is displayed
+[2022-09-20 15:56:50,680] Empty-data-07: Verify confirm password error message is displayed
+[2022-09-20 15:56:50,720] Invalid-Email-01: Refresh page
+[2022-09-20 15:56:51,320] Invalid-Email-02: enter first name Romana
+[2022-09-20 15:56:51,365] Invalid-Email-03: enter last name Feeney
+[2022-09-20 15:56:51,411] Invalid-Email-04: select date
+[2022-09-20 15:56:51,673] Invalid-Email-05: select month
+[2022-09-20 15:56:51,923] Invalid-Email-06: select year
+[2022-09-20 15:56:52,174] Invalid-Email-07: enter invalid email
+[2022-09-20 15:56:52,216] Invalid-Email-08: click to register button
+[2022-09-20 15:56:52,948] Invalid-Email-09: Verify invalid Email error message is displayed
+[2022-09-20 15:56:52,990] Register-01: Refresh page
+[2022-09-20 15:56:53,668] Register-02: select gender is male
+[2022-09-20 15:56:53,913] Register-02: enter first name Romana
+[2022-09-20 15:56:53,954] Register-03: enter last name Feeney
+[2022-09-20 15:56:54,003] Register-04: select date
+[2022-09-20 15:56:54,258] Register-05: select month
+[2022-09-20 15:56:54,512] Register-06: select year
+[2022-09-20 15:56:54,767] Register-07: enter valid email tanner.hudson@hotmail.com
+[2022-09-20 15:56:54,814] Register-08: enter companyName DuBuque and Sons
+[2022-09-20 15:56:54,854] Register-09: enter password s6q&930i4i
+[2022-09-20 15:56:54,897] Register-10: enter confirm password s6q&930i4i
+[2022-09-20 15:56:54,941] Register-11: click to register button
+[2022-09-20 15:56:56,359] Register-12: click to logout button
+[2022-09-20 15:57:02,082] Exists-Email-01: Click to register link
+[2022-09-20 15:57:02,596] Exists-Email-02: enter first name Romana
+[2022-09-20 15:57:02,638] Exists-Email-03: enter last name Feeney
+[2022-09-20 15:57:02,681] Exists-Email-04: select date
+[2022-09-20 15:57:02,930] Exists-Email-05: select month
+[2022-09-20 15:57:03,180] Exists-Email-06: select year
+[2022-09-20 15:57:03,428] Exists-Email-07: enter exists email tanner.hudson@hotmail.com
+[2022-09-20 15:57:03,471] Exists-07: enter companyName DuBuque and Sons
+[2022-09-20 15:57:03,510] Exists-07: enter password s6q&930i4i
+[2022-09-20 15:57:03,551] Exists-07: enter confirm password s6q&930i4i
+[2022-09-20 15:57:03,592] Exists-Email-08: click to register button
+[2022-09-20 15:57:04,025] Exists-Email-09: Verify exists Email error message is displayed
+[2022-09-20 15:57:04,067] Empty-data-01: click to register link
+[2022-09-20 15:57:09,443] Register-02: enter first name Romana
+[2022-09-20 15:57:09,489] Register-03: enter last name Feeney
+[2022-09-20 15:57:09,531] Register-04: select date
+[2022-09-20 15:57:09,785] Register-05: select month
+[2022-09-20 15:57:10,034] Register-06: select year
+[2022-09-20 15:57:10,286] Register-07: enter valid email kenia.murazik@hotmail.com
+[2022-09-20 15:57:10,326] Register-08: enter companyName DuBuque and Sons
+[2022-09-20 15:57:10,368] Register-09: enter password 123
+[2022-09-20 15:57:10,409] Register-11: click to register button
+[2022-09-20 15:57:11,176] Register-12: Verify error messagePassword must meet the following rules:
+must have at least 6 characters
+[2022-09-20 15:57:11,204] Register-01: Refresh page
+[2022-09-20 15:57:17,366] Register-02: enter first name Romana
+[2022-09-20 15:57:17,407] Register-03: enter last name Feeney
+[2022-09-20 15:57:17,453] Register-04: select date
+[2022-09-20 15:57:17,702] Register-05: select month
+[2022-09-20 15:57:17,952] Register-06: select year
+[2022-09-20 15:57:18,209] Register-07: enter valid email kenia.murazik@hotmail.com
+[2022-09-20 15:57:18,250] Register-08: enter companyName DuBuque and Sons
+[2022-09-20 15:57:18,288] Register-09: enter password s6q&930i4i
+[2022-09-20 15:57:18,329] Register-10: enter confirm password 123
+[2022-09-20 15:57:18,371] Register-11: click to register button
+[2022-09-20 15:57:19,104] Register-12: Verify error message
+[2022-09-20 15:57:19,137] OS name = mac os x
+[2022-09-20 15:57:19,137] Driver instance name = firefoxdriver: firefox on mac (0d14c58c-8bb6-436e-8f78-eb31cabe37d5)
+[2022-09-20 18:22:47,500] Login-Empty-Data-01: Click to login link
+[2022-09-20 18:22:48,684] Login-Empty-Data-02: Click to login button
+[2022-09-20 18:22:48,962] Login-Empty-Data-03: Verify error message is shown
+[2022-09-20 18:22:49,021] Login-Invalid-Email-01: Click to login link
+[2022-09-20 18:22:49,419] Login-Invalid-Email-02: Enter invalid email
+[2022-09-20 18:22:49,479] Login-Invalid-Email-02: Click to login button
+[2022-09-20 18:22:49,739] Login-Invalid-Email-03: Verify error message is shown
+[2022-09-20 18:22:49,776] OS name = mac os x
+[2022-09-20 18:22:49,776] Driver instance name = firefoxdriver: firefox on mac (bb5212e0-4ec8-4400-a15a-5e95b64eeee8)
+[2022-09-20 18:31:23,910] Login-Empty-Data-01: Click to login link
+[2022-09-20 18:31:25,214] Login-Empty-Data-02: Click to login button
+[2022-09-20 18:31:25,492] Login-Empty-Data-03: Verify error message is shown
+[2022-09-20 18:31:25,555] Login-Invalid-Email-01: Click to login link
+[2022-09-20 18:31:25,965] Login-Invalid-Email-02: Enter invalid email
+[2022-09-20 18:31:26,022] Login-Invalid-Email-02: Click to login button
+[2022-09-20 18:31:26,282] Login-Invalid-Email-03: Verify error message is shown
+[2022-09-20 18:31:26,320] Login-Not_Exists_Email-01: Click to login link
+[2022-09-20 18:31:26,706] Login-Not_Exists_Email-02: Enter invalid email
+[2022-09-20 18:31:26,754] Login-Not_Exists_Email-02: Click to login button
+[2022-09-20 18:31:27,198] Login-INot_Exists_Email-03: Verify error message is shown
+[2022-09-20 18:31:27,241] OS name = mac os x
+[2022-09-20 18:31:27,242] Driver instance name = firefoxdriver: firefox on mac (c96a9d4f-69df-4ea0-acd1-21dbc435d369)
+[2022-09-20 18:34:58,093] Login-Empty-Data-01: Click to login link
+[2022-09-20 18:34:59,228] Login-Empty-Data-02: Click to login button
+[2022-09-20 18:34:59,492] Login-Empty-Data-03: Verify error message is shown
+[2022-09-20 18:34:59,574] Login-Invalid-Email-01: Click to login link
+[2022-09-20 18:34:59,948] Login-Invalid-Email-02: Enter invalid email
+[2022-09-20 18:34:59,995] Login-Invalid-Email-02: Click to login button
+[2022-09-20 18:35:00,256] Login-Invalid-Email-03: Verify error message is shown
+[2022-09-20 18:35:00,291] Login-Not_Exists_Email-01: Click to login link
+[2022-09-20 18:35:00,668] Login-Not_Exists_Email-02: Enter invalid email
+[2022-09-20 18:35:00,716] Login-Not_Exists_Email-02: Click to login button
+[2022-09-20 18:35:01,094] Login-Not_Exists_Email-03: Verify error message is shown
+[2022-09-20 18:35:01,139] Login-Without_Password-01: Click to login link
+[2022-09-20 18:35:01,498] Login-Without_Password-02: Enter  emailnull
+[2022-09-20 18:36:30,155] Login-Empty-Data-01: Click to login link
+[2022-09-20 18:36:30,665] Login-Empty-Data-02: Click to login button
+[2022-09-20 18:36:30,928] Login-Empty-Data-03: Verify error message is shown
+[2022-09-20 18:36:30,966] Login-Invalid-Email-01: Click to login link
+[2022-09-20 18:36:31,349] Login-Invalid-Email-02: Enter invalid email
+[2022-09-20 18:36:31,394] Login-Invalid-Email-02: Click to login button
+[2022-09-20 18:36:31,648] Login-Invalid-Email-03: Verify error message is shown
+[2022-09-20 18:36:31,694] Login-Not_Exists_Email-01: Click to login link
+[2022-09-20 18:36:32,080] Login-Not_Exists_Email-02: Enter invalid email
+[2022-09-20 18:36:32,126] Login-Not_Exists_Email-02: Click to login button
+[2022-09-20 18:36:32,552] Login-Not_Exists_Email-03: Verify error message is shown
+[2022-09-20 18:36:32,594] Login-Without_Password-01: Click to login link
+[2022-09-20 18:36:33,050] Login-Without_Password-02: Enter  emailbritney.rath@gmail.com
+[2022-09-20 18:36:33,094] Login-Without_Password-03: Click to login button
+[2022-09-20 18:36:33,461] Login-Without_Password-04: Verify error message is shown
+[2022-09-20 18:42:15,834] Login-Empty-Data-01: Click to login link
+[2022-09-20 18:42:17,004] Login-Empty-Data-02: Click to login button
+[2022-09-20 18:42:17,266] Login-Empty-Data-03: Verify error message is shown
+[2022-09-20 18:42:17,306] Login-Invalid-Email-01: Click to login link
+[2022-09-20 18:42:17,695] Login-Invalid-Email-02: Enter invalid email
+[2022-09-20 18:42:17,737] Login-Invalid-Email-02: Click to login button
+[2022-09-20 18:42:17,992] Login-Invalid-Email-03: Verify error message is shown
+[2022-09-20 18:42:18,037] Login-Not_Exists_Email-01: Click to login link
+[2022-09-20 18:42:18,406] Login-Not_Exists_Email-02: Enter invalid email
+[2022-09-20 18:42:18,452] Login-Not_Exists_Email-02: Click to login button
+[2022-09-20 18:42:18,869] Login-Not_Exists_Email-03: Verify error message is shown
+[2022-09-20 18:42:18,912] Login-Without_Password-01: Click to login link
+[2022-09-20 18:42:19,321] Login-Without_Password-02: Enter  emailmargery.hessel@gmail.com
+[2022-09-20 18:42:19,369] Login-Without_Password-03: Click to login button
+[2022-09-20 18:42:19,767] Login-Without_Password-04: Verify error message is shown
+[2022-09-20 18:42:19,802] Login-Incorrect_Password-01: Click to login link
+[2022-09-20 18:42:20,282] Login-Incorrect_Password-02: Enter  emailmargery.hessel@gmail.com
+[2022-09-20 18:42:20,331] Login-Incorrect_Password-02: Enter  pass123555
+[2022-09-20 18:42:20,375] Login-Incorrect_Password-03: Click to login button
+[2022-09-20 18:42:20,755] Login-Incorrect_Password-04: Verify error message is shown
+[2022-09-20 18:42:20,797] Login_Success-01: Click to login link
+[2022-09-20 18:42:21,169] Login-Incorrect_Password-02: Enter  emailmargery.hessel@gmail.com
+[2022-09-20 18:42:21,218] Login-Success-02: Enter  pass3$d2TY!2ZY
+[2022-09-20 18:42:21,277] Login-Success-03: Click to login button
+[2022-09-20 18:48:08,801] Login-Empty-Data-01: Click to login link
+[2022-09-20 18:48:09,852] Login-Empty-Data-02: Click to login button
+[2022-09-20 18:48:10,116] Login-Empty-Data-03: Verify error message is shown
+[2022-09-20 18:48:10,153] Login-Invalid-Email-01: Click to login link
+[2022-09-20 18:48:10,514] Login-Invalid-Email-02: Enter invalid email
+[2022-09-20 18:48:10,553] Login-Invalid-Email-02: Click to login button
+[2022-09-20 18:48:10,808] Login-Invalid-Email-03: Verify error message is shown
+[2022-09-20 18:48:10,852] Login-Not_Exists_Email-01: Click to login link
+[2022-09-20 18:48:11,219] Login-Not_Exists_Email-02: Enter invalid email
+[2022-09-20 18:48:11,265] Login-Not_Exists_Email-02: Click to login button
+[2022-09-20 18:48:11,658] Login-Not_Exists_Email-03: Verify error message is shown
+[2022-09-20 18:48:11,698] Login-Without_Password-01: Click to login link
+[2022-09-20 18:48:12,155] Login-Without_Password-02: Enter  emailalana.wintheiser@hotmail.com
+[2022-09-20 18:48:12,201] Login-Without_Password-03: Click to login button
+[2022-09-20 18:48:12,547] Login-Without_Password-04: Verify error message is shown
+[2022-09-20 18:48:12,580] Login-Incorrect_Password-01: Click to login link
+[2022-09-20 18:48:13,077] Login-Incorrect_Password-02: Enter  emailalana.wintheiser@hotmail.com
+[2022-09-20 18:48:13,125] Login-Incorrect_Password-02: Enter  pass123555
+[2022-09-20 18:48:13,167] Login-Incorrect_Password-03: Click to login button
+[2022-09-20 18:48:13,529] Login-Incorrect_Password-04: Verify error message is shown
+[2022-09-20 18:48:13,567] Login_Success-01: Click to login link
+[2022-09-20 18:48:13,992] Login-Incorrect_Password-02: Enter  emailalana.wintheiser@hotmail.com
+[2022-09-20 18:48:14,040] Login-Success-02: Enter  pass*3tC7wWbE8
+[2022-09-20 18:48:14,083] Login-Success-03: Click to login button
+[2022-09-20 18:48:14,752] Login-Success-04: Verify displayed my account in home page
+[2022-09-20 18:48:14,794] OS name = mac os x
+[2022-09-20 18:48:14,795] Driver instance name = firefoxdriver: firefox on mac (70aa5d1e-45f5-419d-b750-d6e696de8eaa)
+[2022-09-21 11:05:24,429] Pre-condition-01: click to login link
+[2022-09-21 11:05:25,637] Pre-condition-02: enter to email
+[2022-09-21 11:05:25,689] Pre-condition-03: enter to password
+[2022-09-21 11:05:25,738] Upadte_customer_infor_01: click to my account link
+[2022-09-21 11:06:47,270] Pre-condition-01: click to login link
+[2022-09-21 11:06:48,337] Pre-condition-02: enter to email
+[2022-09-21 11:06:48,384] Pre-condition-03: enter to password
+[2022-09-21 11:06:48,430] Pre-condition-04: click to Login Button
+[2022-09-21 11:06:49,075] Upadte_customer_infor_01: click to my account link
+[2022-09-21 11:06:49,599] Upadte_customer_infor_02: select Female radio
+[2022-09-21 11:06:49,843] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-21 11:06:49,896] Upadte_customer_infor_04: enter last name textbox
+[2022-09-21 11:06:49,950] Upadte_customer_infor_05: select date
+[2022-09-21 11:06:50,198] Upadte_customer_infor_06: select month
+[2022-09-21 11:06:50,446] Upadte_customer_infor_07: select year
+[2022-09-21 11:06:50,696] Upadte_customer_infor_08: enter email textbox
+[2022-09-21 11:06:50,749] Upadte_customer_infor_09: enter company name textbox
+[2022-09-21 11:06:50,806] Upadte_customer_infor_10: click save button
+[2022-09-21 11:06:51,567] OS name = mac os x
+[2022-09-21 11:06:51,567] Driver instance name = firefoxdriver: firefox on mac (a7a0d39d-bd9b-4fe1-b3e4-c8015d6e4804)
+[2022-09-21 15:36:27,631] Pre-condition-01: click to login link
+[2022-09-21 15:36:28,726] Pre-condition-02: enter to email natalia.ruecker@gmail.com
+[2022-09-21 15:36:28,779] Pre-condition-03: enter to passwordI!1^ctS$2w
+[2022-09-21 15:36:28,826] Pre-condition-04: click to Login Button
+[2022-09-21 15:36:29,547] Upadte_customer_infor_01: click to my account link
+[2022-09-21 15:36:30,034] Upadte_customer_infor_02: select Female radio
+[2022-09-21 15:36:30,279] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-21 15:36:30,339] Upadte_customer_infor_04: enter last name textbox
+[2022-09-21 15:36:30,391] Upadte_customer_infor_05: select date
+[2022-09-21 15:36:30,643] Upadte_customer_infor_06: select month
+[2022-09-21 15:36:30,891] Upadte_customer_infor_07: select year
+[2022-09-21 15:36:31,139] Upadte_customer_infor_08: enter email textbox
+[2022-09-21 15:36:31,192] Upadte_customer_infor_09: enter company name textbox
+[2022-09-21 15:36:31,248] Upadte_customer_infor_10: click save button
+[2022-09-21 15:36:31,992] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-21 15:36:32,021] Upadte_customer_infor_12: Verify first name is updated successful Domingo
+[2022-09-21 15:36:32,045] Upadte_customer_infor_13: Verify last name is updated successful Buckridge
+[2022-09-21 15:36:32,072] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-21 15:36:32,138] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-21 15:36:32,189] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-21 15:36:32,395] Upadte_customer_infor_17: Verify email is updated successful natalia.ruecker@gmail.com
+[2022-09-21 15:36:32,425] OS name = mac os x
+[2022-09-21 15:36:32,425] Driver instance name = firefoxdriver: firefox on mac (4722e580-499d-48b5-a838-f6272dedd438)
+[2022-09-21 15:38:26,591] Pre-condition-01: click to login link
+[2022-09-21 15:38:27,255] Pre-condition-02: enter to email adelaida.auer@gmail.com
+[2022-09-21 15:38:27,307] Pre-condition-03: enter to password5lp4A3^@%6
+[2022-09-21 15:38:27,354] Pre-condition-04: click to Login Button
+[2022-09-21 15:38:28,052] Upadte_customer_infor_01: click to my account link
+[2022-09-21 15:38:28,669] Upadte_customer_infor_02: select Female radio
+[2022-09-21 15:38:28,911] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-21 15:38:28,963] Upadte_customer_infor_04: enter last name textbox
+[2022-09-21 15:38:29,016] Upadte_customer_infor_05: select date
+[2022-09-21 15:38:29,266] Upadte_customer_infor_06: select month
+[2022-09-21 15:38:29,515] Upadte_customer_infor_07: select year
+[2022-09-21 15:38:29,766] Upadte_customer_infor_08: enter email textbox
+[2022-09-21 15:38:29,822] Upadte_customer_infor_09: enter company name textbox
+[2022-09-21 15:38:29,872] Upadte_customer_infor_10: click save button
+[2022-09-21 15:38:30,530] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-21 15:38:30,560] Upadte_customer_infor_12: Verify first name is updated successful Dagny
+[2022-09-21 15:38:30,587] Upadte_customer_infor_13: Verify last name is updated successful Prohaska
+[2022-09-21 15:38:30,613] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-21 15:38:30,676] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-21 15:38:30,730] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-21 15:38:30,939] Upadte_customer_infor_17: Verify email is updated successful annelle.boyer@yahoo.com
+[2022-09-21 15:38:30,967] Upadte_customer_infor_18: Verify company name is updated successful Torphy Inc
+[2022-09-21 15:38:30,999] OS name = mac os x
+[2022-09-21 15:38:30,999] Driver instance name = firefoxdriver: firefox on mac (410b0723-6be3-45cf-a447-d53f569e8b4f)

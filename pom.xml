@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.automation.framework</groupId>
-  <artifactId>com.automation.framework</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>hybrid-framework-maven</name>
-  
-   <!-- Khai báo biến - Global Variable -->
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.automation.framework</groupId>
+	<artifactId>com.automation.framework</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>hybrid-framework-maven</name>
+
+	<!-- Khai báo biến - Global Variable -->
 	<properties>
 		<!-- Encoding for Build/ Console -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -23,14 +23,14 @@
 		<jackson.version>2.10.0</jackson.version>
 		<webdrivermanager.version>5.0.2</webdrivermanager.version>
 		<aspectj.version>1.9.8</aspectj.version>
-		<allure.version>2.18.1</allure.version>
 		<extent.version>5.0.8</extent.version>
 		<faker.version>1.0.1</faker.version>
 		<log4j.version>1.2.16</log4j.version>
 		<reportng.version>1.1.4</reportng.version>
+		<environment>dev</environment>
 	</properties>
-  
-  <!-- Quản lí thư viện -->
+
+	<!-- Quản lí thư viện -->
 	<dependencies>
 		<!-- TestNG -->
 		<dependency>
@@ -129,20 +129,21 @@
 			<artifactId>javafaker</artifactId>
 			<version>${faker.version}</version>
 		</dependency>
-		
-		<dependency>
-			<groupId>io.qameta.allure</groupId>
-			<artifactId>allure-testng</artifactId>
-			<version>${allure.version}</version>
-		</dependency>
 
 		<dependency>
 			<groupId>org.aspectj</groupId>
 			<artifactId>aspectjweaver</artifactId>
 			<version>${aspectj.version}</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.aeonbits.owner/owner -->
+		<dependency>
+			<groupId>org.aeonbits.owner</groupId>
+			<artifactId>owner</artifactId>
+			<version>1.0.12</version>
+		</dependency>
+
 	</dependencies>
-	
+
 	<!-- Compiler/ Run Test -->
 	<build>
 		<plugins>
@@ -164,8 +165,12 @@
 				<version>2.22.2</version>
 				<configuration>
 					<!-- Run TestNG xml file -->
+					<!--<suiteXmlFiles>
+						<file>environmentConfig/${environment}.xml</file>
+					</suiteXmlFiles> -->
+
 					<suiteXmlFiles>
-						<file>src/test/resources/runNopCommerceTest.xml</file>
+						<file>src/test/resources/runBankGuru.xml</file>
 					</suiteXmlFiles>
 
 					<!-- Argument -->
@@ -173,9 +178,9 @@
 						-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
 					</argLine>
 				</configuration>
-				
+
 			</plugin>
 		</plugins>
 	</build>
-  
+
 </project>

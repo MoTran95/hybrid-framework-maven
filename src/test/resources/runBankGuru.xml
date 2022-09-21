@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Bank-Guru">
+	<listeners>
+		<listener class-name='commons.MethodListener'></listener>
+	</listeners>
+	<parameter name="GuruUrl" value="Dev" />
+	<test name="Run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.bankGuru.payment.Payment" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce">
+	<listeners>
+		<listener class-name='commons.MethodListener'></listener>
+	</listeners>
+	<parameter name="NopCommerceUrl" value="Dev" />
+	<test name="Run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="commons.RegisterNopCommercePage" />
+			<class name="com.nopCommerce.user.MyAccount" />
+		</classes>
+	</test>
+</suite>

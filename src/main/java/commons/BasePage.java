@@ -24,16 +24,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import pageObject.wordpress.AdminDashboadPageObject;
-import pageObject.wordpress.UserHomePO;
-import pageObjects.nopcommerce.admin.AdminLoginPageObject;
-import pageObjects.nopcommerce.user.UserAddressPageObject;
-import pageObjects.nopcommerce.user.UserCustomerInforPageObject;
-import pageObjects.nopcommerce.user.UserHomePageObject;
-import pageObjects.nopcommerce.user.UserMyProductReviewPageObject;
-import pageObjects.nopcommerce.user.UserRewardPointPage;
-import pageUIs.jQuery.uploadFiles.BasePageUiJqueryUpload;
-import pageUIs.nopcommerce.user.BasePageUI;
+import pageObjects.bankGuru.payment.homePagePageObject;
+
 
 /**
  * @author dream
@@ -51,7 +43,7 @@ public class BasePage {
 	public String getPageTitle(WebDriver driver) {
 		return driver.getTitle();
 	}
-
+ 
 	public String getPageUrl(WebDriver driver) {
 		return driver.getCurrentUrl();
 	}
@@ -220,6 +212,9 @@ public class BasePage {
 		Select select = new Select(getWebElement(driver, locatorType));
 		return select.getFirstSelectedOption().getText();
 	}
+	public boolean isSelectedRadioOrCheckbox(WebDriver driver, String locatorType) {
+		return getWebElement(driver, locatorType).isSelected();
+	}
 
 	public boolean isDropdownMultiple(WebDriver driver, String locatorType) {
 		Select select = new Select(getWebElement(driver, locatorType));
@@ -257,6 +252,9 @@ public class BasePage {
 
 	public String getElementAtribute(WebDriver driver, String locatorType, String attributeName) {
 		return getWebElement(driver, locatorType).getAttribute(attributeName);
+	}
+	public boolean isInputContains(WebDriver driver, String locatorType, String value) {
+		return getWebElement(driver, locatorType).getAttribute("value").contains(value);
 	}
 
 	public String getElementAtribute(WebDriver driver, String locatorType, String attributeName,
@@ -533,130 +531,6 @@ public class BasePage {
 				ExpectedConditions.elementToBeClickable(getByLocator(getDynamicXpath(locatorType, dynamicValues))));
 	}
 
-	public UserAddressPageObject openAddressPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUI.ADDRESS_LINK);
-		clickToElement(driver, BasePageUI.ADDRESS_LINK);
-		return PageGeneratorManager.getUserAddressPage(driver);
-	}
-
-	public UserMyProductReviewPageObject openMyProductReviewPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUI.MY_PRODUCT_REVIEW_LINK);
-		clickToElement(driver, BasePageUI.MY_PRODUCT_REVIEW_LINK);
-		return PageGeneratorManager.getUserMyProductReviewPage(driver);
-	}
-
-	public UserRewardPointPage openRewardPointPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUI.REWARD_POINT_LINK);
-		clickToElement(driver, BasePageUI.REWARD_POINT_LINK);
-		return PageGeneratorManager.getUserRewardPointPage(driver);
-	}
-
-	public UserCustomerInforPageObject openCustomerInforPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUI.CUSTOMER_INFOR_LINK);
-		clickToElement(driver, BasePageUI.CUSTOMER_INFOR_LINK);
-		return PageGeneratorManager.getUserCustomerInfo(driver);
-	}
-
-	public BasePage openPagesAtMyAccountByName(WebDriver driver, String pageName) {
-		waitForElementClickable(driver, BasePageUI.DYNAMIC_PAGES_AT_MY_ACCOUNT_AREA, pageName);
-		clickToElement(driver, BasePageUI.DYNAMIC_PAGES_AT_MY_ACCOUNT_AREA, pageName);
-		switch (pageName) {
-		case "Customer info":
-			return PageGeneratorManager.getUserCustomerInfo(driver);
-		case "Addresses":
-			return PageGeneratorManager.getUserAddressPage(driver);
-		case "My product reviews":
-			return PageGeneratorManager.getUserMyProductReviewPage(driver);
-		case "Reward points":
-			return PageGeneratorManager.getUserRewardPointPage(driver);
-
-		default:
-			throw new RuntimeException("Invalid page name at My Account area");
-		}
-	}
-
-	public void openPagesAtMyAccountPageByName(WebDriver driver, String pageName) {
-		waitForElementClickable(driver, BasePageUI.DYNAMIC_PAGES_AT_MY_ACCOUNT_AREA, pageName);
-		clickToElement(driver, BasePageUI.DYNAMIC_PAGES_AT_MY_ACCOUNT_AREA, pageName);
-	}
-
-	/**
-	 * Enter to dynamic Textbox by ID
-	 */
-	public void inputToTextboxByID(WebDriver driver, String textboxID, String value) {
-		waitForElementVisible(driver, BasePageUI.DYNAMIC_TEXTBOX_BY_ID, textboxID);
-		sendKeyToElement(driver, BasePageUI.DYNAMIC_TEXTBOX_BY_ID, value, textboxID);
-
-	}
-
-	/**
-	 * Click to dynamic Button by ID
-	 */
-	public void clickToButtonByText(WebDriver driver, String buttonText) {
-		waitForElementClickable(driver, BasePageUI.DYNAMIC_BUTTON_BY_TEXT, buttonText);
-		clickToElement(driver, BasePageUI.DYNAMIC_BUTTON_BY_TEXT, buttonText);
-	}
-
-	/**
-	 * Select item in dropdown by Name attribute
-	 * 
-	 * @param driver
-	 * @param dropdownAtributeName
-	 * @param itemValue
-	 */
-	public void selectToDropdownByName(WebDriver driver, String dropdownAtributeName, String itemValue) {
-		waitForElementClickable(driver, BasePageUI.DYNAMIC_DROPDOWN_BY_NAME, dropdownAtributeName);
-		selectItemInDefaultDropdown(driver, BasePageUI.DYNAMIC_DROPDOWN_BY_NAME, itemValue, dropdownAtributeName);
-
-	}
-
-	/**
-	 * Click to dynamic radio by label name
-	 * 
-	 * @param driver
-	 * @param radioLabelName
-	 */
-	public void clickToRadioButtonByLabel(WebDriver driver, String radioLabelName) {
-		waitForElementClickable(driver, BasePageUI.DYNAMIC_RADIO_BUTTON_BY_LABEL, radioLabelName);
-		checkToDefaultCheckboxOrRadio(driver, BasePageUI.DYNAMIC_RADIO_BUTTON_BY_LABEL, radioLabelName);
-	}
-
-	/**
-	 * Click to dynamic checkbox by label name
-	 * 
-	 * @param driver
-	 * @param checkboxLabel
-	 */
-	public void clickToCheckboxByLabel(WebDriver driver, String checkboxLabel) {
-		waitForElementClickable(driver, BasePageUI.DYNAMIC_CHECKBOX_BY_LABEL, checkboxLabel);
-		checkToDefaultCheckboxOrRadio(driver, BasePageUI.DYNAMIC_CHECKBOX_BY_LABEL, checkboxLabel);
-
-	}
-
-	/**
-	 * Get value in textbox by textboxID
-	 * 
-	 * @param driver
-	 * @param textboxID
-	 * @return
-	 */
-	public String getTextboxValueByID(WebDriver driver, String textboxID) {
-		waitForElementVisible(driver, BasePageUI.DYNAMIC_TEXTBOX_BY_ID, textboxID);
-		return getElementAtribute(driver, BasePageUI.DYNAMIC_TEXTBOX_BY_ID, "value", textboxID);
-	}
-
-	public UserHomePageObject clickToLogoutLinkAtUserPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUI.LOGOUT_LINK_AT_USER);
-		clickToElement(driver, BasePageUI.LOGOUT_LINK_AT_USER);
-		return PageGeneratorManager.getUserHomePage(driver);
-	}
-
-	public AdminLoginPageObject clickToLogoutLinkAtAdminPage(WebDriver driver) {
-		waitForElementClickable(driver, BasePageUI.LOGOUT_LINK_AT_ADMIN);
-		clickToElement(driver, BasePageUI.LOGOUT_LINK_AT_ADMIN);
-		return PageGeneratorManager.getAdminLoginPage(driver);
-	}
-
 	public List<String> readFile(String filePath) {
 		List<String> expectedAllCountryValues = new ArrayList<String>();
 		try {
@@ -675,25 +549,8 @@ public class BasePage {
 
 	}
 
-	public void uploadMultipleFiles(WebDriver driver, String... fileNames) {
-		String filePath = GlobalConstants.UPLOAD_FILE;
-		String fullFileName = "";
-		for (String file : fileNames) {
-			fullFileName = fullFileName + filePath + file + "\n";
-		}
-		fullFileName = fullFileName.trim();
-		getWebElement(driver, BasePageUiJqueryUpload.UPLOAD_FILE).sendKeys(fullFileName);
-	}
 
-	public UserHomePO openEndUserSite(WebDriver driver, String endUserUrl) {
-		openPageUrl(driver, endUserUrl);
-		return pageObject.wordpress.PageGeneratorManager.getUserHomePage(driver);
-	}
-
-	public AdminDashboadPageObject openAdminSite(WebDriver driver, String adminUrl) {
-		openPageUrl(driver, adminUrl);
-		return pageObject.wordpress.PageGeneratorManager.getAdminDashBoardPage(driver);
-	}
+	
 
 	private long longTimeout = GlobalConstants.LONG_TIMEOUT;
 	private long shortTimeout = GlobalConstants.SHORT_TIMEOUT;
