@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Bank-Guru]">
+  <parameter name="GuruUrl" value="Dev"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+  </listeners>
+  <test thread-count="5" name="Run on firefox(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.bankGuru.payment.Payment">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_03_Create_New_Account"/>
+          <include name="TC_01_Create_New_Customer"/>
+          <include name="TC_02_Edit_Customer"/>
+          <include name="afterClass"/>
+          <include name="initBeforeSuite"/>
+        </methods>
+      </class> <!-- com.bankGuru.payment.Payment -->
+    </classes>
+  </test> <!-- Run on firefox(failed) -->
+</suite> <!-- Failed suite [Bank-Guru] -->
