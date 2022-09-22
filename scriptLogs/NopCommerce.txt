@@ -1,24 +1,48 @@
-[2022-09-21 15:38:26,591] Pre-condition-01: click to login link
-[2022-09-21 15:38:27,255] Pre-condition-02: enter to email adelaida.auer@gmail.com
-[2022-09-21 15:38:27,307] Pre-condition-03: enter to password5lp4A3^@%6
-[2022-09-21 15:38:27,354] Pre-condition-04: click to Login Button
-[2022-09-21 15:38:28,052] Upadte_customer_infor_01: click to my account link
-[2022-09-21 15:38:28,669] Upadte_customer_infor_02: select Female radio
-[2022-09-21 15:38:28,911] Upadte_customer_infor_03: enter fisrt name textbox
-[2022-09-21 15:38:28,963] Upadte_customer_infor_04: enter last name textbox
-[2022-09-21 15:38:29,016] Upadte_customer_infor_05: select date
-[2022-09-21 15:38:29,266] Upadte_customer_infor_06: select month
-[2022-09-21 15:38:29,515] Upadte_customer_infor_07: select year
-[2022-09-21 15:38:29,766] Upadte_customer_infor_08: enter email textbox
-[2022-09-21 15:38:29,822] Upadte_customer_infor_09: enter company name textbox
-[2022-09-21 15:38:29,872] Upadte_customer_infor_10: click save button
-[2022-09-21 15:38:30,530] Upadte_customer_infor_11: Verify Gender is updated female
-[2022-09-21 15:38:30,560] Upadte_customer_infor_12: Verify first name is updated successful Dagny
-[2022-09-21 15:38:30,587] Upadte_customer_infor_13: Verify last name is updated successful Prohaska
-[2022-09-21 15:38:30,613] Upadte_customer_infor_14: Verify date is updated successful 11
-[2022-09-21 15:38:30,676] Upadte_customer_infor_15: Verify month is updated successful July
-[2022-09-21 15:38:30,730] Upadte_customer_infor_16: Verify year is updated successful 2000
-[2022-09-21 15:38:30,939] Upadte_customer_infor_17: Verify email is updated successful annelle.boyer@yahoo.com
-[2022-09-21 15:38:30,967] Upadte_customer_infor_18: Verify company name is updated successful Torphy Inc
-[2022-09-21 15:38:30,999] OS name = mac os x
-[2022-09-21 15:38:30,999] Driver instance name = firefoxdriver: firefox on mac (410b0723-6be3-45cf-a447-d53f569e8b4f)
+[2022-09-22 18:47:49,833] Pre-condition-01: click to login link
+[2022-09-22 18:47:50,291] Pre-condition-02: enter to email lucienne.altenwerth@gmail.com
+[2022-09-22 18:47:50,414] Pre-condition-03: enter to password q%M%%We%O
+[2022-09-22 18:47:50,517] Pre-condition-04: click to Login Button
+[2022-09-22 18:47:51,186] Search_Empty_Data_01: click to search link
+[2022-09-22 18:47:53,698] Search_Empty_Data_02: click to search button
+[2022-09-22 18:47:56,149] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:47:56,203] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 18:47:58,576] Search_Data_Not_Exists_02: enter data not exist into search textbox
+[2022-09-22 18:47:58,685] Search_Data_Not_Exists_03: click to search button
+[2022-09-22 18:48:01,093] Search_Data_Not_Exists_04: Verify error message
+[2022-09-22 18:48:01,134] Search_Relative_Data_01: click to search link
+[2022-09-22 18:48:03,551] Search_Relative_Data_02: enter relative data into search textbox
+[2022-09-22 18:48:03,654] Search_Relative_Data_03: click to search button
+[2022-09-22 18:48:06,114] Search_Relative_Data_04: Verify result
+[2022-09-22 18:48:06,221] Search_Absolute_Data_01: click to search link
+[2022-09-22 18:48:08,645] Search_Absolute_Data_02: enter absolute data into search textbox
+[2022-09-22 18:48:08,756] Search_Absolute_Data_03: click to search button
+[2022-09-22 18:48:11,205] Search_Absolute_Data_04: Verify result
+[2022-09-22 18:48:11,267] Advanced_Search_With_Parent_01: click to search link
+[2022-09-22 18:48:13,759] Advanced_Search_With_Parent_02: enter data  into search textbox
+[2022-09-22 18:48:13,872] Advanced_Search_With_Parent_03: click search textbox
+[2022-09-22 18:48:13,945] Advanced_Search_With_Parent_04: select computers in dropdown
+[2022-09-22 18:48:14,061] Advanced_Search_With_Parent_05: click to search button
+[2022-09-22 18:48:16,532] Advanced_Search_With_Parent_06: Verify error message
+[2022-09-22 18:48:16,570] Advanced_Search_With_Sub_01: click to search link
+[2022-09-22 18:48:18,977] Advanced_Search_With_Sub_02: enter data  into search textbox
+[2022-09-22 18:48:19,095] Advanced_Search_With_Sub_03: click search textbox
+[2022-09-22 18:48:19,165] Advanced_Search_With_Sub_04: select computers in dropdown
+[2022-09-22 18:48:19,236] Advanced_Search_With_Sub_05: click Auto textbox
+[2022-09-22 18:48:19,311] Advanced_Search_With_Sub_06: click to search button
+[2022-09-22 18:48:21,863] Advanced_Search_With_Sub_07: Verify result
+[2022-09-22 18:48:21,927] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
+[2022-09-22 18:48:24,407] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
+[2022-09-22 18:48:24,519] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
+[2022-09-22 18:48:24,584] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
+[2022-09-22 18:48:24,651] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
+[2022-09-22 18:48:24,724] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
+[2022-09-22 18:48:24,791] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
+[2022-09-22 18:48:27,282] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+[2022-09-22 18:48:27,322] Advanced_Search_Correct_Manuafacturer_01: click to search link
+[2022-09-22 18:48:29,735] Advanced_Search_Correct_Manuafacturer_02: enter data  into search textbox
+[2022-09-22 18:48:29,844] Advanced_Search_Correct_Manuafacturer_03: click search textbox
+[2022-09-22 18:48:29,913] Advanced_Search_Correct_Manuafacturer_04: select computers in dropdown
+[2022-09-22 18:48:29,983] Advanced_Search_Correct_Manuafacturer_05: click Auto textbox
+[2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
+[2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
+[2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result

@@ -118,10 +118,10 @@ public class Login {
 			loginPage.enterPasswordTextbox(password);
 
 			log.info("Login-Success-03: Click to login button");
-			loginPage.clickToLoginButton();
+			homePage = loginPage.clickToLoginButton();
 			
 			log.info("Login-Success-04: Verify displayed my account in home page");
-			Assert.assertTrue(loginPage.isDisplayedMyAccount());
+			Assert.assertTrue(homePage.isDisplayedMyAccount());
 			
 			
 		}

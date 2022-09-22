@@ -14,10 +14,10 @@ public class LoginPageObject extends BasePage {
 		this.driver = driver;
 	}
 
-	public void clickToLoginButton() {
+	public HomePageObject clickToLoginButton() {
 		waitForElementClickable(driver, LoginPageUI.LOGIN_BUTTON);
 		clickToElement(driver, LoginPageUI.LOGIN_BUTTON);
-
+		return PageGeneratorManagerNopCommerce.getHomePage(driver);
 	}
 
 	public boolean isErrorMessageDisplay(String message) {
@@ -41,14 +41,5 @@ public class LoginPageObject extends BasePage {
 		
 	}
 
-	public boolean isDisplayedMyAccount() {
-		waitForElementVisible(driver, LoginPageUI.MY_ACCOUNT_LINK);
-		return isElementDisplayed(driver,LoginPageUI.MY_ACCOUNT_LINK);
-	}
-
-	public MyAccountPageObject clickToMyAccountLink() {
-		waitForElementClickable(driver, LoginPageUI.MY_ACCOUNT_LINK);
-		clickToElement(driver, LoginPageUI.MY_ACCOUNT_LINK);
-		return PageGeneratorManagerNopCommerce.getMyAccountPage(driver);
-	}
+	
 }

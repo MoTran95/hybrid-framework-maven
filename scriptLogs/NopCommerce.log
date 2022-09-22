@@ -1173,3 +1173,1113 @@ must have at least 6 characters
 [2022-09-21 15:38:30,967] Upadte_customer_infor_18: Verify company name is updated successful Torphy Inc
 [2022-09-21 15:38:30,999] OS name = mac os x
 [2022-09-21 15:38:30,999] Driver instance name = firefoxdriver: firefox on mac (410b0723-6be3-45cf-a447-d53f569e8b4f)
+[2022-09-21 16:09:54,152] Pre-condition-01: click to login link
+[2022-09-21 16:09:54,869] Pre-condition-02: enter to email france.cassin@yahoo.com
+[2022-09-21 16:09:54,921] Pre-condition-03: enter to password$dfZ0xz50q
+[2022-09-21 16:09:54,968] Pre-condition-04: click to Login Button
+[2022-09-21 16:09:55,637] Upadte_customer_infor_01: click to my account link
+[2022-09-21 16:09:56,279] Upadte_customer_infor_02: select Female radio
+[2022-09-21 16:09:56,518] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-21 16:09:56,567] Upadte_customer_infor_04: enter last name textbox
+[2022-09-21 16:09:56,621] Upadte_customer_infor_05: select date
+[2022-09-21 16:09:56,871] Upadte_customer_infor_06: select month
+[2022-09-21 16:09:57,121] Upadte_customer_infor_07: select year
+[2022-09-21 16:09:57,371] Upadte_customer_infor_08: enter email textbox
+[2022-09-21 16:09:57,424] Upadte_customer_infor_09: enter company name textbox
+[2022-09-21 16:09:57,474] Upadte_customer_infor_10: click save button
+[2022-09-21 16:09:58,136] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-21 16:09:58,166] Upadte_customer_infor_12: Verify first name is updated successful Alanna
+[2022-09-21 16:09:58,192] Upadte_customer_infor_13: Verify last name is updated successful Howe
+[2022-09-21 16:09:58,217] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-21 16:09:58,284] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-21 16:09:58,338] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-21 16:09:58,572] Upadte_customer_infor_17: Verify email is updated successful janae.rutherford@hotmail.com
+[2022-09-21 16:09:58,600] Upadte_customer_infor_18: Verify company name is updated successful Corwin Group
+[2022-09-21 16:09:58,625] OS name = mac os x
+[2022-09-21 16:09:58,625] Driver instance name = firefoxdriver: firefox on mac (1af1321d-a671-4a82-abfc-07bbd4883c6d)
+[2022-09-21 17:20:35,645] Pre-condition-01: click to login link
+[2022-09-21 17:20:36,201] Pre-condition-02: enter to email sherrill.herzog@yahoo.com
+[2022-09-21 17:20:36,259] Pre-condition-03: enter to password zEwi3$2u
+[2022-09-21 17:20:36,307] Pre-condition-04: click to Login Button
+[2022-09-21 17:20:37,132] Upadte_customer_infor_01: click to my account link
+[2022-09-21 17:20:37,631] Upadte_customer_infor_02: select Female radio
+[2022-09-21 17:20:37,879] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-21 17:20:37,931] Upadte_customer_infor_04: enter last name textbox
+[2022-09-21 17:20:37,984] Upadte_customer_infor_05: select date
+[2022-09-21 17:20:38,236] Upadte_customer_infor_06: select month
+[2022-09-21 17:20:38,483] Upadte_customer_infor_07: select year
+[2022-09-21 17:20:38,729] Upadte_customer_infor_08: enter email textbox
+[2022-09-21 17:20:38,787] Upadte_customer_infor_09: enter company name textbox
+[2022-09-21 17:20:38,838] Upadte_customer_infor_10: click save button
+[2022-09-21 17:20:39,685] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-21 17:20:39,714] Upadte_customer_infor_12: Verify first name is updated successful Donn
+[2022-09-21 17:20:39,740] Upadte_customer_infor_13: Verify last name is updated successful Heller
+[2022-09-21 17:20:39,766] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-21 17:20:39,836] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-21 17:20:39,892] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-21 17:20:40,103] Upadte_customer_infor_17: Verify email is updated successful glenda.beer@yahoo.com
+[2022-09-21 17:20:40,130] Upadte_customer_infor_18: Verify company name is updated successful Moore LLC
+[2022-09-21 17:20:40,157] Add_Address_01: click to my account link
+[2022-09-21 17:20:40,596] Add_Address_02: click to addressess link
+[2022-09-21 17:20:41,076] Add_Address_03: click to add button
+[2022-09-21 17:20:41,811] Add_Address_04: enter firstname textbox Donn
+[2022-09-21 17:20:41,886] Add_Address_05: enter lastname textbox Heller
+[2022-09-21 17:20:41,928] Add_Address_05: enter email textbox sherrill.herzog@yahoo.com
+[2022-09-21 17:20:41,973] Add_Address_06: enter company textbox Moore LLC
+[2022-09-21 17:20:42,011] Add_Address_07: enter country textbox China
+[2022-09-21 17:20:42,267] Add_Address_08: enter state textbox other
+[2022-09-21 17:23:57,756] Pre-condition-01: click to login link
+[2022-09-21 17:23:58,903] Pre-condition-02: enter to email nu.dooley@yahoo.com
+[2022-09-21 17:23:58,954] Pre-condition-03: enter to password T7vo*IJcwAX
+[2022-09-21 17:23:59,008] Pre-condition-04: click to Login Button
+[2022-09-21 17:23:59,787] Upadte_customer_infor_01: click to my account link
+[2022-09-21 17:24:00,287] Upadte_customer_infor_02: select Female radio
+[2022-09-21 17:24:00,528] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-21 17:24:00,583] Upadte_customer_infor_04: enter last name textbox
+[2022-09-21 17:24:00,634] Upadte_customer_infor_05: select date
+[2022-09-21 17:24:00,882] Upadte_customer_infor_06: select month
+[2022-09-21 17:24:01,133] Upadte_customer_infor_07: select year
+[2022-09-21 17:24:01,379] Upadte_customer_infor_08: enter email textbox
+[2022-09-21 17:24:01,434] Upadte_customer_infor_09: enter company name textbox
+[2022-09-21 17:24:01,485] Upadte_customer_infor_10: click save button
+[2022-09-21 17:24:02,163] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-21 17:24:02,194] Upadte_customer_infor_12: Verify first name is updated successful Joseph
+[2022-09-21 17:24:02,220] Upadte_customer_infor_13: Verify last name is updated successful Mayert
+[2022-09-21 17:24:02,245] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-21 17:24:02,314] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-21 17:24:02,369] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-21 17:24:02,596] Upadte_customer_infor_17: Verify email is updated successful charline.hackett@hotmail.com
+[2022-09-21 17:24:02,622] Upadte_customer_infor_18: Verify company name is updated successful Thompson-Runolfsson
+[2022-09-21 17:24:02,649] Add_Address_01: click to my account link
+[2022-09-21 17:24:03,045] Add_Address_02: click to addressess link
+[2022-09-21 17:24:03,531] Add_Address_03: click to add button
+[2022-09-21 17:24:04,161] Add_Address_04: enter firstname textbox Joseph
+[2022-09-21 17:24:04,201] Add_Address_05: enter lastname textbox Mayert
+[2022-09-21 17:24:04,246] Add_Address_05: enter email textbox nu.dooley@yahoo.com
+[2022-09-21 17:24:04,288] Add_Address_06: enter company textbox Thompson-Runolfsson
+[2022-09-21 17:24:04,328] Add_Address_07: enter country textbox China
+[2022-09-21 17:24:04,582] Add_Address_08: enter state textbox Other
+[2022-09-21 17:24:04,618] Add_Address_09: enter city textbox Keelingberg
+[2022-09-21 17:24:04,658] Add_Address_10: enter address1 textbox 31082 Hudson Summit
+[2022-09-21 17:24:04,699] Add_Address_11: enter address2 textbox 0626 Haag Roads
+[2022-09-21 17:24:04,741] Add_Address_12: enter zip textbox 29175
+[2022-09-21 17:24:04,784] Add_Address_13: enter phone textbox 865.211.4851 x6984
+[2022-09-21 17:24:04,830] Add_Address_14: enter fax textbox 900.306.2398 x261
+[2022-09-21 17:24:04,870] Add_Address_15: click to save button 
+[2022-09-21 17:24:05,653] Add_Address_16: Verify name Joseph Mayert
+[2022-09-21 17:26:59,249] Pre-condition-01: click to login link
+[2022-09-21 17:26:59,740] Pre-condition-02: enter to email graig.beatty@yahoo.com
+[2022-09-21 17:26:59,792] Pre-condition-03: enter to password mFBqqQceu
+[2022-09-21 17:26:59,845] Pre-condition-04: click to Login Button
+[2022-09-21 17:27:00,567] Upadte_customer_infor_01: click to my account link
+[2022-09-21 17:27:01,114] Upadte_customer_infor_02: select Female radio
+[2022-09-21 17:27:01,360] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-21 17:27:01,414] Upadte_customer_infor_04: enter last name textbox
+[2022-09-21 17:27:01,464] Upadte_customer_infor_05: select date
+[2022-09-21 17:27:01,713] Upadte_customer_infor_06: select month
+[2022-09-21 17:27:01,960] Upadte_customer_infor_07: select year
+[2022-09-21 17:27:02,210] Upadte_customer_infor_08: enter email textbox
+[2022-09-21 17:27:02,264] Upadte_customer_infor_09: enter company name textbox
+[2022-09-21 17:27:02,314] Upadte_customer_infor_10: click save button
+[2022-09-21 17:27:02,974] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-21 17:27:03,004] Upadte_customer_infor_12: Verify first name is updated successful Arnita
+[2022-09-21 17:27:03,031] Upadte_customer_infor_13: Verify last name is updated successful Bashirian
+[2022-09-21 17:27:03,056] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-21 17:27:03,120] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-21 17:27:03,173] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-21 17:27:03,378] Upadte_customer_infor_17: Verify email is updated successful brant.shanahan@gmail.com
+[2022-09-21 17:27:03,404] Upadte_customer_infor_18: Verify company name is updated successful Cronin-Macejkovic
+[2022-09-21 17:27:03,436] Add_Address_01: click to my account link
+[2022-09-21 17:27:03,821] Add_Address_02: click to addressess link
+[2022-09-21 17:27:04,386] Add_Address_03: click to add button
+[2022-09-21 17:27:04,920] Add_Address_04: enter firstname textbox Arnita
+[2022-09-21 17:27:04,961] Add_Address_05: enter lastname textbox Bashirian
+[2022-09-21 17:27:05,004] Add_Address_05: enter email textbox graig.beatty@yahoo.com
+[2022-09-21 17:27:05,049] Add_Address_06: enter company textbox Cronin-Macejkovic
+[2022-09-21 17:27:05,089] Add_Address_07: enter country textbox China
+[2022-09-21 17:27:05,339] Add_Address_08: enter state textbox Other
+[2022-09-21 17:27:05,385] Add_Address_09: enter city textbox Hilmaberg
+[2022-09-21 17:27:05,423] Add_Address_10: enter address1 textbox 7114 Larry Circles
+[2022-09-21 17:27:05,466] Add_Address_11: enter address2 textbox 31732 Alexander Corner
+[2022-09-21 17:27:05,509] Add_Address_12: enter zip textbox 04385-6498
+[2022-09-21 17:27:05,549] Add_Address_13: enter phone textbox 1-346-258-7561 x435
+[2022-09-21 17:27:05,594] Add_Address_14: enter fax textbox 886-954-5727 x97539
+[2022-09-21 17:27:05,634] Add_Address_15: click to save button 
+[2022-09-21 17:27:06,491] Add_Address_16: Verify name Arnita Bashirian
+[2022-09-21 17:27:06,518] Add_Address_17: Verify email graig.beatty@yahoo.com
+[2022-09-22 11:04:22,561] Pre-condition-01: click to login link
+[2022-09-22 11:04:23,631] Pre-condition-02: enter to email shyla.bayer@gmail.com
+[2022-09-22 11:04:23,681] Pre-condition-03: enter to password d9Y5y#LDE
+[2022-09-22 11:04:23,730] Pre-condition-04: click to Login Button
+[2022-09-22 11:04:24,388] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:04:24,851] Upadte_customer_infor_02: select Female radio
+[2022-09-22 11:04:25,093] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 11:04:25,144] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 11:04:25,198] Upadte_customer_infor_05: select date
+[2022-09-22 11:04:25,450] Upadte_customer_infor_06: select month
+[2022-09-22 11:04:25,701] Upadte_customer_infor_07: select year
+[2022-09-22 11:04:25,952] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 11:04:26,003] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 11:04:26,059] Upadte_customer_infor_10: click save button
+[2022-09-22 11:04:26,827] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 11:04:26,858] Upadte_customer_infor_12: Verify first name is updated successful Brain
+[2022-09-22 11:04:26,884] Upadte_customer_infor_13: Verify last name is updated successful Barton
+[2022-09-22 11:04:26,909] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 11:04:26,976] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 11:04:27,029] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 11:04:27,251] Upadte_customer_infor_17: Verify email is updated successful candis.dare@yahoo.com
+[2022-09-22 11:04:27,275] Upadte_customer_infor_18: Verify company name is updated successful McCullough-Goyette
+[2022-09-22 11:04:27,300] Add_Address_01: click to my account link
+[2022-09-22 11:04:27,743] Add_Address_02: click to addressess link
+[2022-09-22 11:04:28,409] Add_Address_03: click to add button
+[2022-09-22 11:04:28,965] Add_Address_04: enter firstname textbox Brain
+[2022-09-22 11:04:29,004] Add_Address_05: enter lastname textbox Barton
+[2022-09-22 11:04:29,047] Add_Address_05: enter email textbox shyla.bayer@gmail.com
+[2022-09-22 11:04:29,089] Add_Address_06: enter company textbox McCullough-Goyette
+[2022-09-22 11:04:29,126] Add_Address_07: enter country textbox China
+[2022-09-22 11:04:29,381] Add_Address_08: enter state textbox Other
+[2022-09-22 11:04:29,414] Add_Address_09: enter city textbox Guadalupefurt
+[2022-09-22 11:04:29,454] Add_Address_10: enter address1 textbox 865 Marlen Crossroad
+[2022-09-22 11:04:29,498] Add_Address_11: enter address2 textbox 8340 Cummings Grove
+[2022-09-22 11:04:29,538] Add_Address_12: enter zip textbox 90898
+[2022-09-22 11:04:29,588] Add_Address_13: enter phone textbox 038-737-0386 x704
+[2022-09-22 11:04:29,637] Add_Address_14: enter fax textbox 507-910-0266
+[2022-09-22 11:04:29,678] Add_Address_15: click to save button 
+[2022-09-22 11:04:30,484] Add_Address_16: Verify name Brain Barton
+[2022-09-22 11:04:30,513] Add_Address_17: Verify email shyla.bayer@gmail.com
+[2022-09-22 11:04:30,539] Add_Address_18: Verify phone 038-737-0386 x704
+[2022-09-22 11:09:58,414] Pre-condition-01: click to login link
+[2022-09-22 11:09:58,938] Pre-condition-02: enter to email lakenya.daniel@hotmail.com
+[2022-09-22 11:09:58,993] Pre-condition-03: enter to password tZ5!r%0e%
+[2022-09-22 11:09:59,046] Pre-condition-04: click to Login Button
+[2022-09-22 11:09:59,536] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:10:12,238] Add_Address_01: click to my account link
+[2022-09-22 11:10:45,504] Pre-condition-01: click to login link
+[2022-09-22 11:10:46,604] Pre-condition-02: enter to email nelida.stanton@gmail.com
+[2022-09-22 11:10:46,660] Pre-condition-03: enter to password AL5m$6R9
+[2022-09-22 11:10:46,713] Pre-condition-04: click to Login Button
+[2022-09-22 11:10:47,431] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:10:47,929] Upadte_customer_infor_02: select Female radio
+[2022-09-22 11:10:48,174] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 11:10:48,223] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 11:10:48,274] Upadte_customer_infor_05: select date
+[2022-09-22 11:10:48,555] Upadte_customer_infor_06: select month
+[2022-09-22 11:10:48,799] Upadte_customer_infor_07: select year
+[2022-09-22 11:10:49,046] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 11:10:49,099] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 11:10:49,150] Upadte_customer_infor_10: click save button
+[2022-09-22 11:10:49,864] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 11:10:49,894] Upadte_customer_infor_12: Verify first name is updated successful Pearly
+[2022-09-22 11:10:49,919] Upadte_customer_infor_13: Verify last name is updated successful Waelchi
+[2022-09-22 11:10:49,944] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 11:10:50,012] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 11:10:50,066] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 11:10:50,298] Upadte_customer_infor_17: Verify email is updated successful micaela.collins@gmail.com
+[2022-09-22 11:10:50,323] Upadte_customer_infor_18: Verify company name is updated successful Pagac LLC
+[2022-09-22 11:10:50,349] Add_Address_01: click to my account link
+[2022-09-22 11:10:50,894] Add_Address_02: click to addressess link
+[2022-09-22 11:10:51,431] Add_Address_03: click to add button
+[2022-09-22 11:10:51,988] Add_Address_04: enter firstname textbox Pearly
+[2022-09-22 11:10:52,031] Add_Address_05: enter lastname textbox Waelchi
+[2022-09-22 11:10:52,071] Add_Address_05: enter email textbox nelida.stanton@gmail.com
+[2022-09-22 11:10:52,113] Add_Address_06: enter company textbox Pagac LLC
+[2022-09-22 11:10:52,153] Add_Address_07: enter country textbox China
+[2022-09-22 11:10:52,408] Add_Address_08: enter state textbox Other
+[2022-09-22 11:10:52,443] Add_Address_09: enter city textbox Braunburgh
+[2022-09-22 11:10:52,485] Add_Address_10: enter address1 textbox 2432 Lecia Turnpike
+[2022-09-22 11:10:52,532] Add_Address_11: enter address2 textbox 5922 Man Drives
+[2022-09-22 11:10:52,577] Add_Address_12: enter zip textbox 91485-0986
+[2022-09-22 11:10:52,626] Add_Address_13: enter phone textbox 080.725.8837 x939
+[2022-09-22 11:10:52,673] Add_Address_14: enter fax textbox 1-134-024-3775 x680
+[2022-09-22 11:10:52,715] Add_Address_15: click to save button 
+[2022-09-22 11:10:53,599] Add_Address_16: Verify name Pearly Waelchi
+[2022-09-22 11:10:53,628] Add_Address_17: Verify email nelida.stanton@gmail.com
+[2022-09-22 11:17:55,253] Pre-condition-01: click to login link
+[2022-09-22 11:17:56,430] Pre-condition-02: enter to email monte.schimmel@yahoo.com
+[2022-09-22 11:17:56,482] Pre-condition-03: enter to password $%$v2qq4u
+[2022-09-22 11:17:56,534] Pre-condition-04: click to Login Button
+[2022-09-22 11:17:57,317] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:17:57,970] Upadte_customer_infor_02: select Female radio
+[2022-09-22 11:17:58,212] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 11:17:58,262] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 11:17:58,315] Upadte_customer_infor_05: select date
+[2022-09-22 11:17:58,567] Upadte_customer_infor_06: select month
+[2022-09-22 11:17:58,818] Upadte_customer_infor_07: select year
+[2022-09-22 11:17:59,064] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 11:17:59,116] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 11:17:59,175] Upadte_customer_infor_10: click save button
+[2022-09-22 11:17:59,866] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 11:17:59,897] Upadte_customer_infor_12: Verify first name is updated successful Neda
+[2022-09-22 11:17:59,923] Upadte_customer_infor_13: Verify last name is updated successful Goodwin
+[2022-09-22 11:17:59,949] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 11:18:00,025] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 11:18:00,093] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 11:18:00,335] Upadte_customer_infor_17: Verify email is updated successful denese.gottlieb@yahoo.com
+[2022-09-22 11:18:00,362] Upadte_customer_infor_18: Verify company name is updated successful Harris, Hayes and Rempel
+[2022-09-22 11:18:00,390] Add_Address_01: click to my account link
+[2022-09-22 11:18:00,860] Add_Address_02: click to addressess link
+[2022-09-22 11:18:01,405] Add_Address_03: click to add button
+[2022-09-22 11:18:02,055] Add_Address_04: enter firstname textbox Neda
+[2022-09-22 11:18:02,097] Add_Address_05: enter lastname textbox Goodwin
+[2022-09-22 11:18:02,140] Add_Address_05: enter email textbox monte.schimmel@yahoo.com
+[2022-09-22 11:18:02,184] Add_Address_06: enter company textbox Harris, Hayes and Rempel
+[2022-09-22 11:18:02,227] Add_Address_07: enter country textbox China
+[2022-09-22 11:18:02,475] Add_Address_08: enter state textbox Other
+[2022-09-22 11:18:02,521] Add_Address_09: enter city textbox Blickton
+[2022-09-22 11:18:02,559] Add_Address_10: enter address1 textbox 189 Dietrich Haven
+[2022-09-22 11:18:02,603] Add_Address_11: enter address2 textbox 799 Goldner Springs
+[2022-09-22 11:18:02,647] Add_Address_12: enter zip textbox 58437-5283
+[2022-09-22 11:18:02,694] Add_Address_13: enter phone textbox 480-494-2171
+[2022-09-22 11:18:02,735] Add_Address_14: enter fax textbox 478-581-5195 x7283
+[2022-09-22 11:18:02,780] Add_Address_15: click to save button 
+[2022-09-22 11:18:03,577] Add_Address_16: Verify name Neda Goodwin
+[2022-09-22 11:18:03,605] Add_Address_17: Verify email monte.schimmel@yahoo.com
+[2022-09-22 11:18:03,628] Add_Address_18: Verify phone 480-494-2171
+[2022-09-22 11:18:03,651] Add_Address_19: Verify fax 478-581-5195 x7283
+[2022-09-22 11:18:03,675] Add_Address_20: Verify company Harris, Hayes and Rempel
+[2022-09-22 11:18:03,698] Add_Address_21: Verify add1 189 Dietrich Haven
+[2022-09-22 11:18:03,720] Add_Address_22: Verify add2 799 Goldner Springs
+[2022-09-22 11:18:03,743] Add_Address_23: Verify city-state-zip Blickton 58437-5283
+[2022-09-22 11:20:51,817] Pre-condition-01: click to login link
+[2022-09-22 11:20:52,997] Pre-condition-02: enter to email aurore.erdman@hotmail.com
+[2022-09-22 11:20:53,056] Pre-condition-03: enter to password hX2d%9ZHJ%8
+[2022-09-22 11:20:53,099] Pre-condition-04: click to Login Button
+[2022-09-22 11:20:53,859] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:20:54,405] Upadte_customer_infor_02: select Female radio
+[2022-09-22 11:20:54,649] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 11:20:54,701] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 11:20:54,753] Upadte_customer_infor_05: select date
+[2022-09-22 11:20:55,007] Upadte_customer_infor_06: select month
+[2022-09-22 11:20:55,253] Upadte_customer_infor_07: select year
+[2022-09-22 11:20:55,505] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 11:20:55,560] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 11:20:55,614] Upadte_customer_infor_10: click save button
+[2022-09-22 11:20:56,279] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 11:20:56,313] Upadte_customer_infor_12: Verify first name is updated successful Sydney
+[2022-09-22 11:20:56,338] Upadte_customer_infor_13: Verify last name is updated successful Farrell
+[2022-09-22 11:20:56,364] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 11:20:56,434] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 11:20:56,493] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 11:20:56,719] Upadte_customer_infor_17: Verify email is updated successful marcel.johnston@gmail.com
+[2022-09-22 11:20:56,746] Upadte_customer_infor_18: Verify company name is updated successful Hayes and Sons
+[2022-09-22 11:20:56,772] Add_Address_01: click to my account link
+[2022-09-22 11:20:57,157] Add_Address_02: click to addressess link
+[2022-09-22 11:20:57,643] Add_Address_03: click to add button
+[2022-09-22 11:20:58,257] Add_Address_04: enter firstname textbox Sydney
+[2022-09-22 11:20:58,336] Add_Address_05: enter lastname textbox Farrell
+[2022-09-22 11:20:58,376] Add_Address_05: enter email textbox aurore.erdman@hotmail.com
+[2022-09-22 11:20:58,420] Add_Address_06: enter company textbox Hayes and Sons
+[2022-09-22 11:20:58,462] Add_Address_07: enter country textbox China
+[2022-09-22 11:20:58,715] Add_Address_08: enter state textbox Other
+[2022-09-22 11:20:58,775] Add_Address_09: enter city textbox North Derickchester
+[2022-09-22 11:20:58,815] Add_Address_10: enter address1 textbox 25689 Cortez Ramp
+[2022-09-22 11:20:58,857] Add_Address_11: enter address2 textbox 62611 Botsford Extensions
+[2022-09-22 11:20:58,907] Add_Address_12: enter zip textbox 02456-8378
+[2022-09-22 11:20:58,956] Add_Address_13: enter phone textbox 987-760-8962 x30474
+[2022-09-22 11:20:58,996] Add_Address_14: enter fax textbox 108.041.6025 x68835
+[2022-09-22 11:20:59,037] Add_Address_15: click to save button 
+[2022-09-22 11:21:00,109] Add_Address_16: Verify name Sydney Farrell
+[2022-09-22 11:21:00,141] Add_Address_17: Verify email aurore.erdman@hotmail.com
+[2022-09-22 11:21:00,167] Add_Address_18: Verify phone 987-760-8962 x30474
+[2022-09-22 11:21:00,191] Add_Address_19: Verify fax 108.041.6025 x68835
+[2022-09-22 11:21:00,215] Add_Address_20: Verify company Hayes and Sons
+[2022-09-22 11:21:00,237] Add_Address_21: Verify add1 25689 Cortez Ramp
+[2022-09-22 11:21:00,260] Add_Address_22: Verify add2 62611 Botsford Extensions
+[2022-09-22 11:21:00,282] Add_Address_23: Verify city-state-zip North Derickchester 02456-8378
+[2022-09-22 11:22:11,767] Pre-condition-01: click to login link
+[2022-09-22 11:22:12,930] Pre-condition-02: enter to email marla.schoen@gmail.com
+[2022-09-22 11:22:12,980] Pre-condition-03: enter to password 2A#i#3w8V*u
+[2022-09-22 11:22:13,028] Pre-condition-04: click to Login Button
+[2022-09-22 11:22:13,689] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:22:14,218] Upadte_customer_infor_02: select Female radio
+[2022-09-22 11:22:14,462] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 11:22:14,512] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 11:22:14,565] Upadte_customer_infor_05: select date
+[2022-09-22 11:22:14,816] Upadte_customer_infor_06: select month
+[2022-09-22 11:22:15,064] Upadte_customer_infor_07: select year
+[2022-09-22 11:22:15,314] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 11:22:15,368] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 11:22:15,420] Upadte_customer_infor_10: click save button
+[2022-09-22 11:22:16,074] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 11:22:16,104] Upadte_customer_infor_12: Verify first name is updated successful Lita
+[2022-09-22 11:22:16,130] Upadte_customer_infor_13: Verify last name is updated successful Schmitt
+[2022-09-22 11:22:16,155] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 11:22:16,220] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 11:22:16,272] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 11:22:16,480] Upadte_customer_infor_17: Verify email is updated successful dalene.hartmann@yahoo.com
+[2022-09-22 11:22:16,505] Upadte_customer_infor_18: Verify company name is updated successful Dickinson-Stanton
+[2022-09-22 11:22:16,535] Add_Address_01: click to my account link
+[2022-09-22 11:22:16,913] Add_Address_02: click to addressess link
+[2022-09-22 11:22:17,427] Add_Address_03: click to add button
+[2022-09-22 11:22:18,000] Add_Address_04: enter firstname textbox Lita
+[2022-09-22 11:22:18,174] Add_Address_05: enter lastname textbox Schmitt
+[2022-09-22 11:22:18,214] Add_Address_05: enter email textbox marla.schoen@gmail.com
+[2022-09-22 11:22:18,259] Add_Address_06: enter company textbox Dickinson-Stanton
+[2022-09-22 11:22:18,299] Add_Address_07: enter country textbox China
+[2022-09-22 11:22:18,548] Add_Address_08: enter state textbox Other
+[2022-09-22 11:22:18,583] Add_Address_09: enter city textbox Faheyport
+[2022-09-22 11:22:18,621] Add_Address_10: enter address1 textbox 379 Cody Light
+[2022-09-22 11:22:18,663] Add_Address_11: enter address2 textbox 2200 Morissette Burgs
+[2022-09-22 11:22:18,704] Add_Address_12: enter zip textbox 35892
+[2022-09-22 11:22:18,745] Add_Address_13: enter phone textbox 627-379-3975
+[2022-09-22 11:22:18,788] Add_Address_14: enter fax textbox (492) 870-6034 x5949
+[2022-09-22 11:22:18,826] Add_Address_15: click to save button 
+[2022-09-22 11:22:19,523] Add_Address_16: Verify name Lita Schmitt
+[2022-09-22 11:22:19,552] Add_Address_17: Verify email marla.schoen@gmail.com
+[2022-09-22 11:22:19,576] Add_Address_18: Verify phone 627-379-3975
+[2022-09-22 11:22:19,599] Add_Address_19: Verify fax (492) 870-6034 x5949
+[2022-09-22 11:22:19,628] Add_Address_20: Verify company Dickinson-Stanton
+[2022-09-22 11:22:19,652] Add_Address_21: Verify add1 379 Cody Light
+[2022-09-22 11:22:19,676] Add_Address_22: Verify add2 2200 Morissette Burgs
+[2022-09-22 11:22:19,702] Add_Address_23: Verify city-state-zip Faheyport 35892
+[2022-09-22 11:22:19,728] Add_Address_24: Verify country China
+[2022-09-22 11:52:15,291] Pre-condition-01: click to login link
+[2022-09-22 11:52:16,415] Pre-condition-02: enter to email roxana.white@gmail.com
+[2022-09-22 11:52:16,466] Pre-condition-03: enter to password K$F@56&^8k
+[2022-09-22 11:52:16,515] Pre-condition-04: click to Login Button
+[2022-09-22 11:52:17,257] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:52:17,750] Upadte_customer_infor_02: select Female radio
+[2022-09-22 11:52:17,993] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 11:52:18,043] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 11:52:18,099] Upadte_customer_infor_05: select date
+[2022-09-22 11:52:18,347] Upadte_customer_infor_06: select month
+[2022-09-22 11:52:18,597] Upadte_customer_infor_07: select year
+[2022-09-22 11:52:18,846] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 11:52:18,902] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 11:52:18,955] Upadte_customer_infor_10: click save button
+[2022-09-22 11:52:19,624] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 11:52:19,656] Upadte_customer_infor_12: Verify first name is updated successful Tony
+[2022-09-22 11:52:19,680] Upadte_customer_infor_13: Verify last name is updated successful Muller
+[2022-09-22 11:52:19,705] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 11:52:19,774] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 11:52:19,829] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 11:52:20,038] Upadte_customer_infor_17: Verify email is updated successful aletha.shields@gmail.com
+[2022-09-22 11:52:20,068] Upadte_customer_infor_18: Verify company name is updated successful Huel, Cronin and Morissette
+[2022-09-22 11:52:20,095] Add_Address_01: click to my account link
+[2022-09-22 11:52:20,586] Add_Address_02: click to addressess link
+[2022-09-22 11:52:21,091] Add_Address_03: click to add button
+[2022-09-22 11:52:21,711] Add_Address_04: enter firstname textbox Tony
+[2022-09-22 11:52:21,765] Add_Address_05: enter lastname textbox Muller
+[2022-09-22 11:52:21,807] Add_Address_05: enter email textbox roxana.white@gmail.com
+[2022-09-22 11:52:21,850] Add_Address_06: enter company textbox Huel, Cronin and Morissette
+[2022-09-22 11:52:21,893] Add_Address_07: enter country textbox China
+[2022-09-22 11:52:22,144] Add_Address_08: enter state textbox Other
+[2022-09-22 11:52:22,191] Add_Address_09: enter city textbox East Dariusview
+[2022-09-22 11:52:22,228] Add_Address_10: enter address1 textbox 6066 Ahmad Ramp
+[2022-09-22 11:52:22,271] Add_Address_11: enter address2 textbox 645 Stanton Orchard
+[2022-09-22 11:52:22,313] Add_Address_12: enter zip textbox 64350
+[2022-09-22 11:52:22,364] Add_Address_13: enter phone textbox 765-291-2977 x084
+[2022-09-22 11:52:22,404] Add_Address_14: enter fax textbox 294-926-8226 x2638
+[2022-09-22 11:52:22,442] Add_Address_15: click to save button 
+[2022-09-22 11:52:23,198] Add_Address_16: Verify name Tony Muller
+[2022-09-22 11:52:23,230] Add_Address_17: Verify email roxana.white@gmail.com
+[2022-09-22 11:52:23,255] Add_Address_18: Verify phone 765-291-2977 x084
+[2022-09-22 11:52:23,280] Add_Address_19: Verify fax 294-926-8226 x2638
+[2022-09-22 11:52:23,303] Add_Address_20: Verify company Huel, Cronin and Morissette
+[2022-09-22 11:52:23,325] Add_Address_21: Verify add1 6066 Ahmad Ramp
+[2022-09-22 11:52:23,353] Add_Address_22: Verify add2 645 Stanton Orchard
+[2022-09-22 11:52:23,378] Add_Address_23: Verify city-state-zip East Dariusview 64350
+[2022-09-22 11:52:23,402] Add_Address_24: Verify country China
+[2022-09-22 11:52:23,426] Change_Password_01: click to my account link
+[2022-09-22 11:52:23,816] Change_Password_02: click to change password link
+[2022-09-22 11:52:24,369] Change_Password_03: enter old password K$F@56&^8k
+[2022-09-22 11:55:37,636] Pre-condition-01: click to login link
+[2022-09-22 11:55:38,764] Pre-condition-02: enter to email cammy.bashirian@hotmail.com
+[2022-09-22 11:55:38,817] Pre-condition-03: enter to password 2&X%$%#9
+[2022-09-22 11:55:38,869] Pre-condition-04: click to Login Button
+[2022-09-22 11:55:39,554] Upadte_customer_infor_01: click to my account link
+[2022-09-22 11:55:40,035] Upadte_customer_infor_02: select Female radio
+[2022-09-22 11:55:40,275] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 11:55:40,325] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 11:55:40,378] Upadte_customer_infor_05: select date
+[2022-09-22 11:55:40,628] Upadte_customer_infor_06: select month
+[2022-09-22 11:55:40,875] Upadte_customer_infor_07: select year
+[2022-09-22 11:55:41,124] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 11:55:41,179] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 11:55:41,231] Upadte_customer_infor_10: click save button
+[2022-09-22 11:55:41,951] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 11:55:41,983] Upadte_customer_infor_12: Verify first name is updated successful Mariel
+[2022-09-22 11:55:42,010] Upadte_customer_infor_13: Verify last name is updated successful Nienow
+[2022-09-22 11:55:42,035] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 11:55:42,102] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 11:55:42,155] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 11:55:42,376] Upadte_customer_infor_17: Verify email is updated successful marquis.mcclure@yahoo.com
+[2022-09-22 11:55:42,408] Upadte_customer_infor_18: Verify company name is updated successful Schuppe-White
+[2022-09-22 11:55:42,436] Add_Address_01: click to my account link
+[2022-09-22 11:55:42,812] Add_Address_02: click to addressess link
+[2022-09-22 11:55:43,334] Add_Address_03: click to add button
+[2022-09-22 11:55:43,978] Add_Address_04: enter firstname textbox Mariel
+[2022-09-22 11:55:44,017] Add_Address_05: enter lastname textbox Nienow
+[2022-09-22 11:55:44,058] Add_Address_05: enter email textbox cammy.bashirian@hotmail.com
+[2022-09-22 11:55:44,103] Add_Address_06: enter company textbox Schuppe-White
+[2022-09-22 11:55:44,144] Add_Address_07: enter country textbox China
+[2022-09-22 11:55:44,394] Add_Address_08: enter state textbox Other
+[2022-09-22 11:55:44,443] Add_Address_09: enter city textbox Lake Ottoview
+[2022-09-22 11:55:44,485] Add_Address_10: enter address1 textbox 63830 Rob Highway
+[2022-09-22 11:55:44,528] Add_Address_11: enter address2 textbox 5648 Jamison Alley
+[2022-09-22 11:55:44,570] Add_Address_12: enter zip textbox 27671
+[2022-09-22 11:55:44,610] Add_Address_13: enter phone textbox (770) 642-8256 x416
+[2022-09-22 11:55:44,659] Add_Address_14: enter fax textbox 1-796-201-8443 x9672
+[2022-09-22 11:55:44,700] Add_Address_15: click to save button 
+[2022-09-22 11:55:45,479] Add_Address_16: Verify name Mariel Nienow
+[2022-09-22 11:55:45,507] Add_Address_17: Verify email cammy.bashirian@hotmail.com
+[2022-09-22 11:55:45,534] Add_Address_18: Verify phone (770) 642-8256 x416
+[2022-09-22 11:55:45,559] Add_Address_19: Verify fax 1-796-201-8443 x9672
+[2022-09-22 11:55:45,582] Add_Address_20: Verify company Schuppe-White
+[2022-09-22 11:55:45,604] Add_Address_21: Verify add1 63830 Rob Highway
+[2022-09-22 11:55:45,628] Add_Address_22: Verify add2 5648 Jamison Alley
+[2022-09-22 11:55:45,649] Add_Address_23: Verify city-state-zip Lake Ottoview 27671
+[2022-09-22 11:55:45,671] Add_Address_24: Verify country China
+[2022-09-22 11:55:45,695] Change_Password_01: click to my account link
+[2022-09-22 11:55:46,162] Change_Password_02: click to change password link
+[2022-09-22 11:55:46,629] Change_Password_03: enter old password 2&X%$%#9
+[2022-09-22 11:55:46,674] Change_Password_04: enter new password #g2d@@*l9c
+[2022-09-22 11:55:46,716] Change_Password_05: enter confirm password #g2d@@*l9c
+[2022-09-22 11:55:46,757] Change_Password_06: click to change password button
+[2022-09-22 11:55:47,152] Change_Password_07: click to logout button
+[2022-09-22 12:01:42,667] Pre-condition-01: click to login link
+[2022-09-22 12:01:43,978] Pre-condition-02: enter to email antione.kling@yahoo.com
+[2022-09-22 12:01:44,031] Pre-condition-03: enter to password #R8X*L07
+[2022-09-22 12:01:44,078] Pre-condition-04: click to Login Button
+[2022-09-22 12:01:44,767] Upadte_customer_infor_01: click to my account link
+[2022-09-22 12:01:45,420] Upadte_customer_infor_02: select Female radio
+[2022-09-22 12:01:45,670] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 12:01:45,721] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 12:01:45,774] Upadte_customer_infor_05: select date
+[2022-09-22 12:01:46,025] Upadte_customer_infor_06: select month
+[2022-09-22 12:01:46,274] Upadte_customer_infor_07: select year
+[2022-09-22 12:01:46,521] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 12:01:46,580] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 12:01:46,634] Upadte_customer_infor_10: click save button
+[2022-09-22 12:01:47,396] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 12:01:47,426] Upadte_customer_infor_12: Verify first name is updated successful Ahmad
+[2022-09-22 12:01:47,451] Upadte_customer_infor_13: Verify last name is updated successful Krajcik
+[2022-09-22 12:01:47,476] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 12:01:47,543] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 12:01:47,593] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 12:01:47,799] Upadte_customer_infor_17: Verify email is updated successful shaunda.friesen@yahoo.com
+[2022-09-22 12:01:47,825] Upadte_customer_infor_18: Verify company name is updated successful Spinka, Hegmann and Morissette
+[2022-09-22 12:01:47,855] Add_Address_01: click to my account link
+[2022-09-22 12:01:48,337] Add_Address_02: click to addressess link
+[2022-09-22 12:01:48,962] Add_Address_03: click to add button
+[2022-09-22 12:01:49,590] Add_Address_04: enter firstname textbox Ahmad
+[2022-09-22 12:01:49,634] Add_Address_05: enter lastname textbox Krajcik
+[2022-09-22 12:01:49,676] Add_Address_05: enter email textbox antione.kling@yahoo.com
+[2022-09-22 12:01:49,719] Add_Address_06: enter company textbox Spinka, Hegmann and Morissette
+[2022-09-22 12:01:49,765] Add_Address_07: enter country textbox China
+[2022-09-22 12:01:50,012] Add_Address_08: enter state textbox Other
+[2022-09-22 12:01:50,070] Add_Address_09: enter city textbox West Elishire
+[2022-09-22 12:01:50,111] Add_Address_10: enter address1 textbox 966 Berry Street
+[2022-09-22 12:01:50,158] Add_Address_11: enter address2 textbox 609 Tamekia Alley
+[2022-09-22 12:01:50,209] Add_Address_12: enter zip textbox 60114-9612
+[2022-09-22 12:01:50,260] Add_Address_13: enter phone textbox 1-117-709-7271 x9652
+[2022-09-22 12:01:50,310] Add_Address_14: enter fax textbox 460.582.9287
+[2022-09-22 12:01:50,367] Add_Address_15: click to save button 
+[2022-09-22 12:01:51,123] Add_Address_16: Verify name Ahmad Krajcik
+[2022-09-22 12:01:51,152] Add_Address_17: Verify email antione.kling@yahoo.com
+[2022-09-22 12:01:51,176] Add_Address_18: Verify phone 1-117-709-7271 x9652
+[2022-09-22 12:01:51,199] Add_Address_19: Verify fax 460.582.9287
+[2022-09-22 12:01:51,223] Add_Address_20: Verify company Spinka, Hegmann and Morissette
+[2022-09-22 12:01:51,248] Add_Address_21: Verify add1 966 Berry Street
+[2022-09-22 12:01:51,271] Add_Address_22: Verify add2 609 Tamekia Alley
+[2022-09-22 12:01:51,293] Add_Address_23: Verify city-state-zip West Elishire 60114-9612
+[2022-09-22 12:01:51,315] Add_Address_24: Verify country China
+[2022-09-22 12:01:51,339] Change_Password_01: click to my account link
+[2022-09-22 12:01:51,732] Change_Password_02: click to change password link
+[2022-09-22 12:01:52,281] Change_Password_03: enter old password #R8X*L07
+[2022-09-22 12:01:52,323] Change_Password_04: enter new password p0#uf@%7^3
+[2022-09-22 12:01:52,369] Change_Password_05: enter confirm password p0#uf@%7^3
+[2022-09-22 12:01:52,409] Change_Password_06: click to change password button
+[2022-09-22 12:01:52,842] Change_Password_07: click to close button
+[2022-09-22 12:04:12,014] Pre-condition-01: click to login link
+[2022-09-22 12:04:13,303] Pre-condition-02: enter to email mindy.gleason@hotmail.com
+[2022-09-22 12:04:13,354] Pre-condition-03: enter to password oiGr!pzF3
+[2022-09-22 12:04:13,402] Pre-condition-04: click to Login Button
+[2022-09-22 12:04:14,080] Upadte_customer_infor_01: click to my account link
+[2022-09-22 12:04:14,660] Upadte_customer_infor_02: select Female radio
+[2022-09-22 12:04:14,917] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 12:04:14,977] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 12:04:15,031] Upadte_customer_infor_05: select date
+[2022-09-22 12:04:15,297] Upadte_customer_infor_06: select month
+[2022-09-22 12:04:15,547] Upadte_customer_infor_07: select year
+[2022-09-22 12:04:15,797] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 12:04:15,848] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 12:04:15,898] Upadte_customer_infor_10: click save button
+[2022-09-22 12:04:16,621] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 12:04:16,652] Upadte_customer_infor_12: Verify first name is updated successful Kasha
+[2022-09-22 12:04:16,676] Upadte_customer_infor_13: Verify last name is updated successful Howe
+[2022-09-22 12:04:16,701] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 12:04:16,768] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 12:04:16,824] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 12:04:17,032] Upadte_customer_infor_17: Verify email is updated successful noel.brekke@gmail.com
+[2022-09-22 12:04:17,061] Upadte_customer_infor_18: Verify company name is updated successful Larson-Stracke
+[2022-09-22 12:04:17,095] Add_Address_01: click to my account link
+[2022-09-22 12:04:17,542] Add_Address_02: click to addressess link
+[2022-09-22 12:04:18,164] Add_Address_03: click to add button
+[2022-09-22 12:04:18,844] Add_Address_04: enter firstname textbox Kasha
+[2022-09-22 12:04:18,885] Add_Address_05: enter lastname textbox Howe
+[2022-09-22 12:04:18,925] Add_Address_05: enter email textbox mindy.gleason@hotmail.com
+[2022-09-22 12:04:18,971] Add_Address_06: enter company textbox Larson-Stracke
+[2022-09-22 12:04:19,011] Add_Address_07: enter country textbox China
+[2022-09-22 12:04:19,262] Add_Address_08: enter state textbox Other
+[2022-09-22 12:04:19,301] Add_Address_09: enter city textbox East Santosland
+[2022-09-22 12:04:19,341] Add_Address_10: enter address1 textbox 9390 Duane Expressway
+[2022-09-22 12:04:19,405] Add_Address_11: enter address2 textbox 5709 Lon Camp
+[2022-09-22 12:04:19,452] Add_Address_12: enter zip textbox 16324
+[2022-09-22 12:04:19,491] Add_Address_13: enter phone textbox 1-064-495-7892 x616
+[2022-09-22 12:04:19,540] Add_Address_14: enter fax textbox 201.357.3769
+[2022-09-22 12:04:19,583] Add_Address_15: click to save button 
+[2022-09-22 12:04:20,308] Add_Address_16: Verify name Kasha Howe
+[2022-09-22 12:04:20,339] Add_Address_17: Verify email mindy.gleason@hotmail.com
+[2022-09-22 12:04:20,364] Add_Address_18: Verify phone 1-064-495-7892 x616
+[2022-09-22 12:04:20,390] Add_Address_19: Verify fax 201.357.3769
+[2022-09-22 12:04:20,414] Add_Address_20: Verify company Larson-Stracke
+[2022-09-22 12:04:20,439] Add_Address_21: Verify add1 9390 Duane Expressway
+[2022-09-22 12:04:20,460] Add_Address_22: Verify add2 5709 Lon Camp
+[2022-09-22 12:04:20,482] Add_Address_23: Verify city-state-zip East Santosland 16324
+[2022-09-22 12:04:20,505] Add_Address_24: Verify country China
+[2022-09-22 12:04:20,528] Change_Password_01: click to my account link
+[2022-09-22 12:04:20,918] Change_Password_02: click to change password link
+[2022-09-22 12:04:21,464] Change_Password_03: enter old password oiGr!pzF3
+[2022-09-22 12:04:21,508] Change_Password_04: enter new password 7v&4Innrq0
+[2022-09-22 12:04:21,549] Change_Password_05: enter confirm password 7v&4Innrq0
+[2022-09-22 12:04:21,591] Change_Password_06: click to change password button
+[2022-09-22 12:04:22,042] Change_Password_07: click to close button
+[2022-09-22 12:11:39,516] Pre-condition-01: click to login link
+[2022-09-22 12:11:40,726] Pre-condition-02: enter to email lanny.block@gmail.com
+[2022-09-22 12:11:40,777] Pre-condition-03: enter to password 6@Hv5*I3*
+[2022-09-22 12:11:40,830] Pre-condition-04: click to Login Button
+[2022-09-22 12:11:41,486] Upadte_customer_infor_01: click to my account link
+[2022-09-22 12:11:41,992] Upadte_customer_infor_02: select Female radio
+[2022-09-22 12:11:42,236] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 12:11:42,286] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 12:11:42,339] Upadte_customer_infor_05: select date
+[2022-09-22 12:11:42,589] Upadte_customer_infor_06: select month
+[2022-09-22 12:11:42,839] Upadte_customer_infor_07: select year
+[2022-09-22 12:11:43,089] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 12:11:43,140] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 12:11:43,200] Upadte_customer_infor_10: click save button
+[2022-09-22 12:11:43,864] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 12:11:43,894] Upadte_customer_infor_12: Verify first name is updated successful Nanci
+[2022-09-22 12:11:43,920] Upadte_customer_infor_13: Verify last name is updated successful Marquardt
+[2022-09-22 12:11:43,947] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 12:11:44,012] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 12:11:44,066] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 12:11:44,284] Upadte_customer_infor_17: Verify email is updated successful stacey.pouros@yahoo.com
+[2022-09-22 12:11:44,310] Upadte_customer_infor_18: Verify company name is updated successful Marquardt, Christiansen and Langosh
+[2022-09-22 12:11:44,338] Add_Address_01: click to my account link
+[2022-09-22 12:11:44,827] Add_Address_02: click to addressess link
+[2022-09-22 12:11:45,372] Add_Address_03: click to add button
+[2022-09-22 12:11:45,946] Add_Address_04: enter firstname textbox Nanci
+[2022-09-22 12:11:45,990] Add_Address_05: enter lastname textbox Marquardt
+[2022-09-22 12:11:46,033] Add_Address_05: enter email textbox lanny.block@gmail.com
+[2022-09-22 12:11:46,075] Add_Address_06: enter company textbox Marquardt, Christiansen and Langosh
+[2022-09-22 12:11:46,122] Add_Address_07: enter country textbox China
+[2022-09-22 12:11:46,369] Add_Address_08: enter state textbox Other
+[2022-09-22 12:11:46,418] Add_Address_09: enter city textbox Heaneyfurt
+[2022-09-22 12:11:46,461] Add_Address_10: enter address1 textbox 58820 Nitzsche Shoals
+[2022-09-22 12:11:46,510] Add_Address_11: enter address2 textbox 5202 Davis Park
+[2022-09-22 12:11:46,562] Add_Address_12: enter zip textbox 33560
+[2022-09-22 12:11:46,607] Add_Address_13: enter phone textbox 964-444-7660
+[2022-09-22 12:11:46,651] Add_Address_14: enter fax textbox 046.181.1447 x88026
+[2022-09-22 12:11:46,689] Add_Address_15: click to save button 
+[2022-09-22 12:11:47,455] Add_Address_16: Verify name Nanci Marquardt
+[2022-09-22 12:11:47,485] Add_Address_17: Verify email lanny.block@gmail.com
+[2022-09-22 12:11:47,512] Add_Address_18: Verify phone 964-444-7660
+[2022-09-22 12:11:47,537] Add_Address_19: Verify fax 046.181.1447 x88026
+[2022-09-22 12:11:47,561] Add_Address_20: Verify company Marquardt, Christiansen and Langosh
+[2022-09-22 12:11:47,583] Add_Address_21: Verify add1 58820 Nitzsche Shoals
+[2022-09-22 12:11:47,605] Add_Address_22: Verify add2 5202 Davis Park
+[2022-09-22 12:11:47,627] Add_Address_23: Verify city-state-zip Heaneyfurt 33560
+[2022-09-22 12:11:47,649] Add_Address_24: Verify country China
+[2022-09-22 12:11:47,672] Change_Password_01: click to my account link
+[2022-09-22 12:11:48,075] Change_Password_02: click to change password link
+[2022-09-22 12:11:48,554] Change_Password_03: enter old password 6@Hv5*I3*
+[2022-09-22 12:11:48,597] Change_Password_04: enter new password @1!IOsu%X7
+[2022-09-22 12:11:48,638] Change_Password_05: enter confirm password @1!IOsu%X7
+[2022-09-22 12:11:48,680] Change_Password_06: click to change password button
+[2022-09-22 12:11:49,055] Change_Password_07: click to close button
+[2022-09-22 12:11:49,093] Change_Password_07: click to logout button
+[2022-09-22 12:15:46,848] Pre-condition-01: click to login link
+[2022-09-22 12:15:48,075] Pre-condition-02: enter to email bryan.jast@hotmail.com
+[2022-09-22 12:15:48,128] Pre-condition-03: enter to password G9*0Q&ia@
+[2022-09-22 12:15:48,186] Pre-condition-04: click to Login Button
+[2022-09-22 12:15:48,946] Upadte_customer_infor_01: click to my account link
+[2022-09-22 12:15:49,466] Upadte_customer_infor_02: select Female radio
+[2022-09-22 12:15:49,707] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 12:15:49,758] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 12:15:49,811] Upadte_customer_infor_05: select date
+[2022-09-22 12:15:50,064] Upadte_customer_infor_06: select month
+[2022-09-22 12:15:50,314] Upadte_customer_infor_07: select year
+[2022-09-22 12:15:50,561] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 12:15:50,616] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 12:15:50,666] Upadte_customer_infor_10: click save button
+[2022-09-22 12:15:51,306] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 12:15:51,337] Upadte_customer_infor_12: Verify first name is updated successful Lucien
+[2022-09-22 12:15:51,364] Upadte_customer_infor_13: Verify last name is updated successful Goldner
+[2022-09-22 12:15:51,390] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 12:15:51,460] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 12:15:51,514] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 12:15:51,734] Upadte_customer_infor_17: Verify email is updated successful florida.nader@gmail.com
+[2022-09-22 12:15:51,759] Upadte_customer_infor_18: Verify company name is updated successful Rice Inc
+[2022-09-22 12:15:51,784] Add_Address_01: click to my account link
+[2022-09-22 12:15:52,283] Add_Address_02: click to addressess link
+[2022-09-22 12:15:52,956] Add_Address_03: click to add button
+[2022-09-22 12:15:53,569] Add_Address_04: enter firstname textbox Lucien
+[2022-09-22 12:15:53,611] Add_Address_05: enter lastname textbox Goldner
+[2022-09-22 12:15:53,653] Add_Address_05: enter email textbox bryan.jast@hotmail.com
+[2022-09-22 12:15:53,696] Add_Address_06: enter company textbox Rice Inc
+[2022-09-22 12:15:53,736] Add_Address_07: enter country textbox China
+[2022-09-22 12:15:53,985] Add_Address_08: enter state textbox Other
+[2022-09-22 12:15:54,022] Add_Address_09: enter city textbox Port Artchester
+[2022-09-22 12:15:54,064] Add_Address_10: enter address1 textbox 9772 Maia Centers
+[2022-09-22 12:15:54,111] Add_Address_11: enter address2 textbox 1127 Dooley Highway
+[2022-09-22 12:15:54,154] Add_Address_12: enter zip textbox 66009-1689
+[2022-09-22 12:15:54,199] Add_Address_13: enter phone textbox 1-760-181-3326 x01642
+[2022-09-22 12:15:54,245] Add_Address_14: enter fax textbox (905) 186-5545 x30109
+[2022-09-22 12:15:54,287] Add_Address_15: click to save button 
+[2022-09-22 12:15:54,962] Add_Address_16: Verify name Lucien Goldner
+[2022-09-22 12:15:54,994] Add_Address_17: Verify email bryan.jast@hotmail.com
+[2022-09-22 12:15:55,018] Add_Address_18: Verify phone 1-760-181-3326 x01642
+[2022-09-22 12:15:55,042] Add_Address_19: Verify fax (905) 186-5545 x30109
+[2022-09-22 12:15:55,065] Add_Address_20: Verify company Rice Inc
+[2022-09-22 12:15:55,087] Add_Address_21: Verify add1 9772 Maia Centers
+[2022-09-22 12:15:55,110] Add_Address_22: Verify add2 1127 Dooley Highway
+[2022-09-22 12:15:55,133] Add_Address_23: Verify city-state-zip Port Artchester 66009-1689
+[2022-09-22 12:15:55,155] Add_Address_24: Verify country China
+[2022-09-22 12:15:55,179] Change_Password_01: click to my account link
+[2022-09-22 12:15:55,559] Change_Password_02: click to change password link
+[2022-09-22 12:15:56,048] Change_Password_03: enter old password G9*0Q&ia@
+[2022-09-22 12:15:56,095] Change_Password_04: enter new password $*##&ke*M
+[2022-09-22 12:15:56,136] Change_Password_05: enter confirm password $*##&ke*M
+[2022-09-22 12:15:56,178] Change_Password_06: click to change password button
+[2022-09-22 12:15:56,616] Change_Password_07: click to close button
+[2022-09-22 12:15:59,654] Change_Password_07: click to logout button
+[2022-09-22 12:16:00,301] Change_Password_08: Click to login link
+[2022-09-22 12:16:00,746] Change_Password_09: Enter  emailbryan.jast@hotmail.com
+[2022-09-22 12:16:00,791] Change_Password_10: Enter  passG9*0Q&ia@
+[2022-09-22 12:16:00,833] Change_Password_11: Click to login button
+[2022-09-22 12:16:01,191] Change_Password_12: Verify error message is shown
+[2022-09-22 12:18:23,925] Pre-condition-01: click to login link
+[2022-09-22 12:18:25,008] Pre-condition-02: enter to email jon.rath@gmail.com
+[2022-09-22 12:18:25,056] Pre-condition-03: enter to password xuZ62!8K
+[2022-09-22 12:18:25,103] Pre-condition-04: click to Login Button
+[2022-09-22 12:18:25,853] Upadte_customer_infor_01: click to my account link
+[2022-09-22 12:18:26,326] Upadte_customer_infor_02: select Female radio
+[2022-09-22 12:18:26,574] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 12:18:26,631] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 12:18:26,685] Upadte_customer_infor_05: select date
+[2022-09-22 12:18:26,934] Upadte_customer_infor_06: select month
+[2022-09-22 12:18:27,185] Upadte_customer_infor_07: select year
+[2022-09-22 12:18:27,433] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 12:18:27,483] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 12:18:27,541] Upadte_customer_infor_10: click save button
+[2022-09-22 12:18:28,252] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 12:18:28,283] Upadte_customer_infor_12: Verify first name is updated successful Kesha
+[2022-09-22 12:18:28,308] Upadte_customer_infor_13: Verify last name is updated successful Hyatt
+[2022-09-22 12:18:28,335] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 12:18:28,403] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 12:18:28,455] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 12:18:28,655] Upadte_customer_infor_17: Verify email is updated successful wm.blanda@yahoo.com
+[2022-09-22 12:18:28,681] Upadte_customer_infor_18: Verify company name is updated successful Wisozk, Bashirian and Ruecker
+[2022-09-22 12:18:28,708] Add_Address_01: click to my account link
+[2022-09-22 12:18:29,101] Add_Address_02: click to addressess link
+[2022-09-22 12:18:29,593] Add_Address_03: click to add button
+[2022-09-22 12:18:30,099] Add_Address_04: enter firstname textbox Kesha
+[2022-09-22 12:18:30,313] Add_Address_05: enter lastname textbox Hyatt
+[2022-09-22 12:18:30,440] Add_Address_05: enter email textbox jon.rath@gmail.com
+[2022-09-22 12:18:30,480] Add_Address_06: enter company textbox Wisozk, Bashirian and Ruecker
+[2022-09-22 12:18:30,524] Add_Address_07: enter country textbox China
+[2022-09-22 12:18:30,772] Add_Address_08: enter state textbox Other
+[2022-09-22 12:18:30,810] Add_Address_09: enter city textbox Lorileeburgh
+[2022-09-22 12:18:30,846] Add_Address_10: enter address1 textbox 03081 Alberto View
+[2022-09-22 12:18:30,888] Add_Address_11: enter address2 textbox 01639 Kimberely Drive
+[2022-09-22 12:18:30,928] Add_Address_12: enter zip textbox 82623
+[2022-09-22 12:18:30,969] Add_Address_13: enter phone textbox 1-334-027-9983 x54214
+[2022-09-22 12:18:31,013] Add_Address_14: enter fax textbox 280-023-6823
+[2022-09-22 12:18:31,051] Add_Address_15: click to save button 
+[2022-09-22 12:18:31,717] Add_Address_16: Verify name Kesha Hyatt
+[2022-09-22 12:18:31,747] Add_Address_17: Verify email jon.rath@gmail.com
+[2022-09-22 12:18:31,773] Add_Address_18: Verify phone 1-334-027-9983 x54214
+[2022-09-22 12:18:31,798] Add_Address_19: Verify fax 280-023-6823
+[2022-09-22 12:18:31,822] Add_Address_20: Verify company Wisozk, Bashirian and Ruecker
+[2022-09-22 12:18:31,852] Add_Address_21: Verify add1 03081 Alberto View
+[2022-09-22 12:18:31,878] Add_Address_22: Verify add2 01639 Kimberely Drive
+[2022-09-22 12:18:31,911] Add_Address_23: Verify city-state-zip Lorileeburgh 82623
+[2022-09-22 12:18:31,935] Add_Address_24: Verify country China
+[2022-09-22 12:18:31,963] Change_Password_01: click to my account link
+[2022-09-22 12:18:32,388] Change_Password_02: click to change password link
+[2022-09-22 12:18:32,838] Change_Password_03: enter old password xuZ62!8K
+[2022-09-22 12:18:32,885] Change_Password_04: enter new password @Wq&4*z83J
+[2022-09-22 12:18:32,929] Change_Password_05: enter confirm password @Wq&4*z83J
+[2022-09-22 12:18:32,973] Change_Password_06: click to change password button
+[2022-09-22 12:18:33,332] Change_Password_07: click to close button
+[2022-09-22 12:18:36,383] Change_Password_07: click to logout button
+[2022-09-22 12:18:36,981] Change_Password_08: Click to login link
+[2022-09-22 12:18:37,397] Change_Password_09: Enter  emailwm.blanda@yahoo.com
+[2022-09-22 12:18:37,439] Change_Password_10: Enter  passxuZ62!8K
+[2022-09-22 12:18:37,479] Change_Password_11: Click to login button
+[2022-09-22 12:18:37,929] Change_Password_12: Verify error message is shown
+[2022-09-22 12:18:37,964] Change_Password_13: Click to login link
+[2022-09-22 12:18:38,330] Change_Password_14: Enter  emailwm.blanda@yahoo.com
+[2022-09-22 12:18:38,372] Change_Password_15: Enter  pass@Wq&4*z83J
+[2022-09-22 12:18:38,416] Change_Password_16: Click to login button
+[2022-09-22 12:18:39,024] Change_Password_17: Verify displayed my account in home page
+[2022-09-22 14:27:41,537] Pre-condition-01: click to login link
+[2022-09-22 14:27:42,771] Pre-condition-02: enter to email mamie.thiel@yahoo.com
+[2022-09-22 14:27:42,825] Pre-condition-03: enter to password j4WA#$!2
+[2022-09-22 14:27:42,879] Pre-condition-04: click to Login Button
+[2022-09-22 14:27:43,614] Upadte_customer_infor_01: click to my account link
+[2022-09-22 14:27:44,111] Upadte_customer_infor_02: select Female radio
+[2022-09-22 14:27:44,351] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 14:27:44,402] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 14:27:44,455] Upadte_customer_infor_05: select date
+[2022-09-22 14:27:44,705] Upadte_customer_infor_06: select month
+[2022-09-22 14:27:44,951] Upadte_customer_infor_07: select year
+[2022-09-22 14:27:45,202] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 14:27:45,255] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 14:27:45,307] Upadte_customer_infor_10: click save button
+[2022-09-22 14:27:46,255] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 14:27:46,286] Upadte_customer_infor_12: Verify first name is updated successful Robin
+[2022-09-22 14:27:46,311] Upadte_customer_infor_13: Verify last name is updated successful Bartell
+[2022-09-22 14:27:46,337] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 14:27:46,403] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 14:27:46,459] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 14:27:46,703] Upadte_customer_infor_17: Verify email is updated successful annice.johnson@yahoo.com
+[2022-09-22 14:27:46,737] Upadte_customer_infor_18: Verify company name is updated successful Dibbert-Homenick
+[2022-09-22 14:27:46,769] Add_Address_01: click to my account link
+[2022-09-22 14:27:47,214] Add_Address_02: click to addressess link
+[2022-09-22 14:27:47,859] Add_Address_03: click to add button
+[2022-09-22 14:27:48,364] Add_Address_04: enter firstname textbox Robin
+[2022-09-22 14:27:48,404] Add_Address_05: enter lastname textbox Bartell
+[2022-09-22 14:27:48,446] Add_Address_05: enter email textbox mamie.thiel@yahoo.com
+[2022-09-22 14:27:48,485] Add_Address_06: enter company textbox Dibbert-Homenick
+[2022-09-22 14:27:48,528] Add_Address_07: enter country textbox China
+[2022-09-22 14:27:48,778] Add_Address_08: enter state textbox Other
+[2022-09-22 14:27:48,824] Add_Address_09: enter city textbox West Keeleyville
+[2022-09-22 14:27:48,865] Add_Address_10: enter address1 textbox 3988 Oberbrunner Burg
+[2022-09-22 14:27:48,910] Add_Address_11: enter address2 textbox 782 Collier Ports
+[2022-09-22 14:27:48,953] Add_Address_12: enter zip textbox 28306-8957
+[2022-09-22 14:27:48,995] Add_Address_13: enter phone textbox 278.903.9416
+[2022-09-22 14:27:49,036] Add_Address_14: enter fax textbox 232.380.5151 x23853
+[2022-09-22 14:27:49,075] Add_Address_15: click to save button 
+[2022-09-22 14:27:49,873] Add_Address_16: Verify name Robin Bartell
+[2022-09-22 14:27:49,904] Add_Address_17: Verify email mamie.thiel@yahoo.com
+[2022-09-22 14:27:49,937] Add_Address_18: Verify phone 278.903.9416
+[2022-09-22 14:27:49,967] Add_Address_19: Verify fax 232.380.5151 x23853
+[2022-09-22 14:27:49,990] Add_Address_20: Verify company Dibbert-Homenick
+[2022-09-22 14:27:50,012] Add_Address_21: Verify add1 3988 Oberbrunner Burg
+[2022-09-22 14:27:50,034] Add_Address_22: Verify add2 782 Collier Ports
+[2022-09-22 14:27:50,056] Add_Address_23: Verify city-state-zip West Keeleyville 28306-8957
+[2022-09-22 14:27:50,080] Add_Address_24: Verify country China
+[2022-09-22 14:27:50,103] Change_Password_01: click to my account link
+[2022-09-22 14:27:50,483] Change_Password_02: click to change password link
+[2022-09-22 14:27:51,309] Change_Password_03: enter old password j4WA#$!2
+[2022-09-22 14:27:51,357] Change_Password_04: enter new password F!VCj7G%T
+[2022-09-22 14:27:51,399] Change_Password_05: enter confirm password F!VCj7G%T
+[2022-09-22 14:27:51,440] Change_Password_06: click to change password button
+[2022-09-22 14:27:51,883] Change_Password_07: click to close button
+[2022-09-22 14:27:54,929] Change_Password_07: click to logout button
+[2022-09-22 14:27:55,627] Change_Password_08: Click to login link
+[2022-09-22 14:27:56,105] Change_Password_09: Enter  emailannice.johnson@yahoo.com
+[2022-09-22 14:27:56,150] Change_Password_10: Enter  passj4WA#$!2
+[2022-09-22 14:27:56,193] Change_Password_11: Click to login button
+[2022-09-22 14:27:56,579] Change_Password_12: Verify error message is shown
+[2022-09-22 14:27:56,609] Change_Password_13: Click to login link
+[2022-09-22 14:27:57,011] Change_Password_14: Enter  emailannice.johnson@yahoo.com
+[2022-09-22 14:27:57,060] Change_Password_15: Enter  passF!VCj7G%T
+[2022-09-22 14:27:57,101] Change_Password_16: Click to login button
+[2022-09-22 14:27:57,844] Change_Password_17: Verify displayed my account in home page
+[2022-09-22 14:27:57,889] My_Product_Review_01: Click to Computer link
+[2022-09-22 15:27:24,631] Pre-condition-01: click to login link
+[2022-09-22 15:27:25,304] Pre-condition-02: enter to email gretchen.walker@yahoo.com
+[2022-09-22 15:27:25,356] Pre-condition-03: enter to password 8TT#!act
+[2022-09-22 15:27:25,409] Pre-condition-04: click to Login Button
+[2022-09-22 15:27:26,143] Upadte_customer_infor_01: click to my account link
+[2022-09-22 15:29:12,661] Pre-condition-01: click to login link
+[2022-09-22 15:29:13,886] Pre-condition-02: enter to email bo.klocko@yahoo.com
+[2022-09-22 15:29:13,936] Pre-condition-03: enter to password zNiE6$x$3Ye
+[2022-09-22 15:29:13,985] Pre-condition-04: click to Login Button
+[2022-09-22 15:29:14,658] Upadte_customer_infor_01: click to my account link
+[2022-09-22 15:29:15,242] Upadte_customer_infor_02: select Female radio
+[2022-09-22 15:29:15,484] Upadte_customer_infor_03: enter fisrt name textbox
+[2022-09-22 15:29:15,541] Upadte_customer_infor_04: enter last name textbox
+[2022-09-22 15:29:15,594] Upadte_customer_infor_05: select date
+[2022-09-22 15:29:15,845] Upadte_customer_infor_06: select month
+[2022-09-22 15:29:16,088] Upadte_customer_infor_07: select year
+[2022-09-22 15:29:16,333] Upadte_customer_infor_08: enter email textbox
+[2022-09-22 15:29:16,390] Upadte_customer_infor_09: enter company name textbox
+[2022-09-22 15:29:16,446] Upadte_customer_infor_10: click save button
+[2022-09-22 15:29:17,120] Upadte_customer_infor_11: Verify Gender is updated female
+[2022-09-22 15:29:17,149] Upadte_customer_infor_12: Verify first name is updated successful Stefan
+[2022-09-22 15:29:17,175] Upadte_customer_infor_13: Verify last name is updated successful Koepp
+[2022-09-22 15:29:17,201] Upadte_customer_infor_14: Verify date is updated successful 11
+[2022-09-22 15:29:17,267] Upadte_customer_infor_15: Verify month is updated successful July
+[2022-09-22 15:29:17,319] Upadte_customer_infor_16: Verify year is updated successful 2000
+[2022-09-22 15:29:17,530] Upadte_customer_infor_17: Verify email is updated successful domenic.maggio@yahoo.com
+[2022-09-22 15:29:17,556] Upadte_customer_infor_18: Verify company name is updated successful Zulauf, Ruecker and Mayert
+[2022-09-22 15:29:17,583] Add_Address_01: click to my account link
+[2022-09-22 15:29:17,976] Add_Address_02: click to addressess link
+[2022-09-22 15:29:18,556] Add_Address_03: click to add button
+[2022-09-22 15:29:19,357] Add_Address_04: enter firstname textbox Stefan
+[2022-09-22 15:29:19,395] Add_Address_05: enter lastname textbox Koepp
+[2022-09-22 15:29:19,436] Add_Address_05: enter email textbox bo.klocko@yahoo.com
+[2022-09-22 15:29:19,478] Add_Address_06: enter company textbox Zulauf, Ruecker and Mayert
+[2022-09-22 15:29:19,523] Add_Address_07: enter country textbox China
+[2022-09-22 15:29:19,775] Add_Address_08: enter state textbox Other
+[2022-09-22 15:29:19,810] Add_Address_09: enter city textbox North Cleveland
+[2022-09-22 15:29:19,848] Add_Address_10: enter address1 textbox 14621 Jaskolski Shoal
+[2022-09-22 15:29:19,890] Add_Address_11: enter address2 textbox 89091 Schulist Tunnel
+[2022-09-22 15:29:19,937] Add_Address_12: enter zip textbox 43418
+[2022-09-22 15:29:19,981] Add_Address_13: enter phone textbox (507) 380-9283
+[2022-09-22 15:29:20,020] Add_Address_14: enter fax textbox (010) 828-1349
+[2022-09-22 15:29:20,060] Add_Address_15: click to save button 
+[2022-09-22 15:29:20,958] Add_Address_16: Verify name Stefan Koepp
+[2022-09-22 15:29:20,988] Add_Address_17: Verify email bo.klocko@yahoo.com
+[2022-09-22 15:29:21,014] Add_Address_18: Verify phone (507) 380-9283
+[2022-09-22 15:29:21,038] Add_Address_19: Verify fax (010) 828-1349
+[2022-09-22 15:29:21,062] Add_Address_20: Verify company Zulauf, Ruecker and Mayert
+[2022-09-22 15:29:21,086] Add_Address_21: Verify add1 14621 Jaskolski Shoal
+[2022-09-22 15:29:21,108] Add_Address_22: Verify add2 89091 Schulist Tunnel
+[2022-09-22 15:29:21,130] Add_Address_23: Verify city-state-zip North Cleveland 43418
+[2022-09-22 15:29:21,151] Add_Address_24: Verify country China
+[2022-09-22 15:29:21,175] Change_Password_01: click to my account link
+[2022-09-22 15:29:21,652] Change_Password_02: click to change password link
+[2022-09-22 15:29:22,209] Change_Password_03: enter old password zNiE6$x$3Ye
+[2022-09-22 15:29:22,264] Change_Password_04: enter new password XmP*$#c#&
+[2022-09-22 15:29:22,320] Change_Password_05: enter confirm password XmP*$#c#&
+[2022-09-22 15:29:22,369] Change_Password_06: click to change password button
+[2022-09-22 15:29:22,752] Change_Password_07: click to close button
+[2022-09-22 15:29:25,791] Change_Password_07: click to logout button
+[2022-09-22 15:29:26,568] Change_Password_08: Click to login link
+[2022-09-22 15:29:26,996] Change_Password_09: Enter  emaildomenic.maggio@yahoo.com
+[2022-09-22 15:29:27,040] Change_Password_10: Enter  passzNiE6$x$3Ye
+[2022-09-22 15:29:27,080] Change_Password_11: Click to login button
+[2022-09-22 15:29:27,448] Change_Password_12: Verify error message is shown
+[2022-09-22 15:29:27,481] Change_Password_13: Click to login link
+[2022-09-22 15:29:27,857] Change_Password_14: Enter  emaildomenic.maggio@yahoo.com
+[2022-09-22 15:29:27,904] Change_Password_15: Enter  passXmP*$#c#&
+[2022-09-22 15:29:27,948] Change_Password_16: Click to login button
+[2022-09-22 15:29:28,724] Change_Password_17: Verify displayed my account in home page
+[2022-09-22 15:29:28,767] My_Product_Review_01: Click to Computer link
+[2022-09-22 15:29:29,384] My_Product_Review_02: Click to Desktops link
+[2022-09-22 15:29:29,886] My_Product_Review_03: Click to a product
+[2022-09-22 15:29:36,872] My_Product_Review_04: Click to add your review link
+[2022-09-22 15:29:37,585] My_Product_Review_05: Enter review title I write title805
+[2022-09-22 15:29:37,633] My_Product_Review_06: Enter review text I write text949
+[2022-09-22 15:29:37,675] My_Product_Review_07: Click to submit button
+[2022-09-22 15:29:38,237] My_Product_Review_08: Click to my account link
+[2022-09-22 15:29:38,598] My_Product_Review_09: Click to my product review 
+[2022-09-22 15:29:39,176] My_Product_Review_10: Verify review title I write title805
+[2022-09-22 15:29:39,204] My_Product_Review_11: Verify review text I write text949
+[2022-09-22 17:48:17,609] Pre-condition-01: click to login link
+[2022-09-22 17:48:18,772] Pre-condition-02: enter to email maribeth.okeefe@hotmail.com
+[2022-09-22 17:48:18,826] Pre-condition-03: enter to password ^0%3g3k8Mnp
+[2022-09-22 17:48:18,872] Pre-condition-04: click to Login Button
+[2022-09-22 17:48:19,628] Search_Empty_Data_01: click to search link
+[2022-09-22 17:48:49,657] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 17:49:19,667] Search_Relative_Data_01: click to search link
+[2022-09-22 17:49:42,458] Search_Absolute_Data_01: click to search link
+[2022-09-22 17:49:42,465] OS name = mac os x
+[2022-09-22 17:49:42,465] Driver instance name = firefoxdriver: firefox on mac (46a60231-0b12-4d9b-8540-d3b60dd6e3b5)
+[2022-09-22 17:49:42,467] java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:32448
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Mos-MacBook-Pro.local', ip: '2402:800:63aa:9f15:6c6e:f785:b8fe:fb14%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '11.0.12'
+Driver info: driver.version: RemoteWebDriver
+[2022-09-22 17:50:15,714] Pre-condition-01: click to login link
+[2022-09-22 17:50:16,904] Pre-condition-02: enter to email earle.prosacco@yahoo.com
+[2022-09-22 17:50:16,955] Pre-condition-03: enter to password z^I&QY08
+[2022-09-22 17:50:17,000] Pre-condition-04: click to Login Button
+[2022-09-22 17:50:17,667] Search_Empty_Data_01: click to search link
+[2022-09-22 17:52:13,865] Pre-condition-01: click to login link
+[2022-09-22 17:52:15,037] Pre-condition-02: enter to email elwanda.kihn@gmail.com
+[2022-09-22 17:52:15,086] Pre-condition-03: enter to password 555AL64P
+[2022-09-22 17:52:15,132] Pre-condition-04: click to Login Button
+[2022-09-22 17:52:15,868] Search_Empty_Data_01: click to search link
+[2022-09-22 17:52:45,897] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 17:53:15,917] Search_Relative_Data_01: click to search link
+[2022-09-22 17:53:45,934] Search_Absolute_Data_01: click to search link
+[2022-09-22 17:57:06,290] Pre-condition-01: click to login link
+[2022-09-22 17:57:07,505] Pre-condition-02: enter to email hiroko.baumbach@gmail.com
+[2022-09-22 17:57:07,553] Pre-condition-03: enter to password !NA5$%oAkW
+[2022-09-22 17:57:07,599] Pre-condition-04: click to Login Button
+[2022-09-22 17:57:08,310] Search_Empty_Data_01: click to search link
+[2022-09-22 17:57:08,844] Search_Empty_Data_02: click to search button
+[2022-09-22 17:57:08,955] Search_Empty_Data_03: Verify error message
+[2022-09-22 17:57:08,994] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 17:57:09,434] Search_Data_Not_Exists_02: enter data not exist into search textbox
+[2022-09-22 17:57:09,489] Search_Data_Not_Exists_03: click to search button
+[2022-09-22 17:57:09,549] Search_Data_Not_Exists_04: Verify error message
+[2022-09-22 17:57:09,573] Search_Relative_Data_01: click to search link
+[2022-09-22 17:57:10,029] Search_Relative_Data_02: enter relative data into search textbox
+[2022-09-22 17:57:10,077] Search_Relative_Data_03: click to search button
+[2022-09-22 17:57:10,135] Search_Relative_Data_04: Verify result
+[2022-09-22 17:57:10,156] Search_Absolute_Data_01: click to search link
+[2022-09-22 17:57:10,667] Search_Absolute_Data_02: enter absolute data into search textbox
+[2022-09-22 17:57:10,733] Search_Absolute_Data_03: click to search button
+[2022-09-22 17:57:10,799] Search_Absolute_Data_04: Verify result
+[2022-09-22 17:58:48,152] Pre-condition-01: click to login link
+[2022-09-22 17:58:48,771] Pre-condition-02: enter to email wm.konopelski@hotmail.com
+[2022-09-22 17:58:48,825] Pre-condition-03: enter to password TbQHF#t43!
+[2022-09-22 17:58:48,870] Pre-condition-04: click to Login Button
+[2022-09-22 17:58:49,553] Search_Empty_Data_01: click to search link
+[2022-09-22 17:58:50,170] Search_Empty_Data_02: click to search button
+[2022-09-22 17:58:52,270] Search_Empty_Data_03: Verify error message
+[2022-09-22 17:58:52,309] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 17:58:52,731] Search_Data_Not_Exists_02: enter data not exist into search textbox
+[2022-09-22 17:58:52,774] Search_Data_Not_Exists_03: click to search button
+[2022-09-22 17:58:54,839] Search_Data_Not_Exists_04: Verify error message
+[2022-09-22 17:58:54,866] Search_Relative_Data_01: click to search link
+[2022-09-22 17:58:55,348] Search_Relative_Data_02: enter relative data into search textbox
+[2022-09-22 17:58:55,397] Search_Relative_Data_03: click to search button
+[2022-09-22 17:58:57,460] Search_Relative_Data_04: Verify result
+[2022-09-22 17:58:57,494] Search_Absolute_Data_01: click to search link
+[2022-09-22 17:58:57,901] Search_Absolute_Data_02: enter absolute data into search textbox
+[2022-09-22 17:58:57,958] Search_Absolute_Data_03: click to search button
+[2022-09-22 17:59:00,016] Search_Absolute_Data_04: Verify result
+[2022-09-22 18:00:19,091] Pre-condition-01: click to login link
+[2022-09-22 18:00:20,314] Pre-condition-02: enter to email karl.hahn@hotmail.com
+[2022-09-22 18:00:20,362] Pre-condition-03: enter to password s$X^G8l2#
+[2022-09-22 18:00:20,408] Pre-condition-04: click to Login Button
+[2022-09-22 18:00:21,151] Search_Empty_Data_01: click to search link
+[2022-09-22 18:00:21,881] Search_Empty_Data_02: click to search button
+[2022-09-22 18:00:23,970] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:03:48,218] Pre-condition-01: click to login link
+[2022-09-22 18:03:49,511] Pre-condition-02: enter to email evelin.bernier@yahoo.com
+[2022-09-22 18:03:49,561] Pre-condition-03: enter to password Ii2%@PcP@f
+[2022-09-22 18:03:49,607] Pre-condition-04: click to Login Button
+[2022-09-22 18:03:50,368] Search_Empty_Data_01: click to search link
+[2022-09-22 18:03:53,086] Search_Empty_Data_02: click to search button
+[2022-09-22 18:03:55,178] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:04:42,172] Pre-condition-01: click to login link
+[2022-09-22 18:04:42,682] Pre-condition-02: enter to email billi.homenick@gmail.com
+[2022-09-22 18:04:42,811] Pre-condition-03: enter to password $bLYzr@sN
+[2022-09-22 18:04:42,925] Pre-condition-04: click to Login Button
+[2022-09-22 18:04:43,708] Search_Empty_Data_01: click to search link
+[2022-09-22 18:04:46,291] Search_Empty_Data_02: click to search button
+[2022-09-22 18:04:48,435] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:07:18,723] Pre-condition-01: click to login link
+[2022-09-22 18:07:19,242] Pre-condition-02: enter to email cathryn.heathcote@yahoo.com
+[2022-09-22 18:07:19,376] Pre-condition-03: enter to password FLnqqiY%3
+[2022-09-22 18:07:19,486] Pre-condition-04: click to Login Button
+[2022-09-22 18:07:20,163] Search_Empty_Data_01: click to search link
+[2022-09-22 18:07:22,680] Search_Empty_Data_02: click to search button
+[2022-09-22 18:07:25,178] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:08:19,847] Pre-condition-01: click to login link
+[2022-09-22 18:08:20,339] Pre-condition-02: enter to email dalene.weber@gmail.com
+[2022-09-22 18:08:20,459] Pre-condition-03: enter to password c6Uzpo%If2@
+[2022-09-22 18:08:20,567] Pre-condition-04: click to Login Button
+[2022-09-22 18:08:21,305] Search_Empty_Data_01: click to search link
+[2022-09-22 18:08:23,879] Search_Empty_Data_02: click to search button
+[2022-09-22 18:08:26,366] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:08:26,417] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 18:08:28,916] Search_Data_Not_Exists_02: enter data not exist into search textbox
+[2022-09-22 18:08:29,016] Search_Data_Not_Exists_03: click to search button
+[2022-09-22 18:08:31,419] Search_Data_Not_Exists_04: Verify error message
+[2022-09-22 18:09:14,818] Pre-condition-01: click to login link
+[2022-09-22 18:09:15,335] Pre-condition-02: enter to email homer.schuster@hotmail.com
+[2022-09-22 18:09:15,460] Pre-condition-03: enter to password K!cxudPT
+[2022-09-22 18:09:15,564] Pre-condition-04: click to Login Button
+[2022-09-22 18:09:16,289] Search_Empty_Data_01: click to search link
+[2022-09-22 18:09:18,876] Search_Empty_Data_02: click to search button
+[2022-09-22 18:09:21,356] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:09:21,409] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 18:09:23,827] Search_Data_Not_Exists_02: enter data not exist into search textbox
+[2022-09-22 18:09:23,937] Search_Data_Not_Exists_03: click to search button
+[2022-09-22 18:09:26,465] Search_Data_Not_Exists_04: Verify error message
+[2022-09-22 18:09:26,508] Search_Relative_Data_01: click to search link
+[2022-09-22 18:09:28,919] Search_Relative_Data_02: enter relative data into search textbox
+[2022-09-22 18:09:29,022] Search_Relative_Data_03: click to search button
+[2022-09-22 18:09:31,502] Search_Relative_Data_04: Verify result
+[2022-09-22 18:09:31,609] Search_Absolute_Data_01: click to search link
+[2022-09-22 18:09:34,062] Search_Absolute_Data_02: enter absolute data into search textbox
+[2022-09-22 18:09:34,189] Search_Absolute_Data_03: click to search button
+[2022-09-22 18:09:36,612] Search_Absolute_Data_04: Verify result
+[2022-09-22 18:46:02,624] Pre-condition-01: click to login link
+[2022-09-22 18:46:03,131] Pre-condition-02: enter to email larry.runte@yahoo.com
+[2022-09-22 18:46:03,257] Pre-condition-03: enter to password @X523c&r!
+[2022-09-22 18:46:03,371] Pre-condition-04: click to Login Button
+[2022-09-22 18:46:04,083] Search_Empty_Data_01: click to search link
+[2022-09-22 18:46:06,673] Search_Empty_Data_02: click to search button
+[2022-09-22 18:46:09,104] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:46:09,148] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 18:46:11,589] Search_Data_Not_Exists_02: enter data not exist into search textbox
+[2022-09-22 18:46:11,696] Search_Data_Not_Exists_03: click to search button
+[2022-09-22 18:46:14,108] Search_Data_Not_Exists_04: Verify error message
+[2022-09-22 18:46:14,146] Search_Relative_Data_01: click to search link
+[2022-09-22 18:46:16,547] Search_Relative_Data_02: enter relative data into search textbox
+[2022-09-22 18:46:16,657] Search_Relative_Data_03: click to search button
+[2022-09-22 18:46:19,163] Search_Relative_Data_04: Verify result
+[2022-09-22 18:46:19,289] Search_Absolute_Data_01: click to search link
+[2022-09-22 18:46:21,994] Search_Absolute_Data_02: enter absolute data into search textbox
+[2022-09-22 18:46:22,113] Search_Absolute_Data_03: click to search button
+[2022-09-22 18:46:24,577] Search_Absolute_Data_04: Verify result
+[2022-09-22 18:46:24,638] Advanced_Search_With_Parent_01: click to search link
+[2022-09-22 18:46:27,043] Advanced_Search_With_Parent_02: enter data  into search textbox
+[2022-09-22 18:46:27,165] Advanced_Search_With_Parent_03: click search textbox
+[2022-09-22 18:46:27,244] Advanced_Search_With_Parent_04: select computers in dropdown
+[2022-09-22 18:46:27,372] Advanced_Search_With_Parent_05: click to search button
+[2022-09-22 18:46:29,778] Advanced_Search_With_Parent_06: Verify error message
+[2022-09-22 18:46:29,810] Advanced_Search_With_Sub_01: click to search link
+[2022-09-22 18:46:32,214] Advanced_Search_With_Sub_02: enter data  into search textbox
+[2022-09-22 18:46:32,330] Advanced_Search_With_Sub_03: click search textbox
+[2022-09-22 18:46:32,397] Advanced_Search_With_Sub_04: select computers in dropdown
+[2022-09-22 18:46:32,467] Advanced_Search_With_Sub_05: click Auto textbox
+[2022-09-22 18:46:32,541] Advanced_Search_With_Sub_06: click to search button
+[2022-09-22 18:46:35,052] Advanced_Search_With_Sub_07: Verify result
+[2022-09-22 18:46:35,114] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
+[2022-09-22 18:46:37,518] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
+[2022-09-22 18:46:37,630] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
+[2022-09-22 18:46:37,696] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
+[2022-09-22 18:46:37,763] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
+[2022-09-22 18:46:37,833] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
+[2022-09-22 18:46:37,903] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
+[2022-09-22 18:46:40,377] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+[2022-09-22 18:47:49,833] Pre-condition-01: click to login link
+[2022-09-22 18:47:50,291] Pre-condition-02: enter to email lucienne.altenwerth@gmail.com
+[2022-09-22 18:47:50,414] Pre-condition-03: enter to password q%M%%We%O
+[2022-09-22 18:47:50,517] Pre-condition-04: click to Login Button
+[2022-09-22 18:47:51,186] Search_Empty_Data_01: click to search link
+[2022-09-22 18:47:53,698] Search_Empty_Data_02: click to search button
+[2022-09-22 18:47:56,149] Search_Empty_Data_03: Verify error message
+[2022-09-22 18:47:56,203] Search_Data_Not_Exists_01: click to search link
+[2022-09-22 18:47:58,576] Search_Data_Not_Exists_02: enter data not exist into search textbox
+[2022-09-22 18:47:58,685] Search_Data_Not_Exists_03: click to search button
+[2022-09-22 18:48:01,093] Search_Data_Not_Exists_04: Verify error message
+[2022-09-22 18:48:01,134] Search_Relative_Data_01: click to search link
+[2022-09-22 18:48:03,551] Search_Relative_Data_02: enter relative data into search textbox
+[2022-09-22 18:48:03,654] Search_Relative_Data_03: click to search button
+[2022-09-22 18:48:06,114] Search_Relative_Data_04: Verify result
+[2022-09-22 18:48:06,221] Search_Absolute_Data_01: click to search link
+[2022-09-22 18:48:08,645] Search_Absolute_Data_02: enter absolute data into search textbox
+[2022-09-22 18:48:08,756] Search_Absolute_Data_03: click to search button
+[2022-09-22 18:48:11,205] Search_Absolute_Data_04: Verify result
+[2022-09-22 18:48:11,267] Advanced_Search_With_Parent_01: click to search link
+[2022-09-22 18:48:13,759] Advanced_Search_With_Parent_02: enter data  into search textbox
+[2022-09-22 18:48:13,872] Advanced_Search_With_Parent_03: click search textbox
+[2022-09-22 18:48:13,945] Advanced_Search_With_Parent_04: select computers in dropdown
+[2022-09-22 18:48:14,061] Advanced_Search_With_Parent_05: click to search button
+[2022-09-22 18:48:16,532] Advanced_Search_With_Parent_06: Verify error message
+[2022-09-22 18:48:16,570] Advanced_Search_With_Sub_01: click to search link
+[2022-09-22 18:48:18,977] Advanced_Search_With_Sub_02: enter data  into search textbox
+[2022-09-22 18:48:19,095] Advanced_Search_With_Sub_03: click search textbox
+[2022-09-22 18:48:19,165] Advanced_Search_With_Sub_04: select computers in dropdown
+[2022-09-22 18:48:19,236] Advanced_Search_With_Sub_05: click Auto textbox
+[2022-09-22 18:48:19,311] Advanced_Search_With_Sub_06: click to search button
+[2022-09-22 18:48:21,863] Advanced_Search_With_Sub_07: Verify result
+[2022-09-22 18:48:21,927] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
+[2022-09-22 18:48:24,407] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
+[2022-09-22 18:48:24,519] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
+[2022-09-22 18:48:24,584] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
+[2022-09-22 18:48:24,651] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
+[2022-09-22 18:48:24,724] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
+[2022-09-22 18:48:24,791] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
+[2022-09-22 18:48:27,282] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+[2022-09-22 18:48:27,322] Advanced_Search_Correct_Manuafacturer_01: click to search link
+[2022-09-22 18:48:29,735] Advanced_Search_Correct_Manuafacturer_02: enter data  into search textbox
+[2022-09-22 18:48:29,844] Advanced_Search_Correct_Manuafacturer_03: click search textbox
+[2022-09-22 18:48:29,913] Advanced_Search_Correct_Manuafacturer_04: select computers in dropdown
+[2022-09-22 18:48:29,983] Advanced_Search_Correct_Manuafacturer_05: click Auto textbox
+[2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
+[2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
+[2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result

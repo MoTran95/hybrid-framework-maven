@@ -5,10 +5,10 @@
 	</listeners>
 	<parameter name="NopCommerceUrl" value="Dev" />
 	<test name="Run on firefox">
-		<parameter name="browser" value="firefox" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="commons.RegisterNopCommercePage" />
-			<class name="com.nopCommerce.user.MyAccount" />
+			<class name="com.nopCommerce.user.Search" />
 		</classes>
 	</test>
 </suite>

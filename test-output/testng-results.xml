@@ -1,117 +1,459 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+<testng-results ignored="1" total="10" passed="9" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[2022-09-21 15:38:26,591] Pre-condition-01: click to login link
+      <![CDATA[[2022-09-22 18:47:49,833] Pre-condition-01: click to login link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:27,255] Pre-condition-02: enter to email adelaida.auer@gmail.com
+      <![CDATA[[2022-09-22 18:47:50,291] Pre-condition-02: enter to email lucienne.altenwerth@gmail.com
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:27,307] Pre-condition-03: enter to password5lp4A3^@%6
+      <![CDATA[[2022-09-22 18:47:50,414] Pre-condition-03: enter to password q%M%%We%O
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:27,354] Pre-condition-04: click to Login Button
+      <![CDATA[[2022-09-22 18:47:50,517] Pre-condition-04: click to Login Button
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:28,052] Upadte_customer_infor_01: click to my account link
+      <![CDATA[[2022-09-22 18:47:51,186] Search_Empty_Data_01: click to search link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:28,669] Upadte_customer_infor_02: select Female radio
+      <![CDATA[[2022-09-22 18:47:53,698] Search_Empty_Data_02: click to search button
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:28,911] Upadte_customer_infor_03: enter fisrt name textbox
+      <![CDATA[[2022-09-22 18:47:56,149] Search_Empty_Data_03: Verify error message
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:28,963] Upadte_customer_infor_04: enter last name textbox
+      <![CDATA[[2022-09-22 18:47:56,203] Search_Data_Not_Exists_01: click to search link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:29,016] Upadte_customer_infor_05: select date
+      <![CDATA[[2022-09-22 18:47:58,576] Search_Data_Not_Exists_02: enter data not exist into search textbox
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:29,266] Upadte_customer_infor_06: select month
+      <![CDATA[[2022-09-22 18:47:58,685] Search_Data_Not_Exists_03: click to search button
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:29,515] Upadte_customer_infor_07: select year
+      <![CDATA[[2022-09-22 18:48:01,093] Search_Data_Not_Exists_04: Verify error message
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:29,766] Upadte_customer_infor_08: enter email textbox
+      <![CDATA[[2022-09-22 18:48:01,134] Search_Relative_Data_01: click to search link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:29,822] Upadte_customer_infor_09: enter company name textbox
+      <![CDATA[[2022-09-22 18:48:03,551] Search_Relative_Data_02: enter relative data into search textbox
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:29,872] Upadte_customer_infor_10: click save button
+      <![CDATA[[2022-09-22 18:48:03,654] Search_Relative_Data_03: click to search button
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,530] Upadte_customer_infor_11: Verify Gender is updated female
+      <![CDATA[[2022-09-22 18:48:06,114] Search_Relative_Data_04: Verify result
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,560] Upadte_customer_infor_12: Verify first name is updated successful Dagny
+      <![CDATA[[2022-09-22 18:48:06,221] Search_Absolute_Data_01: click to search link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,587] Upadte_customer_infor_13: Verify last name is updated successful Prohaska
+      <![CDATA[[2022-09-22 18:48:08,645] Search_Absolute_Data_02: enter absolute data into search textbox
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,613] Upadte_customer_infor_14: Verify date is updated successful 11
+      <![CDATA[[2022-09-22 18:48:08,756] Search_Absolute_Data_03: click to search button
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,676] Upadte_customer_infor_15: Verify month is updated successful July
+      <![CDATA[[2022-09-22 18:48:11,205] Search_Absolute_Data_04: Verify result
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,730] Upadte_customer_infor_16: Verify year is updated successful 2000
+      <![CDATA[[2022-09-22 18:48:11,267] Advanced_Search_With_Parent_01: click to search link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,939] Upadte_customer_infor_17: Verify email is updated successful annelle.boyer@yahoo.com
+      <![CDATA[[2022-09-22 18:48:13,759] Advanced_Search_With_Parent_02: enter data  into search textbox
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,967] Upadte_customer_infor_18: Verify company name is updated successful Torphy Inc
+      <![CDATA[[2022-09-22 18:48:13,872] Advanced_Search_With_Parent_03: click search textbox
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,999] OS name = mac os x
+      <![CDATA[[2022-09-22 18:48:13,945] Advanced_Search_With_Parent_04: select computers in dropdown
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-21 15:38:30,999] Driver instance name = firefoxdriver: firefox on mac (410b0723-6be3-45cf-a447-d53f569e8b4f)
+      <![CDATA[[2022-09-22 18:48:14,061] Advanced_Search_With_Parent_05: click to search button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:16,532] Advanced_Search_With_Parent_06: Verify error message
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:16,570] Advanced_Search_With_Sub_01: click to search link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:18,977] Advanced_Search_With_Sub_02: enter data  into search textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:19,095] Advanced_Search_With_Sub_03: click search textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:19,165] Advanced_Search_With_Sub_04: select computers in dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:19,236] Advanced_Search_With_Sub_05: click Auto textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:19,311] Advanced_Search_With_Sub_06: click to search button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:21,863] Advanced_Search_With_Sub_07: Verify result
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:21,927] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:24,407] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:24,519] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:24,584] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:24,651] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:24,724] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:24,791] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:27,282] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:27,322] Advanced_Search_Correct_Manuafacturer_01: click to search link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:29,735] Advanced_Search_Correct_Manuafacturer_02: enter data  into search textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:29,844] Advanced_Search_Correct_Manuafacturer_03: click search textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:29,913] Advanced_Search_Correct_Manuafacturer_04: select computers in dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:29,983] Advanced_Search_Correct_Manuafacturer_05: click Auto textbox
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
 <br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-09-21T08:38:08Z" name="NopCommerce" finished-at="2022-09-21T08:38:31Z" duration-ms="22952">
+  <suite started-at="2022-09-22T11:47:33Z" name="NopCommerce" finished-at="2022-09-22T11:48:32Z" duration-ms="59496">
     <groups>
     </groups>
-    <test started-at="2022-09-21T08:38:08Z" name="Run on firefox" finished-at="2022-09-21T08:38:31Z" duration-ms="22952">
-      <class name="commons.RegisterNopCommercePage">
-        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:commons.RegisterNopCommercePage@23f5b5dc]" started-at="2022-09-21T08:38:08Z" name="initBeforeSuite" finished-at="2022-09-21T08:38:08Z" duration-ms="8" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initBeforeSuite -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:commons.RegisterNopCommercePage@23f5b5dc]" started-at="2022-09-21T08:38:08Z" name="beforeClass" finished-at="2022-09-21T08:38:13Z" duration-ms="4868" status="PASS">
+    <test started-at="2022-09-22T11:47:33Z" name="Run on firefox" finished-at="2022-09-22T11:48:32Z" duration-ms="59496">
+      <class name="com.nopCommerce.user.Search">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:47:46Z" name="beforeClass" finished-at="2022-09-22T11:47:51Z" duration-ms="5066" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dev]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:47:49,833] Pre-condition-01: click to login link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:47:50,291] Pre-condition-02: enter to email lucienne.altenwerth@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:47:50,414] Pre-condition-03: enter to password q%M%%We%O
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:47:50,517] Pre-condition-04: click to Login Button
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Search_Empty_Data()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:47:51Z" name="TC_01_Search_Empty_Data" finished-at="2022-09-22T11:47:56Z" duration-ms="5016" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:47:51,186] Search_Empty_Data_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:47:53,698] Search_Empty_Data_02: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:47:56,149] Search_Empty_Data_03: Verify error message
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_01_Search_Empty_Data -->
+        <test-method signature="TC_02_Search_Data_Not_Exists()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:47:56Z" name="TC_02_Search_Data_Not_Exists" finished-at="2022-09-22T11:48:01Z" duration-ms="4931" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:47:56,203] Search_Data_Not_Exists_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:47:58,576] Search_Data_Not_Exists_02: enter data not exist into search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:47:58,685] Search_Data_Not_Exists_03: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:01,093] Search_Data_Not_Exists_04: Verify error message
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_02_Search_Data_Not_Exists -->
+        <test-method signature="TC_03_Search_Relative_Data()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:01Z" name="TC_03_Search_Relative_Data" finished-at="2022-09-22T11:48:06Z" duration-ms="5085" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:48:01,134] Search_Relative_Data_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:03,551] Search_Relative_Data_02: enter relative data into search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:03,654] Search_Relative_Data_03: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:06,114] Search_Relative_Data_04: Verify result
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_03_Search_Relative_Data -->
+        <test-method signature="TC_04_Search_Absolute_Data()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:06Z" name="TC_04_Search_Absolute_Data" finished-at="2022-09-22T11:48:11Z" duration-ms="5046" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:48:06,221] Search_Absolute_Data_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:08,645] Search_Absolute_Data_02: enter absolute data into search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:08,756] Search_Absolute_Data_03: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:11,205] Search_Absolute_Data_04: Verify result
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_04_Search_Absolute_Data -->
+        <test-method signature="TC_05_Advanced_Search_With_Parent()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:11Z" name="TC_05_Advanced_Search_With_Parent" finished-at="2022-09-22T11:48:16Z" duration-ms="5302" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:48:11,267] Advanced_Search_With_Parent_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:13,759] Advanced_Search_With_Parent_02: enter data  into search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:13,872] Advanced_Search_With_Parent_03: click search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:13,945] Advanced_Search_With_Parent_04: select computers in dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:14,061] Advanced_Search_With_Parent_05: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:16,532] Advanced_Search_With_Parent_06: Verify error message
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_05_Advanced_Search_With_Parent -->
+        <test-method signature="TC_06_Advanced_Search_With_Sub()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:16Z" name="TC_06_Advanced_Search_With_Sub" finished-at="2022-09-22T11:48:21Z" duration-ms="5355" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:48:16,570] Advanced_Search_With_Sub_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:18,977] Advanced_Search_With_Sub_02: enter data  into search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:19,095] Advanced_Search_With_Sub_03: click search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:19,165] Advanced_Search_With_Sub_04: select computers in dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:19,236] Advanced_Search_With_Sub_05: click Auto textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:19,311] Advanced_Search_With_Sub_06: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:21,863] Advanced_Search_With_Sub_07: Verify result
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_06_Advanced_Search_With_Sub -->
+        <test-method signature="TC_07_Advanced_Search_Incorrect_Manuafacturer()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:21Z" name="TC_07_Advanced_Search_Incorrect_Manuafacturer" finished-at="2022-09-22T11:48:27Z" duration-ms="5395" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:48:21,927] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:24,407] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:24,519] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:24,584] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:24,651] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:24,724] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:24,791] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:27,282] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_07_Advanced_Search_Incorrect_Manuafacturer -->
+        <test-method signature="TC_08_Advanced_Search_Correct_Manuafacturer()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:27Z" name="TC_08_Advanced_Search_Correct_Manuafacturer" finished-at="2022-09-22T11:48:32Z" duration-ms="5346" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2022-09-22 18:48:27,322] Advanced_Search_Correct_Manuafacturer_01: click to search link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:29,735] Advanced_Search_Correct_Manuafacturer_02: enter data  into search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:29,844] Advanced_Search_Correct_Manuafacturer_03: click search textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:29,913] Advanced_Search_Correct_Manuafacturer_04: select computers in dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:29,983] Advanced_Search_Correct_Manuafacturer_05: click Auto textbox
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_08_Advanced_Search_Correct_Manuafacturer -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:32Z" name="afterClass" finished-at="2022-09-22T11:48:32Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopCommerce.user.Search -->
+      <class name="commons.RegisterNopCommercePage">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:33Z" name="initBeforeSuite" finished-at="2022-09-22T11:47:33Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBeforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:33Z" name="beforeClass" finished-at="2022-09-22T11:47:37Z" duration-ms="4768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
               </value>
             </param>
             <param index="1">
@@ -123,137 +465,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Register_Success()[pri:0, instance:commons.RegisterNopCommercePage@23f5b5dc]" started-at="2022-09-21T08:38:13Z" name="TC_01_Register_Success" finished-at="2022-09-21T08:38:22Z" duration-ms="8971" status="PASS">
+        <test-method signature="TC_01_Register_Success()[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:37Z" name="TC_01_Register_Success" finished-at="2022-09-22T11:47:45Z" duration-ms="8012" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_Register_Success -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:commons.RegisterNopCommercePage@23f5b5dc]" started-at="2022-09-21T08:38:22Z" name="afterClass" finished-at="2022-09-21T08:38:23Z" duration-ms="558" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:45Z" name="afterClass" finished-at="2022-09-22T11:47:46Z" duration-ms="148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- commons.RegisterNopCommercePage -->
-      <class name="com.nopCommerce.user.MyAccount$Payment">
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopCommerce.user.MyAccount$Payment@34bde49d]" started-at="2022-09-21T08:38:23Z" name="beforeClass" finished-at="2022-09-21T08:38:28Z" duration-ms="5028" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[firefox]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Dev]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-21 15:38:26,591] Pre-condition-01: click to login link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:27,255] Pre-condition-02: enter to email adelaida.auer@gmail.com
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:27,307] Pre-condition-03: enter to password5lp4A3^@%6
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:27,354] Pre-condition-04: click to Login Button
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Update_Customer_Infor()[pri:0, instance:com.nopCommerce.user.MyAccount$Payment@34bde49d]" started-at="2022-09-21T08:38:28Z" name="TC_01_Update_Customer_Infor" finished-at="2022-09-21T08:38:30Z" duration-ms="2945" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-21 15:38:28,052] Upadte_customer_infor_01: click to my account link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:28,669] Upadte_customer_infor_02: select Female radio
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:28,911] Upadte_customer_infor_03: enter fisrt name textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:28,963] Upadte_customer_infor_04: enter last name textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:29,016] Upadte_customer_infor_05: select date
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:29,266] Upadte_customer_infor_06: select month
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:29,515] Upadte_customer_infor_07: select year
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:29,766] Upadte_customer_infor_08: enter email textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:29,822] Upadte_customer_infor_09: enter company name textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:29,872] Upadte_customer_infor_10: click save button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,530] Upadte_customer_infor_11: Verify Gender is updated female
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,560] Upadte_customer_infor_12: Verify first name is updated successful Dagny
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,587] Upadte_customer_infor_13: Verify last name is updated successful Prohaska
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,613] Upadte_customer_infor_14: Verify date is updated successful 11
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,676] Upadte_customer_infor_15: Verify month is updated successful July
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,730] Upadte_customer_infor_16: Verify year is updated successful 2000
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,939] Upadte_customer_infor_17: Verify email is updated successful annelle.boyer@yahoo.com
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,967] Upadte_customer_infor_18: Verify company name is updated successful Torphy Inc
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_01_Update_Customer_Infor -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopCommerce.user.MyAccount$Payment@34bde49d]" started-at="2022-09-21T08:38:30Z" name="afterClass" finished-at="2022-09-21T08:38:31Z" duration-ms="563" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,999] OS name = mac os x
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-21 15:38:30,999] Driver instance name = firefoxdriver: firefox on mac (410b0723-6be3-45cf-a447-d53f569e8b4f)
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- afterClass -->
-      </class> <!-- com.nopCommerce.user.MyAccount$Payment -->
     </test> <!-- Run on firefox -->
   </suite> <!-- NopCommerce -->
 </testng-results>

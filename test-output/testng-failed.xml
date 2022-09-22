@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [NopCommerce]">
-  <parameter name="NopCommerceUrl" value="Dev"/>
-  <listeners>
-    <listener class-name="commons.MethodListener"/>
-  </listeners>
-  <test thread-count="5" name="Run on firefox(failed)">
-    <parameter name="browser" value="firefox"/>
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.nopCommerce.user.MyAccount$Payment">
+      <class name="com.nopCommerce.user.Search">
         <methods>
-          <include name="TC_01_Update_Customer_Infor"/>
-          <include name="afterClass"/>
+          <include name="TC_07_Advanced_Search_Incorrect_Manuafacturer"/>
           <include name="beforeClass"/>
+          <include name="TC_03_Search_Relative_Data"/>
+          <include name="TC_06_Advanced_Search_With_Sub"/>
+          <include name="TC_05_Advanced_Search_With_Parent"/>
+          <include name="TC_04_Search_Absolute_Data"/>
+          <include name="TC_02_Search_Data_Not_Exists"/>
+          <include name="TC_01_Search_Empty_Data"/>
+          <include name="afterClass"/>
           <include name="initBeforeSuite"/>
         </methods>
-      </class> <!-- com.nopCommerce.user.MyAccount$Payment -->
+      </class> <!-- com.nopCommerce.user.Search -->
     </classes>
-  </test> <!-- Run on firefox(failed) -->
-</suite> <!-- Failed suite [NopCommerce] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

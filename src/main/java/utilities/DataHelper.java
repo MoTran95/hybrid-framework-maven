@@ -29,6 +29,9 @@ public class DataHelper {
 	public String getAddress() {
 		return faker.address().streetAddress();
 	}
+	public String getZipCode() {
+		return faker.address().zipCode();
+	}
 	public String getPassword() {
 		return faker.internet().password(8,12,true,true);
 	}

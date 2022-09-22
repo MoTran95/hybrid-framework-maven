@@ -344,6 +344,10 @@ public class BaseTest {
 	protected String getCurrentToday() {
 		return getCurrentMonthByText() + " " + getCurrentDay() + ", " + getCurrentYear();
 	}
+	public int randomNumber() {
+		Random random = new Random();
+		return random.nextInt(999);
+	}
 
 	String projectPath = System.getProperty("user.dir");
 

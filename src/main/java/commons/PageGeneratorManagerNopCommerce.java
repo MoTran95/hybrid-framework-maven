@@ -10,8 +10,12 @@ import pageObjects.bankGuru.payment.editCustomerPageObject;
 import pageObjects.bankGuru.payment.editNewAccountPageObject;
 import pageObjects.bankGuru.payment.homePagePageObject;
 import pageObjects.nopCommerce.user.RegisterPageObject;
+import pageObjects.nopCommerce.user.SearchPageObject;
+import pageObjects.nopCommerce.user.CatetoryPageObject;
 import pageObjects.nopCommerce.user.HomePageObject;
 import pageObjects.nopCommerce.user.MyAccountPageObject;
+import pageObjects.nopCommerce.user.ProductDetailsPageObject;
+import pageObjects.nopCommerce.user.ProductReviewPageObject;
 
 public class PageGeneratorManagerNopCommerce {
 	public static RegisterPageObject getRegisterPage(WebDriver driver) {
@@ -25,6 +29,18 @@ public class PageGeneratorManagerNopCommerce {
 	}
 	public static  MyAccountPageObject getMyAccountPage(WebDriver driver) {
 		return new MyAccountPageObject(driver);
+	}
+	public static  CatetoryPageObject getCatetoryPage(WebDriver driver) {
+		return new CatetoryPageObject(driver);
+	}
+	public static  ProductDetailsPageObject getProductDetailsPage(WebDriver driver) {
+		return new ProductDetailsPageObject(driver);
+	}
+	public static  ProductReviewPageObject getProductReviewPage(WebDriver driver) {
+		return new ProductReviewPageObject(driver);
+	}
+	public static  SearchPageObject getSearchPage(WebDriver driver) {
+		return new SearchPageObject(driver);
 	}
 
 }
