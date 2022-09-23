@@ -8,7 +8,7 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="commons.RegisterNopCommercePage" />
-			<class name="com.nopCommerce.user.Search" />
+			<class name="com.nopCommerce.user.Sort" />
 		</classes>
 	</test>
 </suite>

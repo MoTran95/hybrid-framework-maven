@@ -8,14 +8,14 @@
   <test thread-count="5" name="Run on firefox(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.nopCommerce.user.Search">
+      <class name="com.nopCommerce.user.Sort">
         <methods>
+          <include name="TC_06_Displayed_6_Products"/>
           <include name="beforeClass"/>
-          <include name="TC_01_Search_Empty_Data"/>
-          <include name="afterClass"/>
           <include name="initBeforeSuite"/>
+          <include name="afterClass"/>
         </methods>
-      </class> <!-- com.nopCommerce.user.Search -->
+      </class> <!-- com.nopCommerce.user.Sort -->
     </classes>
   </test> <!-- Run on firefox(failed) -->
 </suite> <!-- Failed suite [NopCommerce] -->

@@ -2283,3 +2283,258 @@ Driver info: driver.version: RemoteWebDriver
 [2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
 [2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
 [2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+[2022-09-23 10:46:02,396] Pre-condition-01: click to login link
+[2022-09-23 10:46:02,888] Pre-condition-02: enter to email arie.gottlieb@hotmail.com
+[2022-09-23 10:46:03,013] Pre-condition-03: enter to password C$UpiyIb
+[2022-09-23 10:46:03,113] Pre-condition-04: click to Login Button
+[2022-09-23 10:46:03,949] Sort_A_Z_01: Click to Computer link
+[2022-09-23 10:52:06,082] Pre-condition-01: click to login link
+[2022-09-23 10:52:06,571] Pre-condition-02: enter to email jovita.pacocha@hotmail.com
+[2022-09-23 10:52:06,698] Pre-condition-03: enter to password w#*PL05zXz
+[2022-09-23 10:52:06,821] Pre-condition-04: click to Login Button
+[2022-09-23 10:52:07,530] Sort_A_Z_01: Click to Computer link
+[2022-09-23 10:52:09,575] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 10:54:03,152] Pre-condition-01: click to login link
+[2022-09-23 10:54:03,625] Pre-condition-02: enter to email darwin.greenholt@hotmail.com
+[2022-09-23 10:54:03,745] Pre-condition-03: enter to password I0VYS4k40ES
+[2022-09-23 10:54:03,856] Pre-condition-04: click to Login Button
+[2022-09-23 10:54:04,580] Sort_A_Z_01: Click to Computer link
+[2022-09-23 10:54:05,111] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 10:55:24,164] Pre-condition-01: click to login link
+[2022-09-23 10:55:24,667] Pre-condition-02: enter to email elmer.gerhold@yahoo.com
+[2022-09-23 10:55:24,791] Pre-condition-03: enter to password #Co4H8d1I
+[2022-09-23 10:55:24,903] Pre-condition-04: click to Login Button
+[2022-09-23 10:55:25,624] Sort_A_Z_01: Click to Computer link
+[2022-09-23 10:55:26,121] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 10:56:58,961] Pre-condition-01: click to login link
+[2022-09-23 10:56:59,448] Pre-condition-02: enter to email katheryn.abbott@gmail.com
+[2022-09-23 10:56:59,568] Pre-condition-03: enter to password g^$%*6Kn6
+[2022-09-23 10:56:59,674] Pre-condition-04: click to Login Button
+[2022-09-23 10:57:00,458] Sort_A_Z_01: Click to Computer link
+[2022-09-23 10:57:00,949] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 10:59:22,155] Pre-condition-01: click to login link
+[2022-09-23 10:59:22,639] Pre-condition-02: enter to email booker.collins@hotmail.com
+[2022-09-23 10:59:22,763] Pre-condition-03: enter to password gA18xIWZ1v9
+[2022-09-23 10:59:22,871] Pre-condition-04: click to Login Button
+[2022-09-23 10:59:23,615] Sort_A_Z_01: Click to Computer link
+[2022-09-23 10:59:24,199] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 11:02:47,405] Pre-condition-01: click to login link
+[2022-09-23 11:02:47,871] Pre-condition-02: enter to email shelia.schoen@yahoo.com
+[2022-09-23 11:02:47,999] Pre-condition-03: enter to password 3$%iv&wL
+[2022-09-23 11:02:48,098] Pre-condition-04: click to Login Button
+[2022-09-23 11:02:48,826] Sort_A_Z_01: Click to Computer link
+[2022-09-23 11:02:49,405] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 11:02:52,773] Sort_A_Z_03: Select A-Z in Dropdown
+[2022-09-23 11:02:52,849] Sort_A_Z_04: Verify result
+[2022-09-23 11:15:28,204] Pre-condition-01: click to login link
+[2022-09-23 11:15:28,711] Pre-condition-02: enter to email rolanda.purdy@hotmail.com
+[2022-09-23 11:15:28,874] Pre-condition-03: enter to password *XimO01414G
+[2022-09-23 11:15:29,138] Pre-condition-04: click to Login Button
+[2022-09-23 11:15:29,835] Sort_A_Z_01: Click to Computer link
+[2022-09-23 11:15:30,355] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 11:15:32,886] Sort_A_Z_03: Select A-Z in Dropdown
+[2022-09-23 11:15:32,973] Sort_A_Z_04: Verify result
+[2022-09-23 11:15:33,048] Sort_Z_A_01: Click to Computer link
+[2022-09-23 11:15:34,027] Sort_Z_A_02: Click to Notebook link
+[2022-09-23 11:15:36,444] Sort_Z_A_03: Select A-Z in Dropdown
+[2022-09-23 11:15:36,517] Sort_Z_A_04: Verify result
+[2022-09-23 11:15:36,591] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 11:15:36,975] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 11:15:39,490] Sort_Low_To_Price_03: Select A-Z in Dropdown
+[2022-09-23 11:15:39,561] Sort_Low_To_Price_04: Verify result
+[2022-09-23 11:15:39,633] Sort_High_To_Low_01: Click to Computer link
+[2022-09-23 11:15:40,052] Sort_High_To_Low_02: Click to Notebook link
+[2022-09-23 11:15:42,477] Sort_High_To_Low_03: Select A-Z in Dropdown
+[2022-09-23 11:15:42,548] Sort_High_To_Low_04: Verify result
+[2022-09-23 11:24:15,093] Pre-condition-01: click to login link
+[2022-09-23 11:24:15,606] Pre-condition-02: enter to email albert.halvorson@gmail.com
+[2022-09-23 11:24:15,728] Pre-condition-03: enter to password I^R8&r5vvLN
+[2022-09-23 11:24:15,840] Pre-condition-04: click to Login Button
+[2022-09-23 11:24:16,542] Sort_A_Z_01: Click to Computer link
+[2022-09-23 11:24:17,126] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 11:24:19,640] Sort_A_Z_03: Select A-Z in Dropdown
+[2022-09-23 11:24:19,724] Sort_A_Z_04: Verify result
+[2022-09-23 11:24:19,793] Sort_Z_A_01: Click to Computer link
+[2022-09-23 11:24:20,821] Sort_Z_A_02: Click to Notebook link
+[2022-09-23 11:24:23,252] Sort_Z_A_03: Select A-Z in Dropdown
+[2022-09-23 11:24:23,331] Sort_Z_A_04: Verify result
+[2022-09-23 11:24:23,401] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 11:24:23,774] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 11:24:26,261] Sort_Low_To_Price_03: Select A-Z in Dropdown
+[2022-09-23 11:24:26,331] Sort_Low_To_Price_04: Verify result
+[2022-09-23 11:24:26,352] Sort_High_To_Low_01: Click to Computer link
+[2022-09-23 11:24:26,723] Sort_High_To_Low_02: Click to Notebook link
+[2022-09-23 11:24:29,151] Sort_High_To_Low_03: Select A-Z in Dropdown
+[2022-09-23 11:24:29,253] Sort_High_To_Low_04: Verify result
+[2022-09-23 11:33:24,527] Pre-condition-01: click to login link
+[2022-09-23 11:33:25,008] Pre-condition-02: enter to email raye.rowe@gmail.com
+[2022-09-23 11:33:25,126] Pre-condition-03: enter to password WxoJXoxZV
+[2022-09-23 11:33:25,233] Pre-condition-04: click to Login Button
+[2022-09-23 11:33:25,924] Sort_A_Z_01: Click to Computer link
+[2022-09-23 11:33:26,426] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 11:33:28,909] Sort_A_Z_03: Select A-Z in Dropdown
+[2022-09-23 11:33:28,990] Sort_A_Z_04: Verify result
+[2022-09-23 11:33:29,078] Sort_Z_A_01: Click to Computer link
+[2022-09-23 11:33:30,084] Sort_Z_A_02: Click to Notebook link
+[2022-09-23 11:33:32,564] Sort_Z_A_03: Select A-Z in Dropdown
+[2022-09-23 11:33:32,643] Sort_Z_A_04: Verify result
+[2022-09-23 11:33:32,713] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 11:33:33,099] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 11:33:35,519] Sort_Low_To_Price_03: Select A-Z in Dropdown
+[2022-09-23 11:33:35,587] Sort_Low_To_Price_04: Verify result
+[2022-09-23 11:33:35,658] Sort_High_To_Low_01: Click to Computer link
+[2022-09-23 11:33:36,082] Sort_High_To_Low_02: Click to Notebook link
+[2022-09-23 11:33:38,500] Sort_High_To_Low_03: Select A-Z in Dropdown
+[2022-09-23 11:33:38,578] Sort_High_To_Low_04: Verify result
+[2022-09-23 11:36:50,999] Pre-condition-01: click to login link
+[2022-09-23 11:36:51,474] Pre-condition-02: enter to email priscilla.nolan@hotmail.com
+[2022-09-23 11:36:51,603] Pre-condition-03: enter to password 0OW1wShz25k
+[2022-09-23 11:36:51,718] Pre-condition-04: click to Login Button
+[2022-09-23 11:36:52,396] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 11:36:52,955] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 11:36:55,431] Sort_Low_To_Price_03: Select A-Z in Dropdown
+[2022-09-23 11:36:55,508] Sort_Low_To_Price_04: Verify result
+[2022-09-23 11:40:02,685] Pre-condition-01: click to login link
+[2022-09-23 11:40:03,173] Pre-condition-02: enter to email elias.boyer@gmail.com
+[2022-09-23 11:40:03,292] Pre-condition-03: enter to password ILzEvW@%
+[2022-09-23 11:40:03,397] Pre-condition-04: click to Login Button
+[2022-09-23 11:40:04,163] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 11:40:04,720] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 11:40:07,216] Sort_Low_To_Price_03: Select A-Z in Dropdown
+[2022-09-23 11:40:07,294] Sort_Low_To_Price_04: Verify result
+[2022-09-23 11:46:15,347] Pre-condition-01: click to login link
+[2022-09-23 11:46:15,822] Pre-condition-02: enter to email gus.leuschke@hotmail.com
+[2022-09-23 11:46:15,943] Pre-condition-03: enter to password Jf1wHM*ZZ
+[2022-09-23 11:46:16,049] Pre-condition-04: click to Login Button
+[2022-09-23 11:46:16,717] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 11:46:17,229] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 11:46:19,801] Sort_Low_To_Price_03: Select low to high in Dropdown
+[2022-09-23 11:46:21,883] Sort_Low_To_Price_04: Verify result
+[2022-09-23 11:48:21,842] Pre-condition-01: click to login link
+[2022-09-23 11:48:22,365] Pre-condition-02: enter to email lynell.bailey@hotmail.com
+[2022-09-23 11:48:22,494] Pre-condition-03: enter to password d33vF$@a8d7
+[2022-09-23 11:48:22,598] Pre-condition-04: click to Login Button
+[2022-09-23 11:48:23,287] Sort_A_Z_01: Click to Computer link
+[2022-09-23 11:48:23,781] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 11:48:26,378] Sort_A_Z_03: Select A-Z in Dropdown
+[2022-09-23 11:48:28,463] Sort_A_Z_04: Verify result
+[2022-09-23 11:48:28,539] Sort_Z_A_01: Click to Computer link
+[2022-09-23 11:48:28,986] Sort_Z_A_02: Click to Notebook link
+[2022-09-23 11:48:31,424] Sort_Z_A_03: Select A-Z in Dropdown
+[2022-09-23 11:48:33,502] Sort_Z_A_04: Verify result
+[2022-09-23 11:48:33,576] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 11:48:33,972] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 11:48:36,405] Sort_Low_To_Price_03: Select low to high in Dropdown
+[2022-09-23 11:48:38,510] Sort_Low_To_Price_04: Verify result
+[2022-09-23 11:48:38,582] Sort_High_To_Low_01: Click to Computer link
+[2022-09-23 11:48:38,988] Sort_High_To_Low_02: Click to Notebook link
+[2022-09-23 11:48:41,504] Sort_High_To_Low_03: Select A-Z in Dropdown
+[2022-09-23 11:48:43,591] Sort_High_To_Low_04: Verify result
+[2022-09-23 14:44:33,495] Pre-condition-01: click to login link
+[2022-09-23 14:44:33,994] Pre-condition-02: enter to email odell.bernier@yahoo.com
+[2022-09-23 14:44:34,124] Pre-condition-03: enter to password q8#va%rZ
+[2022-09-23 14:44:34,236] Pre-condition-04: click to Login Button
+[2022-09-23 14:44:34,915] Sort_A_Z_01: Click to Computer link
+[2022-09-23 14:44:35,510] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 14:44:38,033] Sort_A_Z_03: Select A-Z in Dropdown
+[2022-09-23 14:44:40,136] Sort_A_Z_04: Verify result
+[2022-09-23 14:44:40,226] Sort_Z_A_01: Click to Computer link
+[2022-09-23 14:44:40,609] Sort_Z_A_02: Click to Notebook link
+[2022-09-23 14:44:43,125] Sort_Z_A_03: Select A-Z in Dropdown
+[2022-09-23 14:44:45,197] Sort_Z_A_04: Verify result
+[2022-09-23 14:44:45,271] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 14:44:45,764] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 14:44:48,219] Sort_Low_To_Price_03: Select low to high in Dropdown
+[2022-09-23 14:44:50,293] Sort_Low_To_Price_04: Verify result
+[2022-09-23 14:44:50,364] Sort_High_To_Low_01: Click to Computer link
+[2022-09-23 14:44:50,808] Sort_High_To_Low_02: Click to Notebook link
+[2022-09-23 14:44:53,344] Sort_High_To_Low_03: Select High to Low in Dropdown
+[2022-09-23 14:44:55,418] Sort_High_To_Low_04: Verify result
+[2022-09-23 14:44:55,486] Displayed_3_01: Click to Computer link
+[2022-09-23 14:44:55,896] Displayed_3_02: Click to Notebook link
+[2022-09-23 14:44:58,304] Displayed_3_03: Select 3 in Dropdown
+[2022-09-23 14:45:00,388] Displayed_3_04: Verify total product is shown correct
+[2022-09-23 14:45:00,445] Displayed_3_05: Verify next button is displayed
+[2022-09-23 14:45:00,481] Displayed_3_06: Click to page 2
+[2022-09-23 14:45:00,544] Displayed_3_07: Verify previous button is displayed
+[2022-09-23 14:45:00,918] Displayed_6_01: Click to Computer link
+[2022-09-23 14:45:01,426] Displayed_6_02: Click to Notebook link
+[2022-09-23 14:45:03,890] Displayed_6_03: Select 3 in Dropdown
+[2022-09-23 14:45:05,964] Displayed_6_04: Verify result
+[2022-09-23 14:45:06,016] Displayed_3_05: Verify next button is NOT displayed
+[2022-09-23 14:45:52,648] Pre-condition-01: click to login link
+[2022-09-23 14:45:53,159] Pre-condition-02: enter to email sharen.smitham@hotmail.com
+[2022-09-23 14:45:53,287] Pre-condition-03: enter to password cFh!VGM0
+[2022-09-23 14:45:53,398] Pre-condition-04: click to Login Button
+[2022-09-23 14:45:54,177] Sort_A_Z_01: Click to Computer link
+[2022-09-23 14:45:54,669] Sort_A_Z_02: Click to Notebook link
+[2022-09-23 14:45:57,143] Sort_A_Z_03: Select A-Z in Dropdown
+[2022-09-23 14:45:59,234] Sort_A_Z_04: Verify result
+[2022-09-23 14:45:59,308] Sort_Z_A_01: Click to Computer link
+[2022-09-23 14:45:59,708] Sort_Z_A_02: Click to Notebook link
+[2022-09-23 14:46:02,132] Sort_Z_A_03: Select A-Z in Dropdown
+[2022-09-23 14:46:04,203] Sort_Z_A_04: Verify result
+[2022-09-23 14:46:04,275] Sort_Low_To_Price_01: Click to Computer link
+[2022-09-23 14:46:04,725] Sort_Low_To_Price_02: Click to Notebook link
+[2022-09-23 14:46:07,135] Sort_Low_To_Price_03: Select low to high in Dropdown
+[2022-09-23 14:46:09,210] Sort_Low_To_Price_04: Verify result
+[2022-09-23 14:46:09,284] Sort_High_To_Low_01: Click to Computer link
+[2022-09-23 14:46:09,709] Sort_High_To_Low_02: Click to Notebook link
+[2022-09-23 14:46:12,197] Sort_High_To_Low_03: Select High to Low in Dropdown
+[2022-09-23 14:46:14,272] Sort_High_To_Low_04: Verify result
+[2022-09-23 14:46:14,339] Displayed_3_01: Click to Computer link
+[2022-09-23 14:46:14,744] Displayed_3_02: Click to Notebook link
+[2022-09-23 14:46:17,171] Displayed_3_03: Select 3 in Dropdown
+[2022-09-23 14:46:19,257] Displayed_3_04: Verify total product is shown correct
+[2022-09-23 14:46:19,325] Displayed_3_05: Verify next button is displayed
+[2022-09-23 14:46:19,360] Displayed_3_06: Click to page 2
+[2022-09-23 14:46:19,435] Displayed_3_07: Verify previous button is displayed
+[2022-09-23 14:46:19,803] Displayed_6_01: Click to Computer link
+[2022-09-23 14:46:20,207] Displayed_6_02: Click to Notebook link
+[2022-09-23 14:46:22,736] Displayed_6_03: Select 3 in Dropdown
+[2022-09-23 14:46:24,788] Displayed_6_04: Verify result
+[2022-09-23 14:46:24,869] Displayed_3_05: Verify next button is NOT displayed
+[2022-09-23 14:47:58,440] Pre-condition-01: click to login link
+[2022-09-23 14:47:58,890] Pre-condition-02: enter to email kelsie.schuppe@gmail.com
+[2022-09-23 14:47:59,008] Pre-condition-03: enter to password ^96*F2qL&E!
+[2022-09-23 14:47:59,121] Pre-condition-04: click to Login Button
+[2022-09-23 14:47:59,930] Displayed_6_01: Click to Computer link
+[2022-09-23 14:48:00,518] Displayed_6_02: Click to Notebook link
+[2022-09-23 14:48:02,991] Displayed_6_03: Select 3 in Dropdown
+[2022-09-23 14:48:05,047] Displayed_6_04: Verify result
+[2022-09-23 14:48:05,132] Displayed_3_05: Verify next button is NOT displayed
+[2022-09-23 14:51:39,023] Pre-condition-01: click to login link
+[2022-09-23 14:51:39,508] Pre-condition-02: enter to email veronica.anderson@gmail.com
+[2022-09-23 14:51:39,637] Pre-condition-03: enter to password i@NrJgCUk*
+[2022-09-23 14:51:39,745] Pre-condition-04: click to Login Button
+[2022-09-23 14:51:40,414] Displayed_6_01: Click to Computer link
+[2022-09-23 14:51:40,984] Displayed_6_02: Click to Notebook link
+[2022-09-23 14:51:43,503] Displayed_6_03: Select 3 in Dropdown
+[2022-09-23 14:51:45,562] Displayed_6_04: Verify result
+[2022-09-23 14:51:45,647] Displayed_3_05: Verify next button is NOT displayed
+[2022-09-23 14:55:59,345] Pre-condition-01: click to login link
+[2022-09-23 14:55:59,839] Pre-condition-02: enter to email andree.aufderhar@hotmail.com
+[2022-09-23 14:55:59,963] Pre-condition-03: enter to password 47^lNvqJ
+[2022-09-23 14:56:00,075] Pre-condition-04: click to Login Button
+[2022-09-23 14:56:00,794] Displayed_6_01: Click to Computer link
+[2022-09-23 14:56:01,293] Displayed_6_02: Click to Notebook link
+[2022-09-23 14:56:03,796] Displayed_6_03: Select 3 in Dropdown
+[2022-09-23 14:56:05,851] Displayed_6_04: Verify result
+[2022-09-23 14:56:05,934] Displayed_3_05: Verify next button is NOT displayed
+[2022-09-23 14:56:41,029] Displayed_3_06: Verify page 1,2 is NOT displayed
+[2022-09-23 14:58:29,433] Pre-condition-01: click to login link
+[2022-09-23 14:58:29,927] Pre-condition-02: enter to email augustus.klocko@hotmail.com
+[2022-09-23 14:58:30,059] Pre-condition-03: enter to password F21GA43uh
+[2022-09-23 14:58:30,181] Pre-condition-04: click to Login Button
+[2022-09-23 14:58:30,956] Displayed_6_01: Click to Computer link
+[2022-09-23 14:58:31,478] Displayed_6_02: Click to Notebook link
+[2022-09-23 14:58:33,999] Displayed_6_03: Select 3 in Dropdown
+[2022-09-23 14:58:36,059] Displayed_6_04: Verify result
+[2022-09-23 14:58:36,143] Displayed_3_05: Verify next button is NOT displayed
+[2022-09-23 14:58:56,251] Displayed_3_06: Verify page 1,2 is NOT displayed
+[2022-09-23 14:59:36,400] Displayed_9_01: Click to Computer link
+[2022-09-23 14:59:36,890] Displayed_9_02: Click to Notebook link
+[2022-09-23 14:59:39,327] Displayed_9_03: Select 3 in Dropdown
+[2022-09-23 14:59:41,411] Displayed_9_04: Verify result
+[2022-09-23 14:59:41,496] Displayed_9_05: Verify next button is NOT displayed
+[2022-09-23 15:00:01,555] Displayed_9_06: Verify page 1,2 is NOT displayed

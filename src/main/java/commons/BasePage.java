@@ -167,6 +167,9 @@ public class BasePage {
 	public List<WebElement> getListWebElement(WebDriver driver, String locatorType) {
 		return driver.findElements(getByLocator(locatorType));
 	}
+	public List<WebElement> getListWebElement(WebDriver driver, String locatorType, String... dynamicValues) {
+		return driver.findElements(getByLocator(getDynamicXpath(locatorType, dynamicValues)));
+	}
 
 	public void clickToElement(WebDriver driver, String locatorType) {
 		if (driver.toString().contains("internet explorer")) {

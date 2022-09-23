@@ -1,48 +1,16 @@
-[2022-09-22 18:47:49,833] Pre-condition-01: click to login link
-[2022-09-22 18:47:50,291] Pre-condition-02: enter to email lucienne.altenwerth@gmail.com
-[2022-09-22 18:47:50,414] Pre-condition-03: enter to password q%M%%We%O
-[2022-09-22 18:47:50,517] Pre-condition-04: click to Login Button
-[2022-09-22 18:47:51,186] Search_Empty_Data_01: click to search link
-[2022-09-22 18:47:53,698] Search_Empty_Data_02: click to search button
-[2022-09-22 18:47:56,149] Search_Empty_Data_03: Verify error message
-[2022-09-22 18:47:56,203] Search_Data_Not_Exists_01: click to search link
-[2022-09-22 18:47:58,576] Search_Data_Not_Exists_02: enter data not exist into search textbox
-[2022-09-22 18:47:58,685] Search_Data_Not_Exists_03: click to search button
-[2022-09-22 18:48:01,093] Search_Data_Not_Exists_04: Verify error message
-[2022-09-22 18:48:01,134] Search_Relative_Data_01: click to search link
-[2022-09-22 18:48:03,551] Search_Relative_Data_02: enter relative data into search textbox
-[2022-09-22 18:48:03,654] Search_Relative_Data_03: click to search button
-[2022-09-22 18:48:06,114] Search_Relative_Data_04: Verify result
-[2022-09-22 18:48:06,221] Search_Absolute_Data_01: click to search link
-[2022-09-22 18:48:08,645] Search_Absolute_Data_02: enter absolute data into search textbox
-[2022-09-22 18:48:08,756] Search_Absolute_Data_03: click to search button
-[2022-09-22 18:48:11,205] Search_Absolute_Data_04: Verify result
-[2022-09-22 18:48:11,267] Advanced_Search_With_Parent_01: click to search link
-[2022-09-22 18:48:13,759] Advanced_Search_With_Parent_02: enter data  into search textbox
-[2022-09-22 18:48:13,872] Advanced_Search_With_Parent_03: click search textbox
-[2022-09-22 18:48:13,945] Advanced_Search_With_Parent_04: select computers in dropdown
-[2022-09-22 18:48:14,061] Advanced_Search_With_Parent_05: click to search button
-[2022-09-22 18:48:16,532] Advanced_Search_With_Parent_06: Verify error message
-[2022-09-22 18:48:16,570] Advanced_Search_With_Sub_01: click to search link
-[2022-09-22 18:48:18,977] Advanced_Search_With_Sub_02: enter data  into search textbox
-[2022-09-22 18:48:19,095] Advanced_Search_With_Sub_03: click search textbox
-[2022-09-22 18:48:19,165] Advanced_Search_With_Sub_04: select computers in dropdown
-[2022-09-22 18:48:19,236] Advanced_Search_With_Sub_05: click Auto textbox
-[2022-09-22 18:48:19,311] Advanced_Search_With_Sub_06: click to search button
-[2022-09-22 18:48:21,863] Advanced_Search_With_Sub_07: Verify result
-[2022-09-22 18:48:21,927] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
-[2022-09-22 18:48:24,407] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
-[2022-09-22 18:48:24,519] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
-[2022-09-22 18:48:24,584] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
-[2022-09-22 18:48:24,651] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
-[2022-09-22 18:48:24,724] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
-[2022-09-22 18:48:24,791] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
-[2022-09-22 18:48:27,282] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
-[2022-09-22 18:48:27,322] Advanced_Search_Correct_Manuafacturer_01: click to search link
-[2022-09-22 18:48:29,735] Advanced_Search_Correct_Manuafacturer_02: enter data  into search textbox
-[2022-09-22 18:48:29,844] Advanced_Search_Correct_Manuafacturer_03: click search textbox
-[2022-09-22 18:48:29,913] Advanced_Search_Correct_Manuafacturer_04: select computers in dropdown
-[2022-09-22 18:48:29,983] Advanced_Search_Correct_Manuafacturer_05: click Auto textbox
-[2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
-[2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
-[2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+[2022-09-23 14:58:29,433] Pre-condition-01: click to login link
+[2022-09-23 14:58:29,927] Pre-condition-02: enter to email augustus.klocko@hotmail.com
+[2022-09-23 14:58:30,059] Pre-condition-03: enter to password F21GA43uh
+[2022-09-23 14:58:30,181] Pre-condition-04: click to Login Button
+[2022-09-23 14:58:30,956] Displayed_6_01: Click to Computer link
+[2022-09-23 14:58:31,478] Displayed_6_02: Click to Notebook link
+[2022-09-23 14:58:33,999] Displayed_6_03: Select 3 in Dropdown
+[2022-09-23 14:58:36,059] Displayed_6_04: Verify result
+[2022-09-23 14:58:36,143] Displayed_3_05: Verify next button is NOT displayed
+[2022-09-23 14:58:56,251] Displayed_3_06: Verify page 1,2 is NOT displayed
+[2022-09-23 14:59:36,400] Displayed_9_01: Click to Computer link
+[2022-09-23 14:59:36,890] Displayed_9_02: Click to Notebook link
+[2022-09-23 14:59:39,327] Displayed_9_03: Select 3 in Dropdown
+[2022-09-23 14:59:41,411] Displayed_9_04: Verify result
+[2022-09-23 14:59:41,496] Displayed_9_05: Verify next button is NOT displayed
+[2022-09-23 15:00:01,555] Displayed_9_06: Verify page 1,2 is NOT displayed

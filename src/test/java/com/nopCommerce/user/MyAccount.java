@@ -298,7 +298,7 @@ public class MyAccount {
 
 		@AfterClass(alwaysRun = true)
 		public void afterClass() {
-//			closeBrowserAndDriver();
+			closeBrowserAndDriver();
 		}
 
 		private WebDriver driver;

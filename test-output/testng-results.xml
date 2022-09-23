@@ -1,205 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="10" passed="9" failed="0" skipped="0">
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[2022-09-22 18:47:49,833] Pre-condition-01: click to login link
+      <![CDATA[[2022-09-23 14:58:29,433] Pre-condition-01: click to login link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:50,291] Pre-condition-02: enter to email lucienne.altenwerth@gmail.com
+      <![CDATA[[2022-09-23 14:58:29,927] Pre-condition-02: enter to email augustus.klocko@hotmail.com
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:50,414] Pre-condition-03: enter to password q%M%%We%O
+      <![CDATA[[2022-09-23 14:58:30,059] Pre-condition-03: enter to password F21GA43uh
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:50,517] Pre-condition-04: click to Login Button
+      <![CDATA[[2022-09-23 14:58:30,181] Pre-condition-04: click to Login Button
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:51,186] Search_Empty_Data_01: click to search link
+      <![CDATA[[2022-09-23 14:58:30,956] Displayed_6_01: Click to Computer link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:53,698] Search_Empty_Data_02: click to search button
+      <![CDATA[[2022-09-23 14:58:31,478] Displayed_6_02: Click to Notebook link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:56,149] Search_Empty_Data_03: Verify error message
+      <![CDATA[[2022-09-23 14:58:33,999] Displayed_6_03: Select 3 in Dropdown
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:56,203] Search_Data_Not_Exists_01: click to search link
+      <![CDATA[[2022-09-23 14:58:36,059] Displayed_6_04: Verify result
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:58,576] Search_Data_Not_Exists_02: enter data not exist into search textbox
+      <![CDATA[[2022-09-23 14:58:36,143] Displayed_3_05: Verify next button is NOT displayed
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:47:58,685] Search_Data_Not_Exists_03: click to search button
+      <![CDATA[[2022-09-23 14:58:56,251] Displayed_3_06: Verify page 1,2 is NOT displayed
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:48:01,093] Search_Data_Not_Exists_04: Verify error message
+      <![CDATA[[2022-09-23 14:59:36,400] Displayed_9_01: Click to Computer link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:48:01,134] Search_Relative_Data_01: click to search link
+      <![CDATA[[2022-09-23 14:59:36,890] Displayed_9_02: Click to Notebook link
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:48:03,551] Search_Relative_Data_02: enter relative data into search textbox
+      <![CDATA[[2022-09-23 14:59:39,327] Displayed_9_03: Select 3 in Dropdown
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:48:03,654] Search_Relative_Data_03: click to search button
+      <![CDATA[[2022-09-23 14:59:41,411] Displayed_9_04: Verify result
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:48:06,114] Search_Relative_Data_04: Verify result
+      <![CDATA[[2022-09-23 14:59:41,496] Displayed_9_05: Verify next button is NOT displayed
 <br>]]>
     </line>
     <line>
-      <![CDATA[[2022-09-22 18:48:06,221] Search_Absolute_Data_01: click to search link
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:08,645] Search_Absolute_Data_02: enter absolute data into search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:08,756] Search_Absolute_Data_03: click to search button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:11,205] Search_Absolute_Data_04: Verify result
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:11,267] Advanced_Search_With_Parent_01: click to search link
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:13,759] Advanced_Search_With_Parent_02: enter data  into search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:13,872] Advanced_Search_With_Parent_03: click search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:13,945] Advanced_Search_With_Parent_04: select computers in dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:14,061] Advanced_Search_With_Parent_05: click to search button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:16,532] Advanced_Search_With_Parent_06: Verify error message
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:16,570] Advanced_Search_With_Sub_01: click to search link
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:18,977] Advanced_Search_With_Sub_02: enter data  into search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:19,095] Advanced_Search_With_Sub_03: click search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:19,165] Advanced_Search_With_Sub_04: select computers in dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:19,236] Advanced_Search_With_Sub_05: click Auto textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:19,311] Advanced_Search_With_Sub_06: click to search button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:21,863] Advanced_Search_With_Sub_07: Verify result
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:21,927] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:24,407] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:24,519] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:24,584] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:24,651] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:24,724] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:24,791] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:27,282] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:27,322] Advanced_Search_Correct_Manuafacturer_01: click to search link
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:29,735] Advanced_Search_Correct_Manuafacturer_02: enter data  into search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:29,844] Advanced_Search_Correct_Manuafacturer_03: click search textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:29,913] Advanced_Search_Correct_Manuafacturer_04: select computers in dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:29,983] Advanced_Search_Correct_Manuafacturer_05: click Auto textbox
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
-<br>]]>
-    </line>
-    <line>
-      <![CDATA[[2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
+      <![CDATA[[2022-09-23 15:00:01,555] Displayed_9_06: Verify page 1,2 is NOT displayed
 <br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-09-22T11:47:33Z" name="NopCommerce" finished-at="2022-09-22T11:48:32Z" duration-ms="59496">
+  <suite started-at="2022-09-23T07:58:11Z" name="NopCommerce" finished-at="2022-09-23T08:00:41Z" duration-ms="150574">
     <groups>
     </groups>
-    <test started-at="2022-09-22T11:47:33Z" name="Run on firefox" finished-at="2022-09-22T11:48:32Z" duration-ms="59496">
-      <class name="com.nopCommerce.user.Search">
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:47:46Z" name="beforeClass" finished-at="2022-09-22T11:47:51Z" duration-ms="5066" status="PASS">
+    <test started-at="2022-09-23T07:58:11Z" name="Run on firefox" finished-at="2022-09-23T08:00:41Z" duration-ms="150574">
+      <class name="com.nopCommerce.user.Sort">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopCommerce.user.Sort@210ab13f]" started-at="2022-09-23T07:58:25Z" name="beforeClass" finished-at="2022-09-23T07:58:30Z" duration-ms="5512" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -214,242 +86,90 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[[2022-09-22 18:47:49,833] Pre-condition-01: click to login link
+              <![CDATA[[2022-09-23 14:58:29,433] Pre-condition-01: click to login link
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:47:50,291] Pre-condition-02: enter to email lucienne.altenwerth@gmail.com
+              <![CDATA[[2022-09-23 14:58:29,927] Pre-condition-02: enter to email augustus.klocko@hotmail.com
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:47:50,414] Pre-condition-03: enter to password q%M%%We%O
+              <![CDATA[[2022-09-23 14:58:30,059] Pre-condition-03: enter to password F21GA43uh
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:47:50,517] Pre-condition-04: click to Login Button
+              <![CDATA[[2022-09-23 14:58:30,181] Pre-condition-04: click to Login Button
 <br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Search_Empty_Data()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:47:51Z" name="TC_01_Search_Empty_Data" finished-at="2022-09-22T11:47:56Z" duration-ms="5016" status="PASS">
+        <test-method signature="TC_06_Displayed_6_Products()[pri:0, instance:com.nopCommerce.user.Sort@210ab13f]" started-at="2022-09-23T07:58:30Z" name="TC_06_Displayed_6_Products" finished-at="2022-09-23T07:59:36Z" duration-ms="65443" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[2022-09-22 18:47:51,186] Search_Empty_Data_01: click to search link
+              <![CDATA[[2022-09-23 14:58:30,956] Displayed_6_01: Click to Computer link
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:47:53,698] Search_Empty_Data_02: click to search button
+              <![CDATA[[2022-09-23 14:58:31,478] Displayed_6_02: Click to Notebook link
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:47:56,149] Search_Empty_Data_03: Verify error message
+              <![CDATA[[2022-09-23 14:58:33,999] Displayed_6_03: Select 3 in Dropdown
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-23 14:58:36,059] Displayed_6_04: Verify result
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-23 14:58:36,143] Displayed_3_05: Verify next button is NOT displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-23 14:58:56,251] Displayed_3_06: Verify page 1,2 is NOT displayed
 <br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_01_Search_Empty_Data -->
-        <test-method signature="TC_02_Search_Data_Not_Exists()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:47:56Z" name="TC_02_Search_Data_Not_Exists" finished-at="2022-09-22T11:48:01Z" duration-ms="4931" status="PASS">
+        </test-method> <!-- TC_06_Displayed_6_Products -->
+        <test-method signature="TC_07_Displayed_9_Products()[pri:0, instance:com.nopCommerce.user.Sort@210ab13f]" started-at="2022-09-23T07:59:36Z" name="TC_07_Displayed_9_Products" finished-at="2022-09-23T08:00:41Z" duration-ms="65223" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[2022-09-22 18:47:56,203] Search_Data_Not_Exists_01: click to search link
+              <![CDATA[[2022-09-23 14:59:36,400] Displayed_9_01: Click to Computer link
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:47:58,576] Search_Data_Not_Exists_02: enter data not exist into search textbox
+              <![CDATA[[2022-09-23 14:59:36,890] Displayed_9_02: Click to Notebook link
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:47:58,685] Search_Data_Not_Exists_03: click to search button
+              <![CDATA[[2022-09-23 14:59:39,327] Displayed_9_03: Select 3 in Dropdown
 <br>]]>
             </line>
             <line>
-              <![CDATA[[2022-09-22 18:48:01,093] Search_Data_Not_Exists_04: Verify error message
+              <![CDATA[[2022-09-23 14:59:41,411] Displayed_9_04: Verify result
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-23 14:59:41,496] Displayed_9_05: Verify next button is NOT displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2022-09-23 15:00:01,555] Displayed_9_06: Verify page 1,2 is NOT displayed
 <br>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_02_Search_Data_Not_Exists -->
-        <test-method signature="TC_03_Search_Relative_Data()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:01Z" name="TC_03_Search_Relative_Data" finished-at="2022-09-22T11:48:06Z" duration-ms="5085" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-22 18:48:01,134] Search_Relative_Data_01: click to search link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:03,551] Search_Relative_Data_02: enter relative data into search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:03,654] Search_Relative_Data_03: click to search button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:06,114] Search_Relative_Data_04: Verify result
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_03_Search_Relative_Data -->
-        <test-method signature="TC_04_Search_Absolute_Data()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:06Z" name="TC_04_Search_Absolute_Data" finished-at="2022-09-22T11:48:11Z" duration-ms="5046" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-22 18:48:06,221] Search_Absolute_Data_01: click to search link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:08,645] Search_Absolute_Data_02: enter absolute data into search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:08,756] Search_Absolute_Data_03: click to search button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:11,205] Search_Absolute_Data_04: Verify result
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_04_Search_Absolute_Data -->
-        <test-method signature="TC_05_Advanced_Search_With_Parent()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:11Z" name="TC_05_Advanced_Search_With_Parent" finished-at="2022-09-22T11:48:16Z" duration-ms="5302" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-22 18:48:11,267] Advanced_Search_With_Parent_01: click to search link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:13,759] Advanced_Search_With_Parent_02: enter data  into search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:13,872] Advanced_Search_With_Parent_03: click search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:13,945] Advanced_Search_With_Parent_04: select computers in dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:14,061] Advanced_Search_With_Parent_05: click to search button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:16,532] Advanced_Search_With_Parent_06: Verify error message
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_05_Advanced_Search_With_Parent -->
-        <test-method signature="TC_06_Advanced_Search_With_Sub()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:16Z" name="TC_06_Advanced_Search_With_Sub" finished-at="2022-09-22T11:48:21Z" duration-ms="5355" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-22 18:48:16,570] Advanced_Search_With_Sub_01: click to search link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:18,977] Advanced_Search_With_Sub_02: enter data  into search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:19,095] Advanced_Search_With_Sub_03: click search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:19,165] Advanced_Search_With_Sub_04: select computers in dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:19,236] Advanced_Search_With_Sub_05: click Auto textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:19,311] Advanced_Search_With_Sub_06: click to search button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:21,863] Advanced_Search_With_Sub_07: Verify result
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_06_Advanced_Search_With_Sub -->
-        <test-method signature="TC_07_Advanced_Search_Incorrect_Manuafacturer()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:21Z" name="TC_07_Advanced_Search_Incorrect_Manuafacturer" finished-at="2022-09-22T11:48:27Z" duration-ms="5395" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-22 18:48:21,927] Advanced_Search_Incorrect_Manuafacturer_01: click to search link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:24,407] Advanced_Search_Incorrect_Manuafacturer_02: enter data  into search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:24,519] Advanced_Search_Incorrect_Manuafacturer_03: click search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:24,584] Advanced_Search_Incorrect_Manuafacturer_04: select computers in dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:24,651] Advanced_Search_Incorrect_Manuafacturer_05: click Auto textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:24,724] Advanced_Search_Incorrect_Manuafacturer_06: select computers in dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:24,791] Advanced_Search_Incorrect_Manuafacturer_07: click to search button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:27,282] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_07_Advanced_Search_Incorrect_Manuafacturer -->
-        <test-method signature="TC_08_Advanced_Search_Correct_Manuafacturer()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:27Z" name="TC_08_Advanced_Search_Correct_Manuafacturer" finished-at="2022-09-22T11:48:32Z" duration-ms="5346" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[[2022-09-22 18:48:27,322] Advanced_Search_Correct_Manuafacturer_01: click to search link
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:29,735] Advanced_Search_Correct_Manuafacturer_02: enter data  into search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:29,844] Advanced_Search_Correct_Manuafacturer_03: click search textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:29,913] Advanced_Search_Correct_Manuafacturer_04: select computers in dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:29,983] Advanced_Search_Correct_Manuafacturer_05: click Auto textbox
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:30,053] Advanced_Search_Correct_Manuafacturer_06: select computers in dropdown
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:30,122] Advanced_Search_Correct_Manuafacturer_07: click to search button
-<br>]]>
-            </line>
-            <line>
-              <![CDATA[[2022-09-22 18:48:32,608] Advanced_Search_Incorrect_Manuafacturer_08: Verify result
-<br>]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- TC_08_Advanced_Search_Correct_Manuafacturer -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopCommerce.user.Search@6f15d60e]" started-at="2022-09-22T11:48:32Z" name="afterClass" finished-at="2022-09-22T11:48:32Z" duration-ms="0" status="PASS">
+        </test-method> <!-- TC_07_Displayed_9_Products -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopCommerce.user.Sort@210ab13f]" started-at="2022-09-23T08:00:41Z" name="afterClass" finished-at="2022-09-23T08:00:41Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.nopCommerce.user.Search -->
+      </class> <!-- com.nopCommerce.user.Sort -->
       <class name="commons.RegisterNopCommercePage">
-        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:33Z" name="initBeforeSuite" finished-at="2022-09-22T11:47:33Z" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:commons.RegisterNopCommercePage@5db6b9cd]" started-at="2022-09-23T07:58:11Z" name="initBeforeSuite" finished-at="2022-09-23T07:58:11Z" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBeforeSuite -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:33Z" name="beforeClass" finished-at="2022-09-22T11:47:37Z" duration-ms="4768" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:commons.RegisterNopCommercePage@5db6b9cd]" started-at="2022-09-23T07:58:11Z" name="beforeClass" finished-at="2022-09-23T07:58:16Z" duration-ms="5838" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -465,11 +185,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_01_Register_Success()[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:37Z" name="TC_01_Register_Success" finished-at="2022-09-22T11:47:45Z" duration-ms="8012" status="PASS">
+        <test-method signature="TC_01_Register_Success()[pri:0, instance:commons.RegisterNopCommercePage@5db6b9cd]" started-at="2022-09-23T07:58:16Z" name="TC_01_Register_Success" finished-at="2022-09-23T07:58:25Z" duration-ms="8421" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_Register_Success -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:commons.RegisterNopCommercePage@7857fe2]" started-at="2022-09-22T11:47:45Z" name="afterClass" finished-at="2022-09-22T11:47:46Z" duration-ms="148" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:commons.RegisterNopCommercePage@5db6b9cd]" started-at="2022-09-23T07:58:25Z" name="afterClass" finished-at="2022-09-23T07:58:25Z" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
