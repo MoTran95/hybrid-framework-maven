@@ -2538,3 +2538,213 @@ Driver info: driver.version: RemoteWebDriver
 [2022-09-23 14:59:41,411] Displayed_9_04: Verify result
 [2022-09-23 14:59:41,496] Displayed_9_05: Verify next button is NOT displayed
 [2022-09-23 15:00:01,555] Displayed_9_06: Verify page 1,2 is NOT displayed
+[2022-09-24 08:59:54,220] Pre-condition-01: click to login link
+[2022-09-24 08:59:54,727] Pre-condition-02: enter to email katie.kertzmann@gmail.com
+[2022-09-24 08:59:54,854] Pre-condition-03: enter to password 72pZ099leZS
+[2022-09-24 08:59:54,956] Pre-condition-04: click to Login Button
+[2022-09-24 08:59:55,628] Add_To_Whishlist_01: Click to Computer link
+[2022-09-24 08:59:56,127] Add_To_Whishlist_02: Click to Product link
+[2022-09-24 08:59:56,127] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-24 09:12:09,438] Pre-condition-01: click to login link
+[2022-09-24 09:12:09,924] Pre-condition-02: enter to email wilford.gaylord@yahoo.com
+[2022-09-24 09:12:10,045] Pre-condition-03: enter to password &4^U4Th5
+[2022-09-24 09:12:10,163] Pre-condition-04: click to Login Button
+[2022-09-24 09:12:11,062] Add_To_Whishlist_01: Click to Computer link
+[2022-09-24 09:12:11,561] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-24 09:12:14,049] Add_To_Whishlist_02: Click to Product link
+[2022-09-24 09:12:14,049] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:23:32,892] Pre-condition-01: click to login link
+[2022-09-26 10:23:33,383] Pre-condition-02: enter to email jacklyn.boehm@yahoo.com
+[2022-09-26 10:23:33,532] Pre-condition-03: enter to password 7q4iG@540
+[2022-09-26 10:23:33,631] Pre-condition-04: click to Login Button
+[2022-09-26 10:23:34,500] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 10:23:35,078] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 10:23:37,597] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 10:23:39,379] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:28:24,932] Pre-condition-01: click to login link
+[2022-09-26 10:28:25,472] Pre-condition-02: enter to email frederic.bauch@gmail.com
+[2022-09-26 10:28:25,595] Pre-condition-03: enter to password aEfE4&2iN
+[2022-09-26 10:28:25,699] Pre-condition-04: click to Login Button
+[2022-09-26 10:28:26,358] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 10:28:26,967] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 10:28:29,537] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 10:28:30,602] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:28:30,670] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 10:31:13,371] Pre-condition-01: click to login link
+[2022-09-26 10:31:13,898] Pre-condition-02: enter to email mack.dare@gmail.com
+[2022-09-26 10:31:14,013] Pre-condition-03: enter to password 3WuUA@UH
+[2022-09-26 10:31:14,119] Pre-condition-04: click to Login Button
+[2022-09-26 10:31:14,875] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 10:31:15,357] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 10:31:17,886] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 10:31:19,050] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:31:19,114] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 10:31:19,498] Add_To_Whishlist_05: Click close button
+[2022-09-26 10:31:21,570] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 10:31:23,508] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 10:40:32,003] Pre-condition-01: click to login link
+[2022-09-26 10:40:32,500] Pre-condition-02: enter to email librada.johnson@yahoo.com
+[2022-09-26 10:40:32,618] Pre-condition-03: enter to password L2$y5P@YH
+[2022-09-26 10:40:32,726] Pre-condition-04: click to Login Button
+[2022-09-26 10:40:33,572] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 10:40:34,099] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 10:40:36,599] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 10:40:37,721] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:40:37,787] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 10:40:38,104] Add_To_Whishlist_05: Click close button
+[2022-09-26 10:40:40,172] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 10:40:40,648] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 10:40:40,681] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 10:40:41,042] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 10:47:05,412] Pre-condition-01: click to login link
+[2022-09-26 10:47:05,912] Pre-condition-02: enter to email dara.ernser@yahoo.com
+[2022-09-26 10:47:06,032] Pre-condition-03: enter to password R8x4#0IVpl
+[2022-09-26 10:47:06,141] Pre-condition-04: click to Login Button
+[2022-09-26 10:47:06,887] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 10:47:07,374] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 10:47:09,886] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 10:47:11,208] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:47:11,274] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 10:47:11,590] Add_To_Whishlist_05: Click close button
+[2022-09-26 10:47:13,660] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 10:47:14,175] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 10:47:14,212] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 10:47:14,659] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 10:56:13,067] Pre-condition-01: click to login link
+[2022-09-26 10:56:13,550] Pre-condition-02: enter to email rodger.renner@gmail.com
+[2022-09-26 10:56:13,672] Pre-condition-03: enter to password Rf$8Iffm%G9
+[2022-09-26 10:56:13,775] Pre-condition-04: click to Login Button
+[2022-09-26 10:56:14,495] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 10:56:15,099] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 10:56:17,650] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 10:56:18,767] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:56:18,831] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 10:56:19,145] Add_To_Whishlist_05: Click close button
+[2022-09-26 10:56:21,223] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 10:56:21,710] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 10:56:21,745] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 10:56:22,214] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 10:58:10,261] Pre-condition-01: click to login link
+[2022-09-26 10:58:10,770] Pre-condition-02: enter to email danny.kling@gmail.com
+[2022-09-26 10:58:10,889] Pre-condition-03: enter to password WZf#&#$@5
+[2022-09-26 10:58:11,001] Pre-condition-04: click to Login Button
+[2022-09-26 10:58:11,669] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 10:58:12,187] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 10:58:14,635] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 10:58:15,713] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 10:58:15,780] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 10:58:16,097] Add_To_Whishlist_05: Click close button
+[2022-09-26 10:58:18,168] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 10:58:18,644] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 10:58:18,692] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 10:58:19,058] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 14:34:24,749] Pre-condition-01: click to login link
+[2022-09-26 14:34:25,273] Pre-condition-02: enter to email antone.halvorson@gmail.com
+[2022-09-26 14:34:25,398] Pre-condition-03: enter to password #BS$U%6%P
+[2022-09-26 14:34:25,525] Pre-condition-04: click to Login Button
+[2022-09-26 14:34:26,240] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 14:34:26,763] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 14:34:29,252] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 14:34:30,475] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 14:34:30,545] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 14:34:30,915] Add_To_Whishlist_05: Click close button
+[2022-09-26 14:34:32,989] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 14:34:33,593] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 14:34:33,626] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 14:34:33,999] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 14:34:36,045] Add_To_Cart_01: click to checkbox
+[2022-09-26 14:34:36,112] Add_To_Cart_02: click to Add to cart
+[2022-09-26 14:34:36,929] Add_To_Cart_03: Verify page title
+[2022-09-26 14:34:36,964] Add_To_Cart_04: Verify the product is added
+[2022-09-26 14:45:57,007] Pre-condition-01: click to login link
+[2022-09-26 14:45:57,525] Pre-condition-02: enter to email gianna.ratke@yahoo.com
+[2022-09-26 14:45:57,642] Pre-condition-03: enter to password !V34dAgdU
+[2022-09-26 14:45:57,752] Pre-condition-04: click to Login Button
+[2022-09-26 14:45:58,474] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 14:45:58,977] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 14:46:01,547] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 14:46:02,603] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 14:46:02,673] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 14:46:03,064] Add_To_Whishlist_05: Click close button
+[2022-09-26 14:46:05,137] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 14:46:05,642] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 14:46:05,678] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 14:46:06,138] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 14:46:08,192] Add_To_Cart_01: click to checkbox
+[2022-09-26 14:46:08,255] Add_To_Cart_02: click to Add to cart
+[2022-09-26 14:46:09,164] Add_To_Cart_03: Verify page title
+[2022-09-26 14:46:09,202] Add_To_Cart_04: Verify the product is added
+[2022-09-26 14:51:23,350] Pre-condition-01: click to login link
+[2022-09-26 14:51:23,877] Pre-condition-02: enter to email armida.smith@yahoo.com
+[2022-09-26 14:51:24,001] Pre-condition-03: enter to password 93MPQ61KfD
+[2022-09-26 14:51:24,103] Pre-condition-04: click to Login Button
+[2022-09-26 14:51:24,800] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 14:51:25,307] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 14:51:27,817] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 14:51:28,927] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 14:51:28,993] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 14:51:29,311] Add_To_Whishlist_05: Click close button
+[2022-09-26 14:51:31,382] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 14:51:31,928] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 14:51:31,962] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 14:51:32,382] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 14:51:34,433] Add_To_Cart_01: click to checkbox
+[2022-09-26 14:51:34,488] Add_To_Cart_02: click to Add to cart
+[2022-09-26 14:51:35,396] Add_To_Cart_03: Verify page title
+[2022-09-26 14:51:35,437] Add_To_Cart_04: Verify the product is added
+[2022-09-26 14:51:35,472] Add_To_Cart_05: click to remove button
+[2022-09-26 14:51:36,588] Add_To_Cart_06: verify product is displayed
+[2022-09-26 15:06:59,717] Pre-condition-01: click to login link
+[2022-09-26 15:07:00,203] Pre-condition-02: enter to email roxana.mosciski@gmail.com
+[2022-09-26 15:07:00,333] Pre-condition-03: enter to password ^q^7e7r30
+[2022-09-26 15:07:00,435] Pre-condition-04: click to Login Button
+[2022-09-26 15:07:01,180] Add_To_Whishlist_01: Click to Computer link
+[2022-09-26 15:07:01,674] Add_To_Whishlist_02: Click to Desktop link
+[2022-09-26 15:07:04,196] Add_To_Whishlist_02: Click to Product link
+[2022-09-26 15:07:05,231] Add_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 15:07:05,301] Add_To_Whishlist_04: Verify message is shown
+[2022-09-26 15:07:05,635] Add_To_Whishlist_05: Click close button
+[2022-09-26 15:07:07,711] Add_To_Whishlist_06: Click to whishlist link
+[2022-09-26 15:07:08,219] Add_To_Whishlist_07: Verify product is added
+[2022-09-26 15:07:08,253] Add_To_Whishlist_08: Click to whishlist link
+[2022-09-26 15:07:08,653] Add_To_Whishlist_08: Verify page title text
+[2022-09-26 15:07:10,706] Add_To_Cart_01: click to checkbox
+[2022-09-26 15:07:10,771] Add_To_Cart_02: click to Add to cart
+[2022-09-26 15:07:11,653] Add_To_Cart_03: Verify page title
+[2022-09-26 15:07:11,693] Add_To_Cart_04: Verify the product is added
+[2022-09-26 15:07:11,728] Add_To_Cart_05: click to remove button
+[2022-09-26 15:07:12,772] Add_To_Cart_06: verify message product is remove
+[2022-09-26 15:07:12,811] Remove_To_Whishlist_01: Click to Computer link
+[2022-09-26 15:07:13,291] Remove_To_Whishlist_02: Click to Desktop link
+[2022-09-26 15:07:15,753] Remove_To_Whishlist_02: Click to Product link
+[2022-09-26 15:07:16,614] Remove_To_Whishlist_03: Click add to whishlist link
+[2022-09-26 15:07:16,676] Remove_To_Whishlist_04: Verify message is shown
+[2022-09-26 15:07:17,035] Remove_To_Whishlist_05: Click close button
+[2022-09-26 15:07:19,115] Remove_To_Whishlist_06: Click to whishlist link
+[2022-09-26 15:07:19,614] Remove_To_Whishlist_07: Verify product is added
+[2022-09-26 15:07:19,650] Remove_To_Whishlist_08: Click to checkbox product
+[2022-09-26 15:07:19,702] Remove_To_Whishlist_09: Click to remove button
+[2022-09-26 15:07:20,124] Remove_To_Whishlist_10: Verify product is remove
+[2022-09-26 16:12:28,833] Pre-condition-01: click to login link
+[2022-09-26 16:12:29,349] Pre-condition-02: enter to email gregory.jenkins@gmail.com
+[2022-09-26 16:12:29,473] Pre-condition-03: enter to password 2C^&xJ1^%
+[2022-09-26 16:12:29,579] Pre-condition-04: click to Login Button
+[2022-09-26 16:12:30,270] Add_Product_Compare_01: Click to Computer link
+[2022-09-26 16:12:30,837] Add_Product_Compare_02: Click to Desktop link
+[2022-09-26 16:12:33,357] Add_Product_Compare_03: Click to add compare button
+[2022-09-26 16:15:47,471] Pre-condition-01: click to login link
+[2022-09-26 16:15:47,954] Pre-condition-02: enter to email elroy.ondricka@gmail.com
+[2022-09-26 16:15:48,076] Pre-condition-03: enter to password gnCCe*evtm9
+[2022-09-26 16:15:48,198] Pre-condition-04: click to Login Button
+[2022-09-26 16:15:48,912] Add_Product_Compare_01: Click to Computer link
+[2022-09-26 16:15:49,419] Add_Product_Compare_02: Click to Desktop link
+[2022-09-26 16:15:51,918] Add_Product_Compare_03: Click to add compare button
+[2022-09-26 16:15:51,988] Add_Product_Compare_04: Verify message is shown
+[2022-09-26 16:15:52,305] Add_Product_Compare_05: Click close to add compare button message
+[2022-09-26 16:15:54,362] Add_Product_Compare_06: Click to add compare button
+[2022-09-26 16:15:54,427] Add_Product_Compare_07: Verify message is shown
+[2022-09-26 16:15:54,738] Add_Product_Compare_08: Click close to add compare button message
+[2022-09-26 16:15:56,792] Add_Product_Compare_09: Click Compare product page
+[2022-09-26 16:15:57,320] Add_Product_Compare_10: Verify product is shown
+[2022-09-26 16:15:57,397] Add_Product_Compare_11: Click to clear button
+[2022-09-26 16:15:58,090] Add_Product_Compare_12: Verify message is shown

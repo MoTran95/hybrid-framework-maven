@@ -137,4 +137,35 @@ public class CatetoryPageObject extends BasePage{
 		waitForElementInVisible(driver, CatetoryPageUI.PAGE_BUTTON,value);
 		return isElementUndisplayed(driver, CatetoryPageUI.PAGE_BUTTON, value);
 	}
+
+	public ProductDetailsPageObject clickToProductLink(String value) {
+		waitForElementClickable(driver, CatetoryPageUI.PRODUCT_TITLE_BY_TEXT, value);
+		clickToElement(driver,CatetoryPageUI.PRODUCT_TITLE_BY_TEXT , value);
+		return PageGeneratorManagerNopCommerce.getProductDetailsPage(driver);
+	}
+
+	public void clickToAddCompareButton(String productName, String nameButton) {
+		waitForElementClickable(driver, CatetoryPageUI.ADD_BUTTON_BY_TEXT, productName, nameButton);
+		clickToElement(driver,CatetoryPageUI.ADD_BUTTON_BY_TEXT , productName, nameButton);
+		
+	}
+
+	public String getSuccessMessageDisplayed() {
+		waitForElementVisible(driver, CatetoryPageUI.ADD_MESSAGE_SUCCESS);
+		return getElementText(driver, CatetoryPageUI.ADD_MESSAGE_SUCCESS);
+		
+	}
+
+	public void clickCloseButtonMessage() {
+		waitForElementClickable(driver, CatetoryPageUI.CLOSE_MESSAGE_BUTTON);
+		clickToElement(driver,CatetoryPageUI.CLOSE_MESSAGE_BUTTON);
+		sleepInSecond(2);
+		
+	}
+
+	public CompareProductPageObject clickToCompareProductLink(String value) {
+		waitForElementClickable(driver, CatetoryPageUI.FOOTER_MENU_BY_TEXT,value);
+		clickToElement(driver,CatetoryPageUI.FOOTER_MENU_BY_TEXT,value);
+		return PageGeneratorManagerNopCommerce.getCompareProductPage(driver);
+	}
 }

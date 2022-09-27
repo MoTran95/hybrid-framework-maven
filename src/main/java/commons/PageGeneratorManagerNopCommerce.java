@@ -11,7 +11,10 @@ import pageObjects.bankGuru.payment.editNewAccountPageObject;
 import pageObjects.bankGuru.payment.homePagePageObject;
 import pageObjects.nopCommerce.user.RegisterPageObject;
 import pageObjects.nopCommerce.user.SearchPageObject;
+import pageObjects.nopCommerce.user.WhishlistPageObject;
+import pageObjects.nopCommerce.user.AddToCartPageObject;
 import pageObjects.nopCommerce.user.CatetoryPageObject;
+import pageObjects.nopCommerce.user.CompareProductPageObject;
 import pageObjects.nopCommerce.user.HomePageObject;
 import pageObjects.nopCommerce.user.MyAccountPageObject;
 import pageObjects.nopCommerce.user.ProductDetailsPageObject;
@@ -41,6 +44,15 @@ public class PageGeneratorManagerNopCommerce {
 	}
 	public static  SearchPageObject getSearchPage(WebDriver driver) {
 		return new SearchPageObject(driver);
+	}
+	public static  WhishlistPageObject getWhishlistPage(WebDriver driver) {
+		return new WhishlistPageObject(driver);
+	}
+	public static  AddToCartPageObject getAddToCartPage(WebDriver driver) {
+		return new AddToCartPageObject(driver);
+	}
+	public static  CompareProductPageObject getCompareProductPage(WebDriver driver) {
+		return new CompareProductPageObject(driver);
 	}
 
 }

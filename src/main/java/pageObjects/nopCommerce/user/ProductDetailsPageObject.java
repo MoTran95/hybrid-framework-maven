@@ -24,4 +24,29 @@ public class ProductDetailsPageObject extends BasePage {
 		clickToElement(driver,ProductDetailsPageUI.ADD_REVIEW_LINK, value);
 		return PageGeneratorManagerNopCommerce.getProductReviewPage(driver);
 	}
+
+	public void clickToAddToWhishlist(String productTitle, String addButton) {
+		waitForElementClickable(driver,ProductDetailsPageUI.ADD_BUTTON_BY_TEXT ,productTitle, addButton);
+		clickToElement(driver,ProductDetailsPageUI.ADD_BUTTON_BY_TEXT, productTitle,addButton);
+		
+	}
+
+	public String getMessageDisplayed() {
+		waitForElementVisible(driver, ProductDetailsPageUI.MESSAGE_BY_TEXT);
+		return getElementText(driver, ProductDetailsPageUI.MESSAGE_BY_TEXT);
+	}
+
+	public void clickToCloseButtonMessage() {
+		waitForElementClickable(driver,ProductDetailsPageUI.CLOSE_MESSAGE_BUTTON);
+		scrollToElement(driver, ProductDetailsPageUI.CLOSE_MESSAGE_BUTTON);
+		clickToElement(driver,ProductDetailsPageUI.CLOSE_MESSAGE_BUTTON);
+		sleepInSecond(2);
+		
+	}
+
+	public WhishlistPageObject clickToWhishlistLink(String value) {
+		waitForElementClickable(driver,ProductDetailsPageUI.FOOTER_MENU_BY_TEXT, value);
+		clickToElement(driver,ProductDetailsPageUI.FOOTER_MENU_BY_TEXT, value);
+		return PageGeneratorManagerNopCommerce.getWhishlistPage(driver);
+	}
 }

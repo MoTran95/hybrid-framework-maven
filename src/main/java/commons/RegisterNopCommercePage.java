@@ -77,8 +77,8 @@ public class RegisterNopCommercePage extends BaseTest {
 
 	private WebDriver driver;
 	private DataHelper dataFaker;
-	String firstName, lastName, date, month, year, companyName;
-	public static String email;
+	String date, month, year, companyName;
+	public static String email, firstName, lastName;
 	public static String password;
 	RegisterPageObject registerPage;
 	HomePageObject homePage;

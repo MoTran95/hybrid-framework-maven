@@ -8,7 +8,7 @@
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="commons.RegisterNopCommercePage" />
-			<class name="com.nopCommerce.user.Sort" />
+			<class name="com.nopCommerce.user.WhishlistComPareRecentView" />
 		</classes>
 	</test>
 </suite>

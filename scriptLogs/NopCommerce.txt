@@ -1,16 +1,16 @@
-[2022-09-23 14:58:29,433] Pre-condition-01: click to login link
-[2022-09-23 14:58:29,927] Pre-condition-02: enter to email augustus.klocko@hotmail.com
-[2022-09-23 14:58:30,059] Pre-condition-03: enter to password F21GA43uh
-[2022-09-23 14:58:30,181] Pre-condition-04: click to Login Button
-[2022-09-23 14:58:30,956] Displayed_6_01: Click to Computer link
-[2022-09-23 14:58:31,478] Displayed_6_02: Click to Notebook link
-[2022-09-23 14:58:33,999] Displayed_6_03: Select 3 in Dropdown
-[2022-09-23 14:58:36,059] Displayed_6_04: Verify result
-[2022-09-23 14:58:36,143] Displayed_3_05: Verify next button is NOT displayed
-[2022-09-23 14:58:56,251] Displayed_3_06: Verify page 1,2 is NOT displayed
-[2022-09-23 14:59:36,400] Displayed_9_01: Click to Computer link
-[2022-09-23 14:59:36,890] Displayed_9_02: Click to Notebook link
-[2022-09-23 14:59:39,327] Displayed_9_03: Select 3 in Dropdown
-[2022-09-23 14:59:41,411] Displayed_9_04: Verify result
-[2022-09-23 14:59:41,496] Displayed_9_05: Verify next button is NOT displayed
-[2022-09-23 15:00:01,555] Displayed_9_06: Verify page 1,2 is NOT displayed
+[2022-09-26 16:15:47,471] Pre-condition-01: click to login link
+[2022-09-26 16:15:47,954] Pre-condition-02: enter to email elroy.ondricka@gmail.com
+[2022-09-26 16:15:48,076] Pre-condition-03: enter to password gnCCe*evtm9
+[2022-09-26 16:15:48,198] Pre-condition-04: click to Login Button
+[2022-09-26 16:15:48,912] Add_Product_Compare_01: Click to Computer link
+[2022-09-26 16:15:49,419] Add_Product_Compare_02: Click to Desktop link
+[2022-09-26 16:15:51,918] Add_Product_Compare_03: Click to add compare button
+[2022-09-26 16:15:51,988] Add_Product_Compare_04: Verify message is shown
+[2022-09-26 16:15:52,305] Add_Product_Compare_05: Click close to add compare button message
+[2022-09-26 16:15:54,362] Add_Product_Compare_06: Click to add compare button
+[2022-09-26 16:15:54,427] Add_Product_Compare_07: Verify message is shown
+[2022-09-26 16:15:54,738] Add_Product_Compare_08: Click close to add compare button message
+[2022-09-26 16:15:56,792] Add_Product_Compare_09: Click Compare product page
+[2022-09-26 16:15:57,320] Add_Product_Compare_10: Verify product is shown
+[2022-09-26 16:15:57,397] Add_Product_Compare_11: Click to clear button
+[2022-09-26 16:15:58,090] Add_Product_Compare_12: Verify message is shown

@@ -8,14 +8,14 @@
   <test thread-count="5" name="Run on firefox(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.nopCommerce.user.Sort">
+      <class name="com.nopCommerce.user.WhishlistComPareRecentView">
         <methods>
-          <include name="TC_06_Displayed_6_Products"/>
-          <include name="beforeClass"/>
-          <include name="initBeforeSuite"/>
           <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="TC_04_Add_Product_Compare"/>
+          <include name="initBeforeSuite"/>
         </methods>
-      </class> <!-- com.nopCommerce.user.Sort -->
+      </class> <!-- com.nopCommerce.user.WhishlistComPareRecentView -->
     </classes>
   </test> <!-- Run on firefox(failed) -->
 </suite> <!-- Failed suite [NopCommerce] -->
