@@ -17,6 +17,7 @@ import pageObjects.nopCommerce.user.CatetoryPageObject;
 import pageObjects.nopCommerce.user.CompareProductPageObject;
 import pageObjects.nopCommerce.user.HomePageObject;
 import pageObjects.nopCommerce.user.MyAccountPageObject;
+import pageObjects.nopCommerce.user.ShoppingCartPageObject;
 import pageObjects.nopCommerce.user.ProductDetailsPageObject;
 import pageObjects.nopCommerce.user.ProductReviewPageObject;
 
@@ -54,5 +55,9 @@ public class PageGeneratorManagerNopCommerce {
 	public static  CompareProductPageObject getCompareProductPage(WebDriver driver) {
 		return new CompareProductPageObject(driver);
 	}
+	public static  ShoppingCartPageObject getShoppingCartPage(WebDriver driver) {
+		return new ShoppingCartPageObject(driver);
+	}
+	
 
 }

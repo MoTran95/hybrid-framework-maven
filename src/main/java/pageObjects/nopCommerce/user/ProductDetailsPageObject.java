@@ -49,4 +49,26 @@ public class ProductDetailsPageObject extends BasePage {
 		clickToElement(driver,ProductDetailsPageUI.FOOTER_MENU_BY_TEXT, value);
 		return PageGeneratorManagerNopCommerce.getWhishlistPage(driver);
 	}
+
+	public void selectRamDropdown(String ramDropdown) {
+		waitForElementVisible(driver, ProductDetailsPageUI.RAM_DROPDOWN);
+		selectItemInDefaultDropdown(driver, ProductDetailsPageUI.RAM_DROPDOWN, ramDropdown);
+	}
+
+	public void selectHddRadio() {
+		waitForElementVisible(driver, ProductDetailsPageUI.HDD_RADIO);
+		checkToDefaultCheckboxOrRadio(driver, ProductDetailsPageUI.HDD_RADIO);
+		
+	}
+
+	public void clickToAddToCartButton() {
+		waitForElementClickable(driver, ProductDetailsPageUI.ADD_TO_CART_BUTTON);
+		clickToElement(driver, ProductDetailsPageUI.ADD_TO_CART_BUTTON);
+	}
+
+	public ShoppingCartPageObject clickToShoppingLink(String shoppingCart) {
+		waitForElementClickable(driver, ProductDetailsPageUI.FOOTER_MENU_BY_TEXT, shoppingCart);
+		clickToElement(driver, ProductDetailsPageUI.FOOTER_MENU_BY_TEXT,shoppingCart);
+		return PageGeneratorManagerNopCommerce.getShoppingCartPage(driver);
+	}
 }
